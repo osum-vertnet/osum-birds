@@ -1,0 +1,132 @@
+Report for Institution Code OSUM, Resource osum-birds
+Usage stats for January, 2015, generated on 2015/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 199
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 12
+	Country: Unknown ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-05 ; Times: 2
+	Date: 2015-01-07 ; Times: 2
+	Date: 2015-01-08 ; Times: 4
+	Date: 2015-01-13 ; Times: 5
+	Date: 2015-01-14 ; Times: 1
+	Date: 2015-01-15 ; Times: 2
+	Date: 2015-01-17 ; Times: 3
+	Date: 2015-01-27 ; Times: 1
+	Date: 2015-01-28 ; Times: 1
+	Date: 2015-01-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Atlapetes leucopis" ; Times: 1
+	Query: "335390" ; Times: 1
+	Query: "cyrtonyx montezumae chihuahua" ; Times: 1
+	Query: "dendroica caerulea mappable:1" ; Times: 2
+	Query: "coeligena wilsoni" ; Times: 3
+	Query: "cichlopsis" ; Times: 1
+	Query: "mollen" ; Times: 2
+	Query: "Ilicura" ; Times: 1
+	Query: "Catherpes mexicanus (nest)" ; Times: 1
+	Query: "Pteroglossus torquatus frantzii" ; Times: 1
+	Query: "bird alaska hanna" ; Times: 2
+	Query: "Podager nacunda" ; Times: 1
+	Query: "Coeligena wilsoni" ; Times: 1
+	Query: "dendroica caerulea" ; Times: 1
+	Query: "dendroica caerulea type:specimen mappable:1" ; Times: 1
+	Query: "Cave Swallow" ; Times: 1
+	Query: "Doryfera johannae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 445 download events in this period)
+Total number of records downloaded: 3857 (out of 2849158 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3845
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Benin ; Times: 1
+	Country: Chile ; Times: 7
+	Country: Mexico ; Times: 7
+	Country: Thailand ; Times: 1
+	Country: United States ; Times: 19
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-06 ; Times: 2
+	Date: 2015-01-07 ; Times: 2
+	Date: 2015-01-08 ; Times: 4
+	Date: 2015-01-09 ; Times: 1
+	Date: 2015-01-13 ; Times: 5
+	Date: 2015-01-14 ; Times: 7
+	Date: 2015-01-15 ; Times: 1
+	Date: 2015-01-16 ; Times: 1
+	Date: 2015-01-19 ; Times: 1
+	Date: 2015-01-21 ; Times: 1
+	Date: 2015-01-22 ; Times: 2
+	Date: 2015-01-23 ; Times: 1
+	Date: 2015-01-29 ; Times: 2
+	Date: 2015-01-30 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Furnariidae" ; Times: 1
+	Query: "family:Thraupidae type:specimen mappable:1" ; Times: 1
+	Query: "family:Cardinalidae type:specimen mappable:1" ; Times: 1
+	Query: "Thamnophilidae" ; Times: 1
+	Query: "amazona autumnalis" ; Times: 1
+	Query: "quiscalus mexicanus country:"Mexico"" ; Times: 1
+	Query: "family:Emberizidae type:specimen mappable:1" ; Times: 1
+	Query: "amazona albifrons" ; Times: 1
+	Query: ""Microtus pennsylvanicus"" ; Times: 2
+	Query: "Pycnonotus jocosus" ; Times: 2
+	Query: "Pipridae" ; Times: 1
+	Query: "Formicariidae" ; Times: 1
+	Query: "calyptomena viridis" ; Times: 1
+	Query: "larus argentatus egg michigan" ; Times: 1
+	Query: "woodhousii" ; Times: 1
+	Query: "amazona ochrocephala" ; Times: 2
+	Query: "leptotila rufaxilla" ; Times: 1
+	Query: "musophaga violacea" ; Times: 1
+	Query: "Estrilda melpoda" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "Rhinocryptidae" ; Times: 1
+	Query: ""passer domesticus" type:specimen" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: "accipitridae country:"Mexico"" ; Times: 1
+	Query: "Conopophagidae" ; Times: 1
+	Query: "psittacidae country:"Mexico"" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 1
+	Query: "Pycnonotidae" ; Times: 1
+	Query: "jacana hypomelaena" ; Times: 1
+	Query: "Cotingidae" ; Times: 1
+	Query: "downy woodpecker" ; Times: 1
+	Query: "ara militaris" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 26
+Total number of records retrieved from searches: 870
+Number of download events that retrieved data from the resource: 36
+Total number of records downloaded: 3857
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 48
+Total number of records retrieved from searches: 1069
+Number of download events that retrieved data from the resource: 70
+Total number of records downloaded: 6119
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
