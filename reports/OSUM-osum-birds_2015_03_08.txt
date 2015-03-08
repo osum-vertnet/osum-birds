@@ -1,0 +1,136 @@
+Report for Institution Code OSUM, Resource osum-birds
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 54
+Number of records retrieved in searches: 325
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: United States ; Times: 37
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-04 ; Times: 1
+	Date: 2015-02-05 ; Times: 1
+	Date: 2015-02-06 ; Times: 1
+	Date: 2015-02-08 ; Times: 1
+	Date: 2015-02-09 ; Times: 26
+	Date: 2015-02-10 ; Times: 4
+	Date: 2015-02-11 ; Times: 1
+	Date: 2015-02-12 ; Times: 1
+	Date: 2015-02-13 ; Times: 2
+	Date: 2015-02-14 ; Times: 1
+	Date: 2015-02-15 ; Times: 3
+	Date: 2015-02-16 ; Times: 1
+	Date: 2015-02-17 ; Times: 1
+	Date: 2015-02-18 ; Times: 3
+	Date: 2015-02-19 ; Times: 3
+	Date: 2015-02-20 ; Times: 1
+	Date: 2015-02-21 ; Times: 1
+	Date: 2015-02-25 ; Times: 1
+	Date: 2015-02-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "dendroica petechia (utah) mappable:1" ; Times: 1
+	Query: "Coeligena wilsoni" ; Times: 1
+	Query: "Fregata Magnificens mappable:1" ; Times: 3
+	Query: "Wilsonia citrina stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "fucata brazil" ; Times: 1
+	Query: "progne subis brazil" ; Times: 1
+	Query: "stateprovince:"virginia" (cobbs island) mappable:1" ; Times: 1
+	Query: "starnoenas cyanocephala" ; Times: 26
+	Query: "Basilinna leucotis" ; Times: 1
+	Query: "OSUM Leucosticte atrata" ; Times: 1
+	Query: "osum maryland" ; Times: 3
+	Query: "melospiza melodia yakima" ; Times: 1
+	Query: "Alopochelidon fucata brazil" ; Times: 1
+	Query: "Grandala coelicolor" ; Times: 1
+	Query: "fregata magnificens mappable:1" ; Times: 1
+	Query: "cairina moschata" ; Times: 1
+	Query: "(Spinus lawrencei)" ; Times: 1
+	Query: "basilinna leucotis" ; Times: 1
+	Query: "Bicknell" ; Times: 1
+	Query: "Amazilia leucogaster brazil" ; Times: 1
+	Query: "Leucosticte atrata" ; Times: 1
+	Query: "Diomedea albatrus" ; Times: 2
+	Query: "Mackenziaena leachii brazil" ; Times: 1
+	Query: "Mark here" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 326 download events in this period)
+Total number of records downloaded: 1011 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 998
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-02 ; Times: 2
+	Date: 2015-02-04 ; Times: 2
+	Date: 2015-02-05 ; Times: 1
+	Date: 2015-02-07 ; Times: 1
+	Date: 2015-02-11 ; Times: 2
+	Date: 2015-02-16 ; Times: 1
+	Date: 2015-02-18 ; Times: 1
+	Date: 2015-02-19 ; Times: 1
+	Date: 2015-02-22 ; Times: 1
+	Date: 2015-02-23 ; Times: 2
+	Date: 2015-02-24 ; Times: 2
+	Date: 2015-02-27 ; Times: 1
+	Date: 2015-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Hylocharis leucotis" ; Times: 2
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "Dryocopus pileatus mappable:1" ; Times: 1
+	Query: "Streptoprocne zonaris" ; Times: 1
+	Query: "Bubo africanus" ; Times: 1
+	Query: ""colinus virginianus" type:specimen" ; Times: 1
+	Query: "country:"Guatemala" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: ""Empidonax traillii" type:specimen (California) mappable:1" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "nipissing" ; Times: 1
+	Query: "CHILE" ; Times: 1
+	Query: "galbula" ; Times: 1
+	Query: "Crypturellus" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+	Query: "stateprovince:"Kentucky"" ; Times: 1
+	Query: "(turdus OR zoothera)" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 80
+Total number of records retrieved from searches: 1195
+Number of download events that retrieved data from the resource: 54
+Total number of records downloaded: 4868
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 102
+Total number of records retrieved from searches: 1394
+Number of download events that retrieved data from the resource: 88
+Total number of records downloaded: 7130
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
