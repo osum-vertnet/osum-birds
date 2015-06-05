@@ -1,0 +1,219 @@
+Report for Institution Code OSUM, Resource osum-birds
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 89
+Number of records retrieved in searches: 745
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 3
+	Country: Brazil ; Times: 12
+	Country: Canada ; Times: 5
+	Country: Czech Republic ; Times: 1
+	Country: Germany ; Times: 1
+	Country: India ; Times: 2
+	Country: Netherlands ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 53
+	Country: Unknown ; Times: 7
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 5
+	Date: 2015-05-06 ; Times: 3
+	Date: 2015-05-07 ; Times: 1
+	Date: 2015-05-08 ; Times: 5
+	Date: 2015-05-09 ; Times: 3
+	Date: 2015-05-10 ; Times: 2
+	Date: 2015-05-11 ; Times: 4
+	Date: 2015-05-12 ; Times: 5
+	Date: 2015-05-13 ; Times: 5
+	Date: 2015-05-14 ; Times: 1
+	Date: 2015-05-15 ; Times: 4
+	Date: 2015-05-16 ; Times: 4
+	Date: 2015-05-18 ; Times: 2
+	Date: 2015-05-19 ; Times: 2
+	Date: 2015-05-20 ; Times: 2
+	Date: 2015-05-21 ; Times: 3
+	Date: 2015-05-22 ; Times: 6
+	Date: 2015-05-24 ; Times: 5
+	Date: 2015-05-25 ; Times: 2
+	Date: 2015-05-26 ; Times: 7
+	Date: 2015-05-27 ; Times: 2
+	Date: 2015-05-28 ; Times: 8
+	Date: 2015-05-29 ; Times: 1
+	Date: 2015-05-30 ; Times: 2
+	Date: 2015-05-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Tree Swallows" ; Times: 1
+	Query: "Electron platyrhynchum" ; Times: 1
+	Query: ""Rupornis magnirostris" type:specimen" ; Times: 1
+	Query: "Chauna torquata brazil" ; Times: 1
+	Query: "CAPERCAILLIE" ; Times: 1
+	Query: "OSUM catalognumber:11390 mappable:1" ; Times: 1
+	Query: "scolopax rusticola" ; Times: 2
+	Query: "Sialia sialis Arizona" ; Times: 2
+	Query: "Xolmis cinereus brazil" ; Times: 1
+	Query: "Hymenops perspicillatus brazil" ; Times: 1
+	Query: "aves Georgia United States Cistothorus palustris" ; Times: 1
+	Query: "specificepithet:melodia genus:Melospiza (Zonotrichia)" ; Times: 2
+	Query: "Myiobius atricaudus" ; Times: 1
+	Query: "Spizella pallida United States Oregon" ; Times: 2
+	Query: "Empidonax brazil" ; Times: 1
+	Query: "country:"united states" specificepithet:ferruginea genus:calidris" ; Times: 1
+	Query: "institutioncode:osum fish" ; Times: 2
+	Query: "Hirundinea ferruginea brazil" ; Times: 1
+	Query: "Serpophaga subcristata brazil" ; Times: 1
+	Query: "cisticola exilis" ; Times: 1
+	Query: "stateprovince:"Maryland" specificepithet:bernicla genus:Branta" ; Times: 1
+	Query: "catalognumber:16156" ; Times: 1
+	Query: ""branta bernicla" stateprovince:"Alaska"" ; Times: 1
+	Query: "beach station stateprovince:"illinois"" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:richardson" ; Times: 1
+	Query: "francolinus francolinus" ; Times: 1
+	Query: "aves Georgia United States Poecile carolinensis" ; Times: 1
+	Query: "aves Georgia United States Sitta pusilla" ; Times: 1
+	Query: "cistothorus platensis distance(location,geopoint(45.21816366718811,-93.97705078125))<306641" ; Times: 1
+	Query: "Picus viridis" ; Times: 1
+	Query: "institutioncode:osum fishes" ; Times: 2
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "PATAGONA GIGAS" ; Times: 1
+	Query: "Phaetusa simplex chloropoda" ; Times: 1
+	Query: "ammodramus lecontei" ; Times: 1
+	Query: "specificepithet:ferruginea genus:calidris" ; Times: 1
+	Query: "Contopus sordidulus saturatus" ; Times: 1
+	Query: "Big Black Mtn" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 4
+	Query: "Todirostrum plumbeiceps brazil" ; Times: 1
+	Query: "gracula religiosa" ; Times: 1
+	Query: "Phylloscartes ventralis brazil" ; Times: 1
+	Query: "Tolmomyias sulphurescens brazil" ; Times: 1
+	Query: "OSUM Birds" ; Times: 3
+	Query: "pericrocotus flammeus" ; Times: 1
+	Query: "Yellow-throated vireo" ; Times: 1
+	Query: "aythya nyroca" ; Times: 2
+	Query: "Phaetusa simplex" ; Times: 1
+	Query: "type:specimen specificepithet:melodia genus:melospiza (Zonotrichia)" ; Times: 1
+	Query: "minera" ; Times: 1
+	Query: "Knipolegus cyanirostris brazil" ; Times: 2
+	Query: "Zonotrichia melodia type:specimen specificepithet:melodia genus:Melospiza" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "aves Georgia United States Progne subis" ; Times: 2
+	Query: "aves Georgia United States Certhia americana" ; Times: 1
+	Query: "Big Black MtN" ; Times: 2
+	Query: "aves Georgia United States Parus carolinensis" ; Times: 1
+	Query: "aves Georgia United States Parus bicolor" ; Times: 1
+	Query: "corapipo leucorrhoa" ; Times: 2
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "Eudromias morinellus" ; Times: 1
+	Query: "gallus sonneratii" ; Times: 1
+	Query: "plumbeiceps brazil" ; Times: 1
+	Query: "Gallinago paraguaiae brazil" ; Times: 1
+	Query: "ag 137" ; Times: 1
+	Query: "anthus hellmayri" ; Times: 2
+	Query: "Streptopelia turtur" ; Times: 1
+	Query: "king eider" ; Times: 1
+	Query: "cyanoloxia glaucocaerulea" ; Times: 1
+	Query: "Limnodromus fasciatus" ; Times: 1
+	Query: "Satrapa icterophrys brazil" ; Times: 1
+	Query: "Phaetusa simplex simplex" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 976 download events in this period)
+Total number of records downloaded: 2453 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1516
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 5
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Netherlands ; Times: 1
+	Country: United States ; Times: 15
+	Country: Unknown ; Times: 3
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-06 ; Times: 2
+	Date: 2015-05-07 ; Times: 1
+	Date: 2015-05-09 ; Times: 1
+	Date: 2015-05-10 ; Times: 2
+	Date: 2015-05-11 ; Times: 1
+	Date: 2015-05-12 ; Times: 3
+	Date: 2015-05-13 ; Times: 4
+	Date: 2015-05-14 ; Times: 3
+	Date: 2015-05-15 ; Times: 2
+	Date: 2015-05-18 ; Times: 2
+	Date: 2015-05-19 ; Times: 1
+	Date: 2015-05-20 ; Times: 1
+	Date: 2015-05-22 ; Times: 3
+	Date: 2015-05-24 ; Times: 4
+	Date: 2015-05-25 ; Times: 2
+	Date: 2015-05-27 ; Times: 1
+	Date: 2015-05-28 ; Times: 1
+	Date: 2015-05-29 ; Times: 1
+	Date: 2015-05-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Motacilla alba type:specimen mappable:1" ; Times: 2
+	Query: "minnesota egg" ; Times: 1
+	Query: "genus:rupicola" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Thryothorus ludovicianus" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "Vermivora pinus" ; Times: 1
+	Query: "Tyrannidae" ; Times: 2
+	Query: "Underwood" ; Times: 1
+	Query: "Calypte anna type:specimen" ; Times: 1
+	Query: "samar aves" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "Rhynchocyclus" ; Times: 2
+	Query: "Pyrocephalus rubinus brazil" ; Times: 1
+	Query: "Cistothorus platensis" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "aves Georgia United States Sitta pusilla" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "Phaetusa simplex chloropoda" ; Times: 1
+	Query: "(Nipissing OR Nipising OR Nippising OR Nippissing)" ; Times: 2
+	Query: "arachnothera" ; Times: 1
+	Query: "ammodramus leconteii" ; Times: 1
+	Query: "ammodramus nelsoni" ; Times: 1
+	Query: "country:"Mexico" class:Aves" ; Times: 1
+	Query: "Vermivora bachmanii" ; Times: 1
+	Query: "Tympanuchus cupido cupido" ; Times: 1
+	Query: "tyto alba" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "Cistothorus palustris" ; Times: 1
+	Query: "Streptopelia turtur" ; Times: 1
+	Query: "cyanoloxia glaucocaerulea" ; Times: 1
+	Query: "certhia americana" ; Times: 1
+	Query: "Satrapa icterophrys brazil" ; Times: 1
+	Query: "Phaetusa simplex simplex" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 187
+Total number of records retrieved from searches: 1988
+Number of download events that retrieved data from the resource: 120
+Total number of records downloaded: 8670
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 209
+Total number of records retrieved from searches: 2187
+Number of download events that retrieved data from the resource: 154
+Total number of records downloaded: 10932
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
