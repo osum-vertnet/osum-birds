@@ -1,0 +1,209 @@
+Report for Institution Code Ohio State University - Bird Division, Columbus, OH (OSUM), Resource Birds
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 100
+Number of records retrieved in searches: 284
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 100
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 2
+	Date: 2015-08-02 ; Times: 1
+	Date: 2015-08-03 ; Times: 3
+	Date: 2015-08-04 ; Times: 1
+	Date: 2015-08-06 ; Times: 4
+	Date: 2015-08-07 ; Times: 5
+	Date: 2015-08-08 ; Times: 2
+	Date: 2015-08-12 ; Times: 3
+	Date: 2015-08-13 ; Times: 1
+	Date: 2015-08-14 ; Times: 6
+	Date: 2015-08-15 ; Times: 2
+	Date: 2015-08-16 ; Times: 1
+	Date: 2015-08-17 ; Times: 10
+	Date: 2015-08-18 ; Times: 1
+	Date: 2015-08-19 ; Times: 1
+	Date: 2015-08-20 ; Times: 3
+	Date: 2015-08-21 ; Times: 1
+	Date: 2015-08-22 ; Times: 2
+	Date: 2015-08-23 ; Times: 6
+	Date: 2015-08-25 ; Times: 2
+	Date: 2015-08-26 ; Times: 7
+	Date: 2015-08-27 ; Times: 2
+	Date: 2015-08-28 ; Times: 7
+	Date: 2015-08-29 ; Times: 18
+	Date: 2015-08-30 ; Times: 6
+	Date: 2015-08-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Anthracothorax type:specimen country:"Panama" (skin)" ; Times: 1
+	Query: "snow owl" ; Times: 2
+	Query: "Conopophaga lineatA" ; Times: 1
+	Query: "Icterus portoricensis" ; Times: 2
+	Query: "Icterus melanopsis" ; Times: 2
+	Query: "phoebastria albatrus type:specimen" ; Times: 1
+	Query: "phoebastria albatrus" ; Times: 2
+	Query: "class:Aves catalognumber:4725" ; Times: 1
+	Query: "catalognumber:8479" ; Times: 3
+	Query: "Coccyzus minor type:specimen (egg)" ; Times: 1
+	Query: "country:"brazil" specificepithet:viridis genus:Pachyramphus" ; Times: 1
+	Query: "falco femoralis country:"Mexico"" ; Times: 1
+	Query: "Bat Ohio State University" ; Times: 1
+	Query: "catalognumber: 4725" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 12
+	Query: "zimmerius vilissimus type:specimen" ; Times: 1
+	Query: "specificepithet:superciliaris genus:Sturnella" ; Times: 1
+	Query: "catalognumber:8568" ; Times: 1
+	Query: "emberiza melanocephala" ; Times: 2
+	Query: "Heliomaster furcifer" ; Times: 7
+	Query: "7754" ; Times: 1
+	Query: "wing of bobby" ; Times: 1
+	Query: "Starnoenas" ; Times: 1
+	Query: "amazilia decora" ; Times: 4
+	Query: "mike AND varia" ; Times: 1
+	Query: "Chiffchaff" ; Times: 1
+	Query: "Cypseloides" ; Times: 1
+	Query: "coracina tenuirostris" ; Times: 2
+	Query: "El Paso County Texas Aves" ; Times: 1
+	Query: "nelson dewey" ; Times: 1
+	Query: "19463" ; Times: 1
+	Query: "Anabacerthia variegaticeps variegaticeps" ; Times: 1
+	Query: "type:specimen genus:Odontophorus AND (NOT captive)" ; Times: 1
+	Query: "Coccyzus minor type:specimen" ; Times: 2
+	Query: "genus:Agelaius AND (phoenicus)" ; Times: 1
+	Query: "Sporophila bouvreuil" ; Times: 1
+	Query: "acrocephalus schoenobaenus" ; Times: 2
+	Query: "Mottled Duck" ; Times: 1
+	Query: "Icterus leucopteryx" ; Times: 3
+	Query: "aves Georgia United States 1724" ; Times: 1
+	Query: "museum of biological diversity osu" ; Times: 1
+	Query: "lophophorus impejanus" ; Times: 1
+	Query: "Pionus seniloides type:specimen" ; Times: 1
+	Query: "museum of biological diversity ohio state" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "catalognumber:122" ; Times: 2
+	Query: "Cypseloides niger" ; Times: 1
+	Query: "gallus sonneratii" ; Times: 5
+	Query: "stateprovince:"California" specificepithet:tristis (egg)" ; Times: 1
+	Query: "specificepithet:phoenicus genus:Agelaius" ; Times: 1
+	Query: "guttatus stateprovince:"Maryland"" ; Times: 1
+	Query: "egg sets" ; Times: 1
+	Query: "sporophila bouvreuil" ; Times: 7
+	Query: "Vanellus chilensis" ; Times: 2
+	Query: "Myiarchus validus" ; Times: 1
+	Query: "Rhea americana" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 64 (out of 1138 download events in this period)
+Total number of records downloaded: 5437 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3192
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 64
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 1
+	Date: 2015-08-02 ; Times: 2
+	Date: 2015-08-04 ; Times: 3
+	Date: 2015-08-05 ; Times: 4
+	Date: 2015-08-06 ; Times: 2
+	Date: 2015-08-07 ; Times: 7
+	Date: 2015-08-10 ; Times: 3
+	Date: 2015-08-12 ; Times: 1
+	Date: 2015-08-13 ; Times: 3
+	Date: 2015-08-15 ; Times: 1
+	Date: 2015-08-16 ; Times: 2
+	Date: 2015-08-17 ; Times: 14
+	Date: 2015-08-21 ; Times: 1
+	Date: 2015-08-22 ; Times: 1
+	Date: 2015-08-23 ; Times: 2
+	Date: 2015-08-24 ; Times: 1
+	Date: 2015-08-25 ; Times: 4
+	Date: 2015-08-28 ; Times: 2
+	Date: 2015-08-29 ; Times: 6
+	Date: 2015-08-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Picoides nuttallii type:specimen stateprovince:"California"" ; Times: 1
+	Query: "type:specimen stateprovince:"Delaware" country:"United States"" ; Times: 1
+	Query: "type:specimen stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "Callipepla californica type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Corvus corax type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Icterus melanopsis" ; Times: 1
+	Query: "stateprovince:"Delaware" country:"United States"" ; Times: 1
+	Query: "Polioptila caerulea" ; Times: 1
+	Query: "Ectopistes migratorius type:specimen" ; Times: 1
+	Query: "coturnicops noveboracensis" ; Times: 1
+	Query: "country:"panama"" ; Times: 1
+	Query: "Crypturellus soui" ; Times: 1
+	Query: "catharus bicknelli" ; Times: 2
+	Query: "amazona" ; Times: 1
+	Query: "Quiscalus mexicanus type:specimen" ; Times: 1
+	Query: "Arremon" ; Times: 1
+	Query: "riverside county" ; Times: 1
+	Query: "Colaptes auratus type:specimen stateprovince:"California"" ; Times: 1
+	Query: "mus" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "Icterus leucopteryx" ; Times: 1
+	Query: "stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "Cracidae" ; Times: 1
+	Query: "stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "Piaya cayana" ; Times: 1
+	Query: "type:specimen stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "Heliomaster furcifer" ; Times: 4
+	Query: "catharus minimus" ; Times: 1
+	Query: "country:Brazil" ; Times: 2
+	Query: "Zenaida macroura type:specimen stateprovince:"California"" ; Times: 1
+	Query: "venezuela" ; Times: 2
+	Query: "Starnoenas" ; Times: 1
+	Query: "Aphelocoma californica type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Anas platyrhynchos type:specimen stateprovince:"California"" ; Times: 1
+	Query: "stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "Anas cyanoptera type:specimen stateprovince:"California"" ; Times: 1
+	Query: "type:specimen stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "Plegadis chihi type:specimen stateprovince:"California"" ; Times: 1
+	Query: "distance(location,geopoint(-3.5426625084420342,-59.47265803813934))<1104168" ; Times: 1
+	Query: "Coccyzus minor type:specimen" ; Times: 1
+	Query: "class:aves (feather)" ; Times: 1
+	Query: "Struthio camelus" ; Times: 1
+	Query: "type:specimen stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "catharus frantzii" ; Times: 1
+	Query: "country:"peru"" ; Times: 1
+	Query: "rallus limicola" ; Times: 1
+	Query: "Corvus brachyrhynchos type:specimen stateprovince:"California"" ; Times: 1
+	Query: "gymnogyps type:specimen" ; Times: 1
+	Query: "stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "Phalacrocorax auritus type:specimen stateprovince:"California"" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "Apteryx australis" ; Times: 1
+	Query: "Troglodytidae" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:tristis (egg)" ; Times: 1
+	Query: "Rhea americana" ; Times: 1
+	Query: "Icterus portoricensis" ; Times: 1
+	Query: "paradisaeidae" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 100
+Total number of records retrieved from searches: 284
+Number of download events that retrieved data from the resource: 64
+Total number of records downloaded: 5437
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 100
+Total number of records retrieved from searches: 284
+Number of download events that retrieved data from the resource: 64
+Total number of records downloaded: 5437
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
