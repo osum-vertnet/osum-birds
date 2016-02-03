@@ -1,0 +1,160 @@
+Report for Institution Code OSUM, Resource osum-birds
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 65
+Number of records retrieved in searches: 266
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 1
+	Country: United States ; Times: 47
+	Country: Thailand ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 1
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-14 ; Times: 2
+	Date: 2015-10-06 ; Times: 2
+	Date: 2015-10-01 ; Times: 4
+	Date: 2015-10-13 ; Times: 11
+	Date: 2015-10-10 ; Times: 1
+	Date: 2015-10-02 ; Times: 8
+	Date: 2015-10-11 ; Times: 2
+	Date: 2015-10-08 ; Times: 1
+	Date: 2015-10-30 ; Times: 2
+	Date: 2015-10-15 ; Times: 2
+	Date: 2015-10-24 ; Times: 5
+	Date: 2015-10-29 ; Times: 4
+	Date: 2015-10-28 ; Times: 3
+	Date: 2015-10-27 ; Times: 2
+	Date: 2015-10-12 ; Times: 2
+	Date: 2015-10-26 ; Times: 6
+	Date: 2015-10-07 ; Times: 2
+	Date: 2015-10-22 ; Times: 1
+	Date: 2015-10-20 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Xiphorhynchus triangularis mappable:1" ; Times: 1
+	Query: "Seiurus aurocapilla type:specimen (Canada)" ; Times: 1
+	Query: "Cyrtonyx montezumae Chihuahua" ; Times: 2
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "francolinus clappertoni" ; Times: 2
+	Query: "Duerre" ; Times: 2
+	Query: "arachnothera modesta" ; Times: 2
+	Query: "ivory billed woodpecker" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "Seiurus aurocapilla (Canada)" ; Times: 1
+	Query: "Archilochus colubris institutioncode:OSUM" ; Times: 1
+	Query: "cobbs island virginia" ; Times: 1
+	Query: "ivory-billed woodpecker" ; Times: 1
+	Query: "Little Gull" ; Times: 4
+	Query: "emberiza melanocephala" ; Times: 2
+	Query: "mummy" ; Times: 2
+	Query: "elf" ; Times: 3
+	Query: "paradisaea apoda" ; Times: 1
+	Query: "sitta pusilla caniceps" ; Times: 1
+	Query: "atlapetes gutturalis" ; Times: 1
+	Query: "specificepithet:flaviceps genus:Auriparus stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "sturnus vulgarus" ; Times: 1
+	Query: "Hylocharis cyanus mappable:1" ; Times: 1
+	Query: "emberiza schoeniclus" ; Times: 1
+	Query: "Swallow-tailed Kite" ; Times: 1
+	Query: "Seiurus aurocapilla type:specimen country:&#34;Canada&#34; (Canada)" ; Times: 1
+	Query: "catalognumber:2835" ; Times: 1
+	Query: "Ortalis guttata guttata" ; Times: 1
+	Query: "Psittacula India skin" ; Times: 1
+	Query: "ruby-throated hummingbird institutioncode:OSUM" ; Times: 1
+	Query: "catalognumber:7734" ; Times: 1
+	Query: "rallus limicola eggs" ; Times: 1
+	Query: "jugger" ; Times: 1
+	Query: "Ara militaris" ; Times: 2
+	Query: "cobbs island" ; Times: 1
+	Query: "buteo albicaudatus" ; Times: 1
+	Query: "Asio stygius" ; Times: 1
+	Query: "empidonax trailli" ; Times: 1
+	Query: "piping plover" ; Times: 2
+	Query: "Aglaiocercus kingii mappable:1" ; Times: 1
+	Query: "aneus" ; Times: 1
+	Query: "Ivory billed woodpecker" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 1
+	Query: "white-tailed hawk" ; Times: 1
+	Query: "Nestor meridionalis" ; Times: 8
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 823 download events in this period)
+Total number of records downloaded: 1346
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Chile ; Times: 3
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 20
+	Country: Colombia ; Times: 1
+	Country: Thailand ; Times: 2
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-05 ; Times: 2
+	Date: 2015-10-16 ; Times: 1
+	Date: 2015-10-14 ; Times: 1
+	Date: 2015-10-10 ; Times: 2
+	Date: 2015-10-11 ; Times: 1
+	Date: 2015-10-02 ; Times: 6
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-07 ; Times: 5
+	Date: 2015-10-19 ; Times: 1
+	Date: 2015-10-30 ; Times: 5
+	Date: 2015-10-29 ; Times: 3
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-27 ; Times: 3
+	Date: 2015-10-31 ; Times: 1
+	Date: 2015-10-23 ; Times: 2
+	Date: 2015-10-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Megalaima asiatica" ; Times: 1
+	Query: "Geotrygon montana mappable:1" ; Times: 1
+	Query: "(ciccaba)" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "paraguay" ; Times: 2
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "Henicorhina leucophrys mappable:1" ; Times: 1
+	Query: "class:aves stateprovince:California" ; Times: 1
+	Query: "Icterus graduacauda" ; Times: 1
+	Query: "Cacicus haemorrhous mappable:1" ; Times: 1
+	Query: "county:&#34;Bandera&#34; mappable:1" ; Times: 1
+	Query: "Dysithamnus mentalis mappable:1" ; Times: 1
+	Query: "Ocreatus underwoodii" ; Times: 1
+	Query: "aves venezuela" ; Times: 1
+	Query: "Mionectes olivaceus mappable:1" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 2
+	Query: "spheniscidae type:specimen class:aves" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "family:spheniscidae" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "specificepithet:principalis genus:campephilus" ; Times: 1
+	Query: "Selasphorus rufus type:specimen" ; Times: 1
+	Query: "Tangara nigrocincta mappable:1" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 2
+	Query: "Phaethon lepturus" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "PARAGUAY" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "class:Aves country:&#34;Peru&#34;" ; Times: 1
+	Query: "Amboy" ; Times: 1
+
+
+End of report.
