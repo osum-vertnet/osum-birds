@@ -1,0 +1,147 @@
+Report for Institution Code OSUM, Resource osum-birds
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 74
+Number of records retrieved in searches: 578
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 14
+	Country: Brazil ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: United States ; Times: 45
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Peru ; Times: 1
+	Country: Russia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 2
+	Date: 2015-12-08 ; Times: 9
+	Date: 2015-12-03 ; Times: 4
+	Date: 2015-12-07 ; Times: 2
+	Date: 2015-12-06 ; Times: 5
+	Date: 2015-12-05 ; Times: 1
+	Date: 2015-12-04 ; Times: 9
+	Date: 2015-12-21 ; Times: 5
+	Date: 2015-12-20 ; Times: 3
+	Date: 2015-12-23 ; Times: 2
+	Date: 2015-12-22 ; Times: 1
+	Date: 2015-12-24 ; Times: 2
+	Date: 2015-12-27 ; Times: 2
+	Date: 2015-12-26 ; Times: 1
+	Date: 2015-12-29 ; Times: 3
+	Date: 2015-12-14 ; Times: 9
+	Date: 2015-12-15 ; Times: 2
+	Date: 2015-12-16 ; Times: 1
+	Date: 2015-12-31 ; Times: 1
+	Date: 2015-12-10 ; Times: 2
+	Date: 2015-12-11 ; Times: 2
+	Date: 2015-12-12 ; Times: 5
+	Date: 2015-12-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Acadian Flycatcher egg" ; Times: 1
+	Query: "Tryngites subruficollis" ; Times: 1
+	Query: "roseate tern" ; Times: 2
+	Query: "Lanius ludovicianus (Virginia)" ; Times: 1
+	Query: "Peucaea aestivalis (Virginia)" ; Times: 2
+	Query: "specificepithet:inquisitor genus:Tityra class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "gallus sonneratii india" ; Times: 2
+	Query: "Antrostomus vociferus" ; Times: 1
+	Query: "pyrrhocorax graculus" ; Times: 8
+	Query: "perdix egg" ; Times: 1
+	Query: "erythrogaster maryland" ; Times: 2
+	Query: "Aimophila aestivalis (Virginia)" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "Caprimulgus vociferus" ; Times: 1
+	Query: "elf" ; Times: 8
+	Query: "Setophaga citrina" ; Times: 1
+	Query: "carolina parakeet" ; Times: 6
+	Query: "Tufted Titmouse egg" ; Times: 1
+	Query: "guttatus maryland" ; Times: 1
+	Query: "Scolopax rusticola" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "Rallus elegans" ; Times: 1
+	Query: "Ammodramus henslowii" ; Times: 3
+	Query: "saltmarsh sparrow" ; Times: 1
+	Query: "Pelecanus erythrorhynchos" ; Times: 3
+	Query: "OSUM Birds B 2953" ; Times: 1
+	Query: "OSUM Birds B 636" ; Times: 1
+	Query: "Numenius borealis" ; Times: 2
+	Query: "mus massachusetts" ; Times: 1
+	Query: "catalognumber:1017" ; Times: 4
+	Query: "chickadee kansas" ; Times: 1
+	Query: "Pyrrhocorax graculus" ; Times: 1
+	Query: "Andigena nigrirostris" ; Times: 1
+	Query: "conuropsis type:specimen (ohio)" ; Times: 1
+	Query: "Calliphlox type:specimen mappable:1" ; Times: 1
+	Query: "Vireo philadelphicus egg" ; Times: 1
+	Query: "Sturnella magna" ; Times: 1
+	Query: "genus:Tityra class:Aves stateprovince:&#34;Rio Grande&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "red kite" ; Times: 4
+	Query: "Williams 1955" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 889 download events in this period)
+Total number of records downloaded: 1512
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 3
+	Country: Uruguay ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 19
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-08 ; Times: 4
+	Date: 2015-12-15 ; Times: 2
+	Date: 2015-12-02 ; Times: 3
+	Date: 2015-12-01 ; Times: 1
+	Date: 2015-12-07 ; Times: 1
+	Date: 2015-12-05 ; Times: 2
+	Date: 2015-12-04 ; Times: 2
+	Date: 2015-12-20 ; Times: 1
+	Date: 2015-12-23 ; Times: 3
+	Date: 2015-12-17 ; Times: 1
+	Date: 2015-12-11 ; Times: 1
+	Date: 2015-12-13 ; Times: 1
+	Date: 2015-12-29 ; Times: 2
+	Date: 2015-12-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "minnesota egg type:specimen" ; Times: 1
+	Query: "Archilochus alexandri type:specimen" ; Times: 1
+	Query: "lophotriccus pileatus type:specimen" ; Times: 1
+	Query: "Henicorhina leucophrys type:specimen" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "Pueblo Colorado Aves" ; Times: 1
+	Query: "alauda" ; Times: 1
+	Query: "Calcarius mccownii" ; Times: 1
+	Query: "Troglodytes" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "Selasphorus scintilla type:specimen" ; Times: 1
+	Query: "Empidonax difficilis" ; Times: 1
+	Query: "Calypte anna type:specimen" ; Times: 1
+	Query: "rio grande do sul" ; Times: 1
+	Query: "Archilochus type:specimen mappable:1" ; Times: 1
+	Query: "Lepomis" ; Times: 1
+	Query: "quintana roo" ; Times: 1
+	Query: "Archilochus colubris type:specimen" ; Times: 2
+	Query: "class:Aves country:&#34;French Guiana&#34;" ; Times: 1
+	Query: "Selasphorus type:specimen mappable:1" ; Times: 2
+	Query: "type:specimen family:Thraupidae country:&#34;United States&#34; sex:male" ; Times: 1
+	Query: "larimer aves" ; Times: 1
+	Query: "pelecanus erythrorhynchos" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "Ammodramus caudacutus" ; Times: 1
+	Query: "sturnella neglecta" ; Times: 1
+
+
+End of report.
