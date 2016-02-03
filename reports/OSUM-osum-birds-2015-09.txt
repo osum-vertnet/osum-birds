@@ -1,0 +1,186 @@
+Report for Institution Code OSUM, Resource osum-birds
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 125
+Number of records retrieved in searches: 2516
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 106
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Austria ; Times: 1
+	Country: Switzerland ; Times: 4
+	Country: Thailand ; Times: 1
+	Country: Russia ; Times: 3
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-10 ; Times: 2
+	Date: 2015-09-11 ; Times: 1
+	Date: 2015-09-14 ; Times: 4
+	Date: 2015-09-15 ; Times: 4
+	Date: 2015-09-16 ; Times: 1
+	Date: 2015-09-17 ; Times: 6
+	Date: 2015-09-29 ; Times: 8
+	Date: 2015-09-08 ; Times: 10
+	Date: 2015-09-30 ; Times: 4
+	Date: 2015-09-19 ; Times: 1
+	Date: 2015-09-07 ; Times: 5
+	Date: 2015-09-06 ; Times: 30
+	Date: 2015-09-04 ; Times: 2
+	Date: 2015-09-03 ; Times: 2
+	Date: 2015-09-28 ; Times: 3
+	Date: 2015-09-01 ; Times: 29
+	Date: 2015-09-25 ; Times: 4
+	Date: 2015-09-24 ; Times: 1
+	Date: 2015-09-27 ; Times: 2
+	Date: 2015-09-26 ; Times: 1
+	Date: 2015-09-09 ; Times: 2
+	Date: 2015-09-22 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "institutioncode:osum puffin" ; Times: 1
+	Query: "gbifdatasetid:91aa5e23-9cad-4751-86e0-241da77d7407" ; Times: 1
+	Query: "osum meliphagidae" ; Times: 1
+	Query: "zosterops palpebrosa" ; Times: 2
+	Query: "Numenius borealis" ; Times: 1
+	Query: "Elaenia chiriquensis AND (NOT MSB NOT MVZ NOT ROM NOT YPM NOT AMNH NOT CUML NOT FMNH NOT MLZ NOT UMMZ NOT USNM NOT LACM NOT ANSP)" ; Times: 1
+	Query: "Hall Nebraska" ; Times: 1
+	Query: "miliaria calandra" ; Times: 1
+	Query: "&#34;B***&#34; &#34;americanus&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Selasphorus scintilla" ; Times: 1
+	Query: "catalognumber:12073" ; Times: 1
+	Query: "strix nebulosa" ; Times: 1
+	Query: "genus:cypseloides stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "osum mycteria" ; Times: 1
+	Query: "dendrocopos medius" ; Times: 4
+	Query: "acrocephalus arundinaceus" ; Times: 2
+	Query: "A. H. Wood class:Aves" ; Times: 1
+	Query: "emberiza melanocephala" ; Times: 2
+	Query: "elf" ; Times: 4
+	Query: "family:Tinamidae (egg)" ; Times: 1
+	Query: "osum gymnogyps" ; Times: 1
+	Query: "osum birds" ; Times: 22
+	Query: "flammulated owl" ; Times: 3
+	Query: "Mississippi Aves Clay" ; Times: 1
+	Query: "genus:icterus (melanopsis) AND (NOT film)" ; Times: 1
+	Query: "genus:icterus (melanopsis)" ; Times: 1
+	Query: "gracula religiosa" ; Times: 1
+	Query: "chaetocercus type:specimen" ; Times: 1
+	Query: "emberiza schoeniclus" ; Times: 1
+	Query: "passenger pigeon" ; Times: 1
+	Query: "lophophorus impejanus" ; Times: 1
+	Query: "osum numida" ; Times: 1
+	Query: "Peucaea aestivalis type:specimen" ; Times: 1
+	Query: "Gallus sonneratii" ; Times: 2
+	Query: "pavo cristatus" ; Times: 1
+	Query: "Elaenia chiriquensis AND (NOT MSB NOT MVZ NOT ROM NOT YPM NOT AMNH NOT CUML NOT FMNH NOT MLZ NOT UMMZ)" ; Times: 1
+	Query: "emberiza calandra" ; Times: 1
+	Query: "redpath" ; Times: 1
+	Query: "type:specimen specificepithet:phoeniceus genus:Agelaius stateprovince:&#34;Connecticut&#34; sex:Male" ; Times: 1
+	Query: "acrocephalus schoenobaenus" ; Times: 1
+	Query: "perdix (skel OR skeleton)" ; Times: 1
+	Query: "catalognumber:5861" ; Times: 1
+	Query: "osum phoenicopteridae" ; Times: 1
+	Query: "oology" ; Times: 1
+	Query: "catalognumber:6141" ; Times: 1
+	Query: "osum pavo" ; Times: 1
+	Query: "&#34;lngth:&#34;" ; Times: 1
+	Query: "type:specimen catalognumber:19612" ; Times: 1
+	Query: "gallus sonneratii" ; Times: 34
+	Query: "Aegelaius phoeniceus type:specimen" ; Times: 1
+	Query: "Elaenia chiriquensis AND (NOT MSB NOT MVZ NOT ROM NOT YPM NOT AMNH NOT CUML)" ; Times: 1
+	Query: "Anthracothorax country:&#34;Panama&#34;" ; Times: 1
+	Query: "Eurylaimus javanicus" ; Times: 1
+	Query: "17255" ; Times: 1
+	Query: "black rail" ; Times: 3
+	Query: "HERONS" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 1045 download events in this period)
+Total number of records downloaded: 28151
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 4
+	Country: Venezuela ; Times: 1
+	Country: France ; Times: 4
+	Country: United States ; Times: 21
+	Country: Colombia ; Times: 2
+	Country: Thailand ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Hong Kong ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-09 ; Times: 2
+	Date: 2015-09-01 ; Times: 7
+	Date: 2015-09-19 ; Times: 4
+	Date: 2015-09-29 ; Times: 2
+	Date: 2015-09-10 ; Times: 1
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-13 ; Times: 1
+	Date: 2015-09-14 ; Times: 1
+	Date: 2015-09-15 ; Times: 1
+	Date: 2015-09-16 ; Times: 4
+	Date: 2015-09-17 ; Times: 4
+	Date: 2015-09-18 ; Times: 2
+	Date: 2015-09-24 ; Times: 2
+	Date: 2015-09-08 ; Times: 1
+	Date: 2015-09-22 ; Times: 4
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-30 ; Times: 3
+	Date: 2015-09-02 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Eurylaimus javanicus" ; Times: 1
+	Query: "gavia" ; Times: 1
+	Query: "Spizella pallida" ; Times: 1
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "grammicus" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "aimophila aestivalis type:specimen" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "genus:cypseloides stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "geothlypis trichas" ; Times: 1
+	Query: "Turdus ignobilis" ; Times: 1
+	Query: "phalacrocoracidae" ; Times: 1
+	Query: "Cymbilaimus lineatus" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "aves venezuela" ; Times: 1
+	Query: "class:Aves mappable:1 distance(location,geopoint(18.812717856407776,-75.322265625))&lt;1032543" ; Times: 1
+	Query: "genus:Picoides" ; Times: 2
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "osum birds" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "family:Trogonidae mappable:1" ; Times: 1
+	Query: "penguin" ; Times: 1
+	Query: "Sporophila" ; Times: 1
+	Query: "Papua" ; Times: 1
+	Query: "Rhipidura" ; Times: 1
+	Query: "New Guinea" ; Times: 2
+	Query: "Gavia" ; Times: 1
+	Query: "country:&#34;Ecuador&#34; (Aves) mappable:1" ; Times: 1
+	Query: "Mississippi Aves" ; Times: 1
+	Query: "stahl" ; Times: 1
+	Query: "Xiphorhynchus guttatus" ; Times: 1
+	Query: "genus:Spizella" ; Times: 1
+	Query: "birds chihuahua" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 3
+	Query: "Spizella breweri" ; Times: 1
+	Query: "empidonax flaviventris" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+
+
+End of report.
