@@ -1,0 +1,126 @@
+Report for Institution Code OSUM, Resource osum-birds
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 68
+Number of records retrieved in searches: 305
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 2
+	Country: Mexico ; Times: 23
+	Country: Unknown ; Times: 6
+	Country: United States ; Times: 29
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-22 ; Times: 3
+	Date: 2016-02-19 ; Times: 10
+	Date: 2016-02-18 ; Times: 14
+	Date: 2016-02-09 ; Times: 1
+	Date: 2016-02-08 ; Times: 3
+	Date: 2016-02-21 ; Times: 2
+	Date: 2016-02-20 ; Times: 9
+	Date: 2016-02-27 ; Times: 2
+	Date: 2016-02-07 ; Times: 2
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-24 ; Times: 5
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-13 ; Times: 1
+	Date: 2016-02-29 ; Times: 2
+	Date: 2016-02-02 ; Times: 2
+	Date: 2016-02-05 ; Times: 1
+	Date: 2016-02-04 ; Times: 6
+	Date: 2016-02-14 ; Times: 1
+	Date: 2016-02-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "ortalis araucuan" ; Times: 1
+	Query: "guttatus virginia" ; Times: 2
+	Query: "elf" ; Times: 6
+	Query: "&#34;W. E. D. Scott&#34; recordedby:Scott" ; Times: 1
+	Query: "Chlorostilbon canivetii" ; Times: 1
+	Query: "recordedby:KOFAHL" ; Times: 1
+	Query: "selasphorus alleni" ; Times: 1
+	Query: "megalaima zeylanica" ; Times: 1
+	Query: "Diglossa plumbea" ; Times: 2
+	Query: "henicorhina leucosticta" ; Times: 1
+	Query: "type:specimen class:aves county:&#34;clermont&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "Passenger pigeon" ; Times: 2
+	Query: "Tympanuchus pallidicinctus 1" ; Times: 1
+	Query: "&#34;W E D Scott&#34; recordedby:Scott" ; Times: 1
+	Query: "emberiza melanocephala" ; Times: 1
+	Query: "Dunham class:Aves" ; Times: 1
+	Query: "Mottled duck" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 3
+	Query: "Pharomachrus mocinno" ; Times: 5
+	Query: "gallicolumba kubaryi" ; Times: 1
+	Query: "Pitta brachyura type:specimen" ; Times: 1
+	Query: "&#34;W. E. D. Scott&#34;" ; Times: 2
+	Query: "stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; recordedby:WALKER" ; Times: 1
+	Query: "Tympanuchus pallidicinctus" ; Times: 1
+	Query: "&#34;W E D Scott&#34;" ; Times: 1
+	Query: "treron pompadora" ; Times: 5
+	Query: "genus:Procnias class:Aves stateprovince:&#34;Rio Grande&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "mottled duck" ; Times: 2
+	Query: "P-3992" ; Times: 1
+	Query: "sterna dougalli" ; Times: 1
+	Query: "type:specimen specificepithet:nudicollis genus:Procnias class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Mishmi Hills" ; Times: 1
+	Query: "dods" ; Times: 1
+	Query: "specificepithet:nudicollis genus:Procnias class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Anas tristis" ; Times: 1
+	Query: "Podiceps major" ; Times: 1
+	Query: "ara militaris" ; Times: 12
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 512 download events in this period)
+Total number of records downloaded: 1106
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-08 ; Times: 3
+	Date: 2016-02-23 ; Times: 2
+	Date: 2016-02-22 ; Times: 2
+	Date: 2016-02-18 ; Times: 1
+	Date: 2016-02-19 ; Times: 3
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-13 ; Times: 1
+	Date: 2016-02-29 ; Times: 1
+	Date: 2016-02-02 ; Times: 2
+	Date: 2016-02-04 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "vireo olivaceus" ; Times: 1
+	Query: "Strigidae" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "genus:carpodacus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Saltator" ; Times: 1
+	Query: "class:Aves county:&#34;Monroe&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "county:&#34;Navajo&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "selasphorus alleni" ; Times: 1
+	Query: "selasphorus (sasin OR sedentarius)" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops" ; Times: 1
+	Query: "Dunham class:Aves" ; Times: 1
+	Query: "county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "vireo olivaceus type:specimen" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "Podiceps major" ; Times: 1
+	Query: "type:specimen class:aves county:&#34;clermont&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+
+
+End of report.
