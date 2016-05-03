@@ -1,0 +1,218 @@
+Report for Institution Code OSUM, Resource osum-birds
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 300
+Number of records retrieved in searches: 995
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 181
+	Country: Brazil ; Times: 13
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 6
+	Country: Montenegro ; Times: 2
+	Country: United States ; Times: 68
+	Country: Germany ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Switzerland ; Times: 2
+	Country: Argentina ; Times: 4
+	Country: Russia ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 3
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-07 ; Times: 6
+	Date: 2016-04-06 ; Times: 6
+	Date: 2016-04-05 ; Times: 6
+	Date: 2016-04-04 ; Times: 2
+	Date: 2016-04-21 ; Times: 2
+	Date: 2016-04-20 ; Times: 2
+	Date: 2016-04-09 ; Times: 8
+	Date: 2016-04-22 ; Times: 1
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-24 ; Times: 4
+	Date: 2016-04-27 ; Times: 11
+	Date: 2016-04-26 ; Times: 24
+	Date: 2016-04-08 ; Times: 5
+	Date: 2016-04-18 ; Times: 7
+	Date: 2016-04-19 ; Times: 1
+	Date: 2016-04-14 ; Times: 37
+	Date: 2016-04-15 ; Times: 9
+	Date: 2016-04-17 ; Times: 4
+	Date: 2016-04-10 ; Times: 4
+	Date: 2016-04-11 ; Times: 12
+	Date: 2016-04-12 ; Times: 7
+	Date: 2016-04-13 ; Times: 132
+	Date: 2016-04-03 ; Times: 1
+	Date: 2016-04-23 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:91aa5e23-9cad-4751-86e0-241da77d7407" ; Times: 2
+	Query: "parabuteo unicinctus institutioncode:OSUM" ; Times: 1
+	Query: "Lanius ludovicianus migrans Ontario" ; Times: 10
+	Query: "Platalea ajaja stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Appleton AND San Miguel Island AND Prince" ; Times: 1
+	Query: "Haliaeetus leucocephalus Ontario" ; Times: 10
+	Query: "Starnoenas cyanocephala" ; Times: 2
+	Query: "phoebastria albatrus" ; Times: 3
+	Query: "sclerurus scansor" ; Times: 1
+	Query: "Tryngites subruficollis Ontario" ; Times: 10
+	Query: "type:specimen specificepithet:nigrescens genus:Setophaga" ; Times: 2
+	Query: "elf" ; Times: 20
+	Query: "Pachyramphus polychopterus spixii brazil" ; Times: 1
+	Query: "type:specimen specificepithet:leucorrhoa genus:Tachycineta mappable:1" ; Times: 2
+	Query: "Buteo ferox" ; Times: 1
+	Query: "R-15469" ; Times: 1
+	Query: "pachyramphus polychopterus spixii" ; Times: 1
+	Query: "conopophaga lineata" ; Times: 1
+	Query: "Agelaius phoeniceus Florida nassau County" ; Times: 1
+	Query: "&#34;05-1900&#34;" ; Times: 2
+	Query: "type:specimen genus:Starnoenas" ; Times: 1
+	Query: "pitta brachyura" ; Times: 1
+	Query: "Riparia riparia Ontario 1" ; Times: 1
+	Query: "ARchangel" ; Times: 1
+	Query: "Euphagus carolinus Ontario" ; Times: 10
+	Query: "Pachyramphus polychopterus brazil" ; Times: 1
+	Query: "Phoenicopterus ruber type:specimen" ; Times: 1
+	Query: "catalognumber:13194 institutioncode:OSUM" ; Times: 1
+	Query: "Phoenicopterus ruber type:specimen (United States OR Cuba OR Bahamas OR Mexico) AND (NOT roseus)" ; Times: 1
+	Query: "Bucephala islandica Ontario 1" ; Times: 1
+	Query: "Dolichonyx oryzivorus ONTARIO 1" ; Times: 2
+	Query: "Setophaga discolor" ; Times: 1
+	Query: "Dolichonyx oryzivorus Ontario" ; Times: 10
+	Query: "Dolichonyx oryzivorus Ontario 1" ; Times: 1
+	Query: "Buteogallus urubitinga" ; Times: 1
+	Query: "county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; (Polioptila californica)" ; Times: 1
+	Query: "birds from Turkey" ; Times: 1
+	Query: "specificepithet:sonneratii genus:Gallus" ; Times: 1
+	Query: "San Miguel Island AND 1906" ; Times: 1
+	Query: "Tryngites subruficollis ONTARIO 1" ; Times: 2
+	Query: "Diglossa baritula" ; Times: 1
+	Query: "buteo jamaicensis harlani institutioncode:OSUM" ; Times: 1
+	Query: "Thamnistes anabatinus" ; Times: 1
+	Query: "Coccothraustes minnesota" ; Times: 2
+	Query: "Buteo lineatus Ontario" ; Times: 10
+	Query: "Bucephala islandica Ontario" ; Times: 10
+	Query: "type:specimen catalognumber:14199" ; Times: 1
+	Query: "Penelope purpurascens" ; Times: 1
+	Query: "Haliaeetus leucocephalus Ontario 1" ; Times: 1
+	Query: "sarkidiornis" ; Times: 1
+	Query: "Chaetura pelagica Ontario" ; Times: 10
+	Query: "Archangel" ; Times: 1
+	Query: "type:specimen specificepithet:Ventralis genus:Phylloscartes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Egretta rufescens stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Ammodramus savannarum dakota" ; Times: 1
+	Query: "Riparia riparia Ontario" ; Times: 10
+	Query: "pyrrhura frontalis" ; Times: 1
+	Query: "Hylocichla mustelina Ontario" ; Times: 10
+	Query: "Appleton AND Prince" ; Times: 2
+	Query: "Asio flammeus Ontario" ; Times: 10
+	Query: "Appleton AND Island" ; Times: 1
+	Query: "Peyton AND Haliaeetus" ; Times: 2
+	Query: "skin type:specimen specificepithet:rosea genus:Rhodinocichla sex:male" ; Times: 1
+	Query: "starnoenas" ; Times: 1
+	Query: "Haliaeetus leucocephalus ONTARIO 1" ; Times: 2
+	Query: "type:specimen specificepithet:striata genus:Setophaga" ; Times: 2
+	Query: "Appleton AND San Miguel Island" ; Times: 2
+	Query: "myrmeciza longipes type:specimen" ; Times: 1
+	Query: "Sturnella magna Ontario" ; Times: 10
+	Query: "passenger pigeon" ; Times: 3
+	Query: "Semnornis ramphastinus" ; Times: 1
+	Query: "type:specimen genus:ara (militaris)" ; Times: 1
+	Query: "specificepithet:bachmanii genus:Vermivora" ; Times: 2
+	Query: "Podiceps auritus Ontario" ; Times: 10
+	Query: "county:&#34;Tuscarawas&#34; stateprovince:&#34;Ohio&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:ventralis genus:Phylloscartes class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Hirundo rustica  ONTARIO 1" ; Times: 2
+	Query: "Oceanodroma macrodactyla" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 1
+	Query: "genus:phylloscartes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:ventralis genus:Phylloscartes class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "genus:ara (militaris)" ; Times: 1
+	Query: "birds from Europe" ; Times: 1
+	Query: "Starnoenas" ; Times: 1
+	Query: "specificepithet:discolor genus:Setophaga mappable:1" ; Times: 3
+	Query: "Pelecanus erythrorhynchos stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "dendrocopos medius" ; Times: 2
+	Query: "MYIOBIUS ATRICAUDUS" ; Times: 2
+	Query: "Bird skins" ; Times: 2
+	Query: "Wilsonia canadensis  Ontario" ; Times: 10
+	Query: "Bucephala islandica ONTARIO 1" ; Times: 2
+	Query: "myrmeciza longipes type:specimen sex:female" ; Times: 1
+	Query: "hydrobates" ; Times: 1
+	Query: "Poospiza nigrorufa" ; Times: 4
+	Query: "Riparia riparia ONTARIO 1" ; Times: 2
+	Query: "Hirundo rustica  Ontario" ; Times: 10
+	Query: "Contopus virens Ontario" ; Times: 10
+	Query: "Pachyramphus polychopterus spixii" ; Times: 1
+	Query: "type:specimen genus:Phylloscartes class:Aves stateprovince:&#34;RIO&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "myiobius atricaudus" ; Times: 1
+	Query: "Hirundo rustica  Ontario 1" ; Times: 1
+	Query: "catalognumber:19404" ; Times: 1
+	Query: "SAN MIGUEL ISLAND AND Egg AND 1906" ; Times: 1
+	Query: "Phoenicopterus ruber type:specimen AND (NOT roseus)" ; Times: 1
+	Query: "genus:Phylloscartes class:Aves stateprovince:&#34;RIO&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Tryngites subruficollis Ontario 1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 1312 download events in this period)
+Total number of records downloaded: 915
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Brazil ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 2
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-23 ; Times: 1
+	Date: 2016-04-11 ; Times: 3
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-07 ; Times: 4
+	Date: 2016-04-15 ; Times: 3
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-09 ; Times: 3
+	Date: 2016-04-08 ; Times: 1
+	Date: 2016-04-10 ; Times: 1
+	Date: 2016-04-24 ; Times: 1
+	Date: 2016-04-27 ; Times: 2
+	Date: 2016-04-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Platalea ajaja stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Erie&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Egretta rufescens stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "phoebastria albatrus" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Cayuga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "sialia sialis" ; Times: 1
+	Query: "Pelecanus erythrorhynchos stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:bicolor genus:Tachycineta mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:thalassina genus:Tachycineta mappable:1" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "phoebastria" ; Times: 1
+	Query: "county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; (Polioptila californica)" ; Times: 1
+	Query: "Myiarchus tuberculifer type:specimen" ; Times: 1
+	Query: "type:specimen specificepithet:leucorrhoa genus:Tachycineta mappable:1" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 1
+	Query: "Poospiza nigrorufa" ; Times: 1
+	Query: "toucan" ; Times: 1
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "type:specimen genus:Tachycineta mappable:1" ; Times: 2
+	Query: "selasphorus platycercus" ; Times: 1
+	Query: "Pileated Woodpecker" ; Times: 2
+	Query: "specificepithet:bicolor genus:Tachycineta mappable:1" ; Times: 1
+	Query: "colibri coruscans" ; Times: 2
+	Query: "Sturnus vulgaris" ; Times: 1
+
+
+End of report.
