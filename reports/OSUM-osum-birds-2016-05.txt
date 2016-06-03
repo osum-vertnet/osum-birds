@@ -1,0 +1,105 @@
+Report for Institution Code OSUM, Resource osum-birds
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 47
+Number of records retrieved in searches: 378
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 27
+	Country: Denmark ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Russia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 1
+	Date: 2016-05-19 ; Times: 5
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-02 ; Times: 1
+	Date: 2016-05-14 ; Times: 1
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-06 ; Times: 1
+	Date: 2016-05-07 ; Times: 2
+	Date: 2016-05-26 ; Times: 13
+	Date: 2016-05-24 ; Times: 2
+	Date: 2016-05-25 ; Times: 3
+	Date: 2016-05-22 ; Times: 1
+	Date: 2016-05-30 ; Times: 2
+	Date: 2016-05-20 ; Times: 6
+	Date: 2016-05-31 ; Times: 1
+	Date: 2016-05-29 ; Times: 1
+	Date: 2016-05-28 ; Times: 2
+	Date: 2016-05-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Podilymbus podiceps AND Island NOT Canada" ; Times: 1
+	Query: "Oxypogon guerinii" ; Times: 1
+	Query: "orthotomus mearnsi" ; Times: 1
+	Query: "Otocoris AND Island" ; Times: 1
+	Query: "specificepithet:cerulea genus:setophaga stateprovince:&#34;connecticut&#34;" ; Times: 2
+	Query: "crinifer" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "ivory-billed woodpecker" ; Times: 1
+	Query: "netta rufina" ; Times: 1
+	Query: "recordedby:Condit collectioncode:Birds institutioncode:OSUM" ; Times: 2
+	Query: "elf" ; Times: 6
+	Query: "Megaceryle AND Island" ; Times: 1
+	Query: "dendrocopos medius" ; Times: 1
+	Query: "Podiceps auritus AND Island NOT Canada" ; Times: 1
+	Query: "Aix sponsa AND Island" ; Times: 1
+	Query: "glaucidium minutissimum" ; Times: 2
+	Query: "Campephilus principalis" ; Times: 5
+	Query: "E1674" ; Times: 1
+	Query: "conuropsis carolinensis" ; Times: 2
+	Query: "Oxyura jamaicensis AND Island" ; Times: 1
+	Query: "specificepithet:militaris genus:ara" ; Times: 1
+	Query: "type:specimen specificepithet:nebularia genus:Tringa institutioncode:OSUM" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "myzomela rubrata" ; Times: 1
+	Query: "fieldfare" ; Times: 3
+	Query: "Chlidonias leucopterus" ; Times: 1
+	Query: "numenius borealis" ; Times: 2
+	Query: "melanerpes santacruzi" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+	Query: "Prince Island AND Appleton" ; Times: 1
+	Query: "ara militaris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 327 download events in this period)
+Total number of records downloaded: 463
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: China ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 2
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-31 ; Times: 2
+	Date: 2016-05-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Chamaea" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "vermivora" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "Timaliidae" ; Times: 1
+	Query: "calypte anna" ; Times: 1
+	Query: "Zosterops" ; Times: 1
+	Query: "netta rufina" ; Times: 1
+
+
+End of report.
