@@ -1,0 +1,186 @@
+Report for Institution Code OSUM, Resource osum-birds
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 128
+Number of records retrieved in searches: 543
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 76
+	Country: Portugal ; Times: 28
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: South Korea ; Times: 1
+	Country: Russia ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 2
+	Date: 2016-06-09 ; Times: 7
+	Date: 2016-06-22 ; Times: 3
+	Date: 2016-06-21 ; Times: 4
+	Date: 2016-06-20 ; Times: 14
+	Date: 2016-06-04 ; Times: 2
+	Date: 2016-06-07 ; Times: 5
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-01 ; Times: 5
+	Date: 2016-06-02 ; Times: 9
+	Date: 2016-06-23 ; Times: 5
+	Date: 2016-06-08 ; Times: 7
+	Date: 2016-06-18 ; Times: 5
+	Date: 2016-06-19 ; Times: 1
+	Date: 2016-06-16 ; Times: 11
+	Date: 2016-06-17 ; Times: 1
+	Date: 2016-06-14 ; Times: 19
+	Date: 2016-06-15 ; Times: 8
+	Date: 2016-06-12 ; Times: 1
+	Date: 2016-06-13 ; Times: 3
+	Date: 2016-06-10 ; Times: 10
+	Date: 2016-06-11 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "egg Iceland 1909" ; Times: 1
+	Query: "14852" ; Times: 1
+	Query: "Phasianus colchicus 1" ; Times: 2
+	Query: "Cooper AND Cruz NOT Arizona" ; Times: 1
+	Query: "Streptopelia risoria 1" ; Times: 2
+	Query: "egg 1919 florida" ; Times: 1
+	Query: "davenport pond" ; Times: 2
+	Query: "catalognumber:16754" ; Times: 1
+	Query: "egg cheney e s" ; Times: 1
+	Query: "Estrilda astrild 1" ; Times: 4
+	Query: "Santa Cruz Island AND Birds AND 1916" ; Times: 1
+	Query: "San Miguel Island AND Egg AND 1906" ; Times: 1
+	Query: "egg texas 1900" ; Times: 1
+	Query: "Dawson AND Santa Cruz ISland" ; Times: 1
+	Query: "lagopus stateprovince:&#34;Wyoming&#34;" ; Times: 5
+	Query: "egg siberia" ; Times: 1
+	Query: "type:specimen specificepithet:plumbeiceps genus:todirostrum class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Mimus saturninus" ; Times: 1
+	Query: "11139" ; Times: 4
+	Query: "egg e.robson" ; Times: 1
+	Query: "egg iceland 1909" ; Times: 1
+	Query: "great gray owl" ; Times: 1
+	Query: "davenport pond pickaway ohio" ; Times: 1
+	Query: "Appleton AND Island" ; Times: 1
+	Query: "egg duncan" ; Times: 1
+	Query: "type:specimen catalognumber:1062" ; Times: 1
+	Query: "elf" ; Times: 8
+	Query: "14557" ; Times: 1
+	Query: "OSUM Birds B 8971" ; Times: 1
+	Query: "francolinus clappertoni" ; Times: 1
+	Query: "egg 1904 carter r e" ; Times: 1
+	Query: "Bird pix" ; Times: 1
+	Query: "catalognumber:7690" ; Times: 1
+	Query: "spring birds in Montana" ; Times: 1
+	Query: "egg 1894 decatur texas" ; Times: 1
+	Query: "egg iceland 1883" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "Accipiter cooperii AND Island" ; Times: 1
+	Query: "Oceanodroma microsoma AND Island" ; Times: 1
+	Query: "pseudoscops grammicus" ; Times: 9
+	Query: "Megascops kennicotti" ; Times: 2
+	Query: "egg florida 1889" ; Times: 1
+	Query: "14352" ; Times: 1
+	Query: "Oceanodroma microsoma AND Island NOT Mexico" ; Times: 1
+	Query: "16754" ; Times: 1
+	Query: "egg 1904 florida" ; Times: 1
+	Query: "oak titmouse" ; Times: 1
+	Query: "Thraupis atripennis" ; Times: 1
+	Query: "18771" ; Times: 1
+	Query: "egg washington 1919" ; Times: 1
+	Query: "OSUM 1626" ; Times: 1
+	Query: "Toxostoma longirostre" ; Times: 1
+	Query: "Fulica americana AND Island" ; Times: 1
+	Query: "type:specimen genus:todirostrum class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "11899" ; Times: 1
+	Query: "Smith AND Catalina" ; Times: 2
+	Query: "clappertoni" ; Times: 1
+	Query: "Lagopus leucura type:specimen specificepithet:leucura genus:Lagopus" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1907" ; Times: 1
+	Query: "egg 1904 florida carter" ; Times: 1
+	Query: "Serinus mozambicus 1" ; Times: 2
+	Query: "pavo cristatus" ; Times: 1
+	Query: "type:specimen genus:Todirostrum class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Vidua macroura 1" ; Times: 2
+	Query: "Asio stygius" ; Times: 2
+	Query: "Myiopsitta monachus 1" ; Times: 2
+	Query: "Oxyura jamaicensis 1" ; Times: 2
+	Query: "catalognumber:8894" ; Times: 1
+	Query: "Cairina moschata 1" ; Times: 3
+	Query: "egg bay of fundy 1915" ; Times: 1
+	Query: "Estrilda melpoda 1" ; Times: 3
+	Query: "Psittacula krameri 1" ; Times: 2
+	Query: "egg 1909 alberta" ; Times: 1
+	Query: "egg missouri 1895" ; Times: 1
+	Query: "Otus kennicotti" ; Times: 3
+	Query: "Doryfera ludovicae" ; Times: 1
+	Query: "Amandava amandava 1" ; Times: 3
+	Query: "Catalina Island AND 1890" ; Times: 1
+	Query: "type:specimen specificepithet:flammigerus genus:Ramphocelus sex:male (icteronotus)" ; Times: 1
+	Query: "Setophaga magnolia institutioncode:OSUM" ; Times: 1
+	Query: "strix aluco" ; Times: 1
+	Query: "Cerorhinca monocerata AND &#34;Santa Cruz Island&#34;" ; Times: 2
+	Query: "San Miguel Island AND Birds AND 1906" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 1052 download events in this period)
+Total number of records downloaded: 431
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Denmark ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 3
+	Country: Mexico ; Times: 22
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 2
+	Date: 2016-06-23 ; Times: 1
+	Date: 2016-06-08 ; Times: 5
+	Date: 2016-06-21 ; Times: 3
+	Date: 2016-06-20 ; Times: 3
+	Date: 2016-06-05 ; Times: 4
+	Date: 2016-06-14 ; Times: 3
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-13 ; Times: 2
+	Date: 2016-06-02 ; Times: 2
+	Date: 2016-06-16 ; Times: 2
+	Date: 2016-06-19 ; Times: 1
+	Date: 2016-06-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 2
+	Query: "grus americana" ; Times: 3
+	Query: "Columba livia" ; Times: 1
+	Query: "aegolius Acadicus" ; Times: 1
+	Query: "aegolius funereus" ; Times: 2
+	Query: "Thraupis palmarum" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 3
+	Query: "Euphonia pectoralis" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "Thraupis atripennis" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+	Query: "trogon elegans" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;coyote&#34; OR &#34;Canis latrans&#34;) mappable:1" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "Tangara seledon" ; Times: 1
+	Query: "magnolia warbler" ; Times: 1
+	Query: "Oriolus chinensis" ; Times: 1
+	Query: "laterallus" ; Times: 1
+	Query: "columba livia" ; Times: 1
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "Wilsonia citrina" ; Times: 1
+	Query: "Calocitta colliei" ; Times: 1
+
+
+End of report.
