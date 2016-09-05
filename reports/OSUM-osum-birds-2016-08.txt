@@ -1,0 +1,204 @@
+Report for Institution Code OSUM, Resource osum-birds
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 140
+Number of records retrieved in searches: 672
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 46
+	Country: Canada ; Times: 9
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 1
+	Country: United States ; Times: 77
+	Country: Puerto Rico ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 11
+	Date: 2016-08-11 ; Times: 15
+	Date: 2016-08-12 ; Times: 11
+	Date: 2016-08-09 ; Times: 3
+	Date: 2016-08-14 ; Times: 11
+	Date: 2016-08-15 ; Times: 7
+	Date: 2016-08-16 ; Times: 15
+	Date: 2016-08-25 ; Times: 5
+	Date: 2016-08-24 ; Times: 2
+	Date: 2016-08-27 ; Times: 2
+	Date: 2016-08-26 ; Times: 5
+	Date: 2016-08-21 ; Times: 3
+	Date: 2016-08-20 ; Times: 4
+	Date: 2016-08-30 ; Times: 6
+	Date: 2016-08-31 ; Times: 12
+	Date: 2016-08-18 ; Times: 4
+	Date: 2016-08-23 ; Times: 7
+	Date: 2016-08-19 ; Times: 6
+	Date: 2016-08-29 ; Times: 5
+	Date: 2016-08-22 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen genus:Heliomaster class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:STEPHANOXIS class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:Leucochloris class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:columba class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "elf" ; Times: 5
+	Query: "egg alaska 1894" ; Times: 1
+	Query: "specificepithet:peregrinus genus:falco county:&#34;cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "type:specimen specificepithet:rufaxilla genus:leptotila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "gracula religiosa" ; Times: 1
+	Query: "Gabb Costa Rica" ; Times: 1
+	Query: "class:aves stateprovince:&#34;New Mexico&#34; year &gt;= 1885 year &lt;= 1885 month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "type:specimen genus:guira class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:brasiliana genus:hydropsalis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "macray" ; Times: 1
+	Query: "pitta brachyura" ; Times: 4
+	Query: "specificepithet:peregrinus genus:falco stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "egg lapland" ; Times: 3
+	Query: "type:specimen genus:OTUS class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:cunicularia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Cotinga mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:STYGIUS class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Catalina AND Carpodacus NOT Arizona" ; Times: 1
+	Query: "catalognumber:1726" ; Times: 2
+	Query: "egg north dakota dodd" ; Times: 1
+	Query: "chaetocercus heliodor" ; Times: 9
+	Query: "Island AND Piranga olivacea" ; Times: 1
+	Query: "type:specimen genus:podager class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "egg 1890 charles" ; Times: 1
+	Query: "type:specimen specificepithet:talpacoti class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:fimbriata genus:Amazilia class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "&#34;vermivora pinus&#34; stateprovince:&#34;virginia&#34;" ; Times: 2
+	Query: "type:specimen genus:Columba class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:Podager class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:ani genus:CROTOPHAGA class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "egg texas 1913" ; Times: 2
+	Query: "type:specimen specificepithet:scintilla genus:Selasphorus" ; Times: 1
+	Query: "type:specimen specificepithet:cayana genus:Piaya class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Falco peregrinus Texas" ; Times: 1
+	Query: "parabuteo unicinctus type:specimen institutioncode:OSUM" ; Times: 1
+	Query: "type:specimen specificepithet:choliba class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Setophaga kirtlandii type:specimen" ; Times: 2
+	Query: "specificepithet:kirtlandii genus:Setophaga" ; Times: 5
+	Query: "type:specimen specificepithet:cayana genus:piaya class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:furcifer genus:Heliomaster class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:Hylocharis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "specificepithet:peregrinus genus:falco stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "egg red river walter raine" ; Times: 1
+	Query: "egg brandenburg germany" ; Times: 1
+	Query: "type:specimen genus:megaceryle class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Turdus nanus" ; Times: 3
+	Query: "psittacus erithacus" ; Times: 1
+	Query: "bird shape" ; Times: 1
+	Query: "egg assiniboine walter raine" ; Times: 1
+	Query: "passenger pigeon" ; Times: 9
+	Query: "&#34;vermivora chrysoptera&#34; stateprovince:&#34;virginia&#34;" ; Times: 2
+	Query: "class:aves stateprovince:&#34;New Mexico&#34; year &gt;= 1885 year &lt;= 1885" ; Times: 1
+	Query: "type:specimen specificepithet:aureoventris genus:Chlorostilbon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Piculus chrysochloros" ; Times: 1
+	Query: "type:specimen specificepithet:minutissimum class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:piaya class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:cinereus genus:Coccyzus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:americana genus:chloroceryle class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:leucogaster genus:Amazilia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "egg county kerry ireland" ; Times: 1
+	Query: "macRay" ; Times: 1
+	Query: "egg orkney islands" ; Times: 1
+	Query: "type:specimen specificepithet:picui genus:columbina class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "&#34;Ceyx erithacus&#34;" ; Times: 1
+	Query: "buteo albicaudatus type:specimen institutioncode:OSUM" ; Times: 1
+	Query: "Clay Dakota 1882" ; Times: 1
+	Query: "Thamnistes" ; Times: 1
+	Query: "egg holland" ; Times: 1
+	Query: "dendrocopos medius" ; Times: 1
+	Query: "buteo lineatus type:specimen institutioncode:OSUM" ; Times: 2
+	Query: "type:specimen genus:Chlorostilbon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Lophophorus impejanus" ; Times: 2
+	Query: "type:specimen specificepithet:nigricollis genus:Anthracothorax class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:calliope stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "egg mississippi" ; Times: 1
+	Query: "Catalina AND Carpodacus" ; Times: 1
+	Query: "type:specimen genus:athene class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:melacoryphus genus:coccyzus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:Coccyzus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "buteo jamaicensis harlani type:specimen institutioncode:OSUM" ; Times: 1
+	Query: "type:specimen specificepithet:nacunda class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "falco femoralis type:specimen institutioncode:OSUM" ; Times: 1
+	Query: "type:specimen specificepithet:chrysura genus:hylocharis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:Anthracothorax class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Saxicola oenanthe" ; Times: 1
+	Query: "egg lake manitoba" ; Times: 1
+	Query: "Dendroica kirtlandii type:specimen" ; Times: 1
+	Query: "type:specimen specificepithet:CLAMATOR class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:leptotila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Xipholena mappable:1" ; Times: 1
+	Query: "egg south carolina 1910" ; Times: 1
+	Query: "egg north iceland 1908" ; Times: 1
+	Query: "type:specimen genus:zenaida class:Aves country:&#34;Brazil&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 924 download events in this period)
+Total number of records downloaded: 860
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 14
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 1
+	Date: 2016-08-11 ; Times: 1
+	Date: 2016-08-12 ; Times: 1
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-29 ; Times: 1
+	Date: 2016-08-16 ; Times: 3
+	Date: 2016-08-18 ; Times: 2
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-23 ; Times: 1
+	Date: 2016-08-31 ; Times: 1
+	Date: 2016-08-25 ; Times: 1
+	Date: 2016-08-30 ; Times: 4
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-22 ; Times: 6
+	Date: 2016-08-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Mecca" ; Times: 1
+	Query: "gavia" ; Times: 1
+	Query: "stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "chrysoparia" ; Times: 1
+	Query: "cotinga cotinga type:specimen" ; Times: 1
+	Query: "&#34;Ceyx erithacus&#34;" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "chlorospingus" ; Times: 2
+	Query: "Vireo bellii pusillus" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "White-crowned Sparrow" ; Times: 1
+	Query: "lanius ludovicianus" ; Times: 1
+	Query: "falco rufigularis" ; Times: 1
+	Query: "Cypseloides" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "Apodidae" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "invertebrate" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "Polioptila californica californica" ; Times: 1
+	Query: "genus:Xipholena mappable:1" ; Times: 1
+	Query: "Colombia Aves" ; Times: 1
+	Query: "Agelaius tricolor" ; Times: 1
+	Query: "specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "genus:Cotinga mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:jamaicensis genus:laterallus" ; Times: 1
+
+
+End of report.
