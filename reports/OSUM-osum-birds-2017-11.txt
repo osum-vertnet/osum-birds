@@ -1,0 +1,82 @@
+Report for Institution Code OSUM, Resource osum-birds
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 37
+Number of records retrieved in searches: 193
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Canada ; Times: 5
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 9
+	Date: 2017-11-29 ; Times: 1
+	Date: 2017-11-26 ; Times: 2
+	Date: 2017-11-27 ; Times: 11
+	Date: 2017-11-24 ; Times: 2
+	Date: 2017-11-25 ; Times: 6
+	Date: 2017-11-30 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:venusta venusta genus:Dacnis hastissue:0" ; Times: 1
+	Query: "country:&#34;canada&#34; recordedby:forge" ; Times: 7
+	Query: "specificepithet:nigricans genus:Sayornis class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1908" ; Times: 1
+	Query: "genus:Sialia institutioncode:OSUM" ; Times: 1
+	Query: "Blue-headed Vireo sex:male" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "genus:Cinclus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Dacnis venusta" ; Times: 1
+	Query: "snake stateprovince:&#34;new jersey&#34;" ; Times: 1
+	Query: "specificepithet:cinctus genus:parus class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:borealis genus:numenius" ; Times: 2
+	Query: "Warbling Vireo sex:male" ; Times: 1
+	Query: "Dacnis venusta venusta" ; Times: 2
+	Query: "Haliaeetus albicilla egg" ; Times: 1
+	Query: "april payne" ; Times: 2
+	Query: "genus:Tyto class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769 year &lt;= 1905" ; Times: 1
+	Query: "genus:Euphagus class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769 year &lt;= 1896" ; Times: 1
+	Query: "red kite" ; Times: 1
+	Query: "albatrus" ; Times: 1
+	Query: "egg greenland" ; Times: 1
+	Query: "Podiceps grisegena minnesota" ; Times: 1
+	Query: "egg aquila ohio" ; Times: 1
+	Query: "specificepithet:melanura genus:Polioptila class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1891" ; Times: 1
+	Query: "Jamaican Vireo sex:male" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1918" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1101 download events in this period)
+Total number of records downloaded: 33
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 4
+	Country: Israel ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-26 ; Times: 3
+	Date: 2017-11-27 ; Times: 2
+	Date: 2017-11-30 ; Times: 2
+	Date: 2017-11-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco sparverius paulus vntype:specimen" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Coeligena lutetiae" ; Times: 1
+	Query: "greenland aves" ; Times: 1
+	Query: "genus:Cinclus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Anisognathus igniventris" ; Times: 1
+	Query: "specificepithet:cinctus genus:parus class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "halcyon smyrnensis" ; Times: 2
+
+
+End of report.
