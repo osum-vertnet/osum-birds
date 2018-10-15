@@ -1,0 +1,371 @@
+Report for Institution Code OSUM, Resource osum-birds
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 450
+Number of records retrieved in searches: 3148
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 22
+	Country: United States ; Times: 135
+	Country: Israel ; Times: 1
+	Country: Portugal ; Times: 272
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 2
+	Country: Switzerland ; Times: 5
+	Country: Brazil ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 8
+	Date: 2018-02-08 ; Times: 4
+	Date: 2018-02-03 ; Times: 2
+	Date: 2018-02-01 ; Times: 2
+	Date: 2018-02-07 ; Times: 2
+	Date: 2018-02-06 ; Times: 4
+	Date: 2018-02-05 ; Times: 23
+	Date: 2018-02-04 ; Times: 1
+	Date: 2018-02-21 ; Times: 4
+	Date: 2018-02-20 ; Times: 149
+	Date: 2018-02-23 ; Times: 5
+	Date: 2018-02-22 ; Times: 6
+	Date: 2018-02-25 ; Times: 5
+	Date: 2018-02-24 ; Times: 1
+	Date: 2018-02-27 ; Times: 135
+	Date: 2018-02-26 ; Times: 12
+	Date: 2018-02-28 ; Times: 3
+	Date: 2018-02-14 ; Times: 49
+	Date: 2018-02-15 ; Times: 1
+	Date: 2018-02-17 ; Times: 3
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-11 ; Times: 8
+	Date: 2018-02-12 ; Times: 12
+	Date: 2018-02-13 ; Times: 1
+	Date: 2018-02-18 ; Times: 1
+	Date: 2018-02-19 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Aix sponsa mappable:1" ; Times: 1
+	Query: "catalognumber:5917" ; Times: 1
+	Query: "Uraeginthus bengalus mappable:1" ; Times: 4
+	Query: "institutioncode:OSUM pipilo" ; Times: 1
+	Query: "institutioncode:OSUM anas" ; Times: 1
+	Query: "institutioncode:OSUM falco" ; Times: 1
+	Query: "catalognumber:1508" ; Times: 1
+	Query: "Myiopsitta monachus mappable:1" ; Times: 3
+	Query: "institutioncode:OSUM conuropsis" ; Times: 2
+	Query: "class:Aves recordedby:Palsson lifestage:egg" ; Times: 4
+	Query: "ivory-billed woodpecker" ; Times: 5
+	Query: "institutioncode:OSUM podiceps" ; Times: 1
+	Query: "pharomachrus mocinno Guatemala" ; Times: 1
+	Query: "Alectoris chukar mappable:1" ; Times: 4
+	Query: "Caracara plancus mappable:1" ; Times: 3
+	Query: "Lamprotornis chalybaeus mappable:1" ; Times: 5
+	Query: "institutioncode:OSUM aegolius" ; Times: 1
+	Query: "Chrysolophus amherstiae mappable:1" ; Times: 4
+	Query: "elf" ; Times: 2
+	Query: "institutioncode:OSUM caracara" ; Times: 1
+	Query: "institutioncode:OSUM nycticorax" ; Times: 1
+	Query: "Sarkidiornis melanotos mappable:1" ; Times: 4
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "specificepithet:monachus genus:Myiopsitta" ; Times: 1
+	Query: "Forpus passerinus mappable:1" ; Times: 3
+	Query: "Gracula religiosa mappable:1" ; Times: 4
+	Query: "institutioncode:OSUM psittacula" ; Times: 2
+	Query: "catalognumber:1639" ; Times: 1
+	Query: "institutioncode:OSUM podilymbus" ; Times: 1
+	Query: "Amadina fasciata mappable:1" ; Times: 4
+	Query: "Cairina moschata mappable:1" ; Times: 4
+	Query: "institutioncode:OSUM acrocephalus" ; Times: 1
+	Query: "Geopelia cuneata mappable:1" ; Times: 4
+	Query: "institutioncode:OSUM myadestes" ; Times: 1
+	Query: "Dendrocopos major mappable:1" ; Times: 2
+	Query: "pharomachrus mocinno" ; Times: 1
+	Query: "specificepithet:caerulea genus:Passerina lifestage:egg" ; Times: 1
+	Query: "Dendrocopos medius mappable:1" ; Times: 3
+	Query: "Lonchura malacca mappable:1" ; Times: 4
+	Query: "Sicalis luteola mappable:1" ; Times: 4
+	Query: "Piranga leucoptera mappable:1" ; Times: 4
+	Query: "Pyrrhura frontalis mappable:1" ; Times: 3
+	Query: "institutioncode:OSUM pyrocephalus" ; Times: 1
+	Query: "Spermestes cucullata mappable:1" ; Times: 5
+	Query: "Anas cyanoptera mappable:1" ; Times: 1
+	Query: "Halcyon chloris mappable:1" ; Times: 5
+	Query: "Anas capensis mappable:1" ; Times: 4
+	Query: "Oceanodroma macrodactyla" ; Times: 2
+	Query: "Poephila guttata mappable:1" ; Times: 3
+	Query: "institutioncode:OSUM porphyrio" ; Times: 1
+	Query: "Phoenicopterus ruber mappable:1" ; Times: 4
+	Query: "Coturnix chinensis mappable:1" ; Times: 3
+	Query: "Jacana jacana mappable:1" ; Times: 4
+	Query: "Nymphicus hollandicus mappable:1" ; Times: 3
+	Query: "Netta rufina basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "faroe" ; Times: 1
+	Query: "institutioncode:OSUM ectopistes" ; Times: 1
+	Query: "Paroaria coronata mappable:1" ; Times: 4
+	Query: "Oliver Jones" ; Times: 1
+	Query: "(19137)" ; Times: 1
+	Query: "institutioncode:OSUM fulica" ; Times: 1
+	Query: "Melanerpes carolinus (Melanerpes carolinus) institutioncode:OSUM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "institutioncode:OSUM nestor" ; Times: 1
+	Query: "Serinus mozambicus mappable:1" ; Times: 3
+	Query: "Lophortyx californica mappable:1" ; Times: 2
+	Query: "class:Aves recordedby:William F. Palsson lifestage:egg" ; Times: 1
+	Query: "specificepithet:ellioti genus:Syrmaticus" ; Times: 1
+	Query: "Chauna torquata basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Parus hasmass:1" ; Times: 1
+	Query: "institutioncode:OSUM ptilinopus" ; Times: 1
+	Query: "Agapornis nigrigenis mappable:1" ; Times: 3
+	Query: "genus:Colaptes stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Ajaia ajaja mappable:1" ; Times: 4
+	Query: "Parabuteo unicinctus mappable:1" ; Times: 1
+	Query: "institutioncode:OSUM nyctanassa" ; Times: 1
+	Query: "institutioncode:OSUM dromaius" ; Times: 1
+	Query: "Zenaida auriculata mappable:1" ; Times: 4
+	Query: "Sicalis flaveola mappable:1" ; Times: 4
+	Query: "institutioncode:OSUM ixobrychus" ; Times: 1
+	Query: "institutioncode:OSUM alopochen" ; Times: 1
+	Query: "institutioncode:OSUM myiagra" ; Times: 1
+	Query: "Aratinga leucophthalmus mappable:1" ; Times: 3
+	Query: "Amazonetta brasiliensis mappable:1" ; Times: 4
+	Query: "Chauna torquata mappable:1" ; Times: 4
+	Query: "catalognumber:14911" ; Times: 1
+	Query: "Dendrocygna autumnalis mappable:1" ; Times: 3
+	Query: "Oceanodroma leucorhoa socorroensis" ; Times: 1
+	Query: "institutioncode:OSUM zenaida" ; Times: 1
+	Query: "catalognumber:6604" ; Times: 2
+	Query: "class:Aves recordedby:William F. Palsson" ; Times: 2
+	Query: "Ploceus nigerrimus mappable:1" ; Times: 4
+	Query: "B-1357" ; Times: 1
+	Query: "catalognumber:7902" ; Times: 1
+	Query: "specificepithet:vulgaris genus:Sturnus massing &gt;= 10 massing &lt;= 60" ; Times: 1
+	Query: "catalognumber:4152" ; Times: 1
+	Query: "Lophura nycthemera mappable:1" ; Times: 4
+	Query: "specificepithet:fucata genus:alopochelidon" ; Times: 2
+	Query: "Cygnus atratus mappable:1" ; Times: 4
+	Query: "Elanoides forficatus mappable:1" ; Times: 4
+	Query: "institutioncode:OSUM amazona" ; Times: 1
+	Query: "Vidua macroura mappable:1" ; Times: 4
+	Query: "Diomedea nigripes" ; Times: 1
+	Query: "ara militaris" ; Times: 1
+	Query: "Passenger Pigeon" ; Times: 12
+	Query: "birds Angola" ; Times: 2
+	Query: "Melopsittacus undulatus mappable:1" ; Times: 3
+	Query: "Muscivora tyrannus mappable:1" ; Times: 4
+	Query: "Psittacus erithacus mappable:1" ; Times: 3
+	Query: "thamnistes saturatus" ; Times: 1
+	Query: "Carolina parakeet" ; Times: 2
+	Query: "specificepithet:fasciata genus:Amadina" ; Times: 1
+	Query: "Buteo regalis mappable:1" ; Times: 2
+	Query: "Acrocephalus arundinaceus" ; Times: 1
+	Query: "recordedby:Rossignol lifestage:egg" ; Times: 1
+	Query: "vntype:specimen specificepithet:melancholicus genus:Tyrannus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Coragyps atratus mappable:1" ; Times: 2
+	Query: "13778" ; Times: 1
+	Query: "locality:hyde stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "institutioncode:OSUM chlorostilbon" ; Times: 1
+	Query: "class:Aves locality:Alabama" ; Times: 5
+	Query: "Numida meleagris mappable:1" ; Times: 4
+	Query: "catalognumber:15136" ; Times: 1
+	Query: "bobolink" ; Times: 1
+	Query: "Chauna chavaria basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "institutioncode:OSUM colaptes" ; Times: 1
+	Query: "passenger pigeon" ; Times: 5
+	Query: "vntype:specimen specificepithet:melancholicus genus:TYrannus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Anser rossii mappable:1" ; Times: 5
+	Query: "bicknelli" ; Times: 1
+	Query: "Branta ruficollis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Chrysolophus pictus mappable:1" ; Times: 4
+	Query: "Lonchura atricapilla mappable:1" ; Times: 4
+	Query: "Dendragapus obscurus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "institutioncode:OSUM ara" ; Times: 1
+	Query: "Chenonetta jubata mappable:1" ; Times: 4
+	Query: "bird mortality" ; Times: 1
+	Query: "institutioncode:OSUM quiscalus" ; Times: 1
+	Query: "Eudocimus ruber mappable:1" ; Times: 4
+	Query: "catalognumber:6020" ; Times: 1
+	Query: "Aythya ferina basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Platalea ajaja mappable:1" ; Times: 4
+	Query: "Lophophorus impejanus mappable:1" ; Times: 4
+	Query: "Guira guira mappable:1" ; Times: 4
+	Query: "specificepithet:melodia insignis genus:melospiza stateprovince:&#34;alaska&#34;" ; Times: 2
+	Query: "institutioncode:OSUM chenonetta" ; Times: 1
+	Query: "Columbina talpacoti mappable:1" ; Times: 2
+	Query: "Polyborus plancus mappable:1" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:mccracken institutioncode:OSUM" ; Times: 1
+	Query: "alopochelidon fucata" ; Times: 1
+	Query: "Alectoris graeca mappable:1" ; Times: 4
+	Query: "melospiza melodia insignis" ; Times: 1
+	Query: "Psittacula krameri mappable:1" ; Times: 3
+	Query: "Estrilda caerulescens mappable:1" ; Times: 4
+	Query: "Taeniopygia guttata mappable:1" ; Times: 3
+	Query: "genus:Turdus class:Aves recordedby:Palsson" ; Times: 2
+	Query: "institutioncode:OSUM phalacrocorax" ; Times: 1
+	Query: "Lonchura cucullata mappable:1" ; Times: 3
+	Query: "Passenger pigeon" ; Times: 11
+	Query: "Phoeniculus purpureus mappable:1" ; Times: 4
+	Query: "institutioncode:OSUM carpodacus" ; Times: 1
+	Query: "Lamprotornis caudatus mappable:1" ; Times: 4
+	Query: "Anas flavirostris mappable:1" ; Times: 4
+	Query: "catalognumber:2201" ; Times: 1
+	Query: "Estrilda astrild mappable:1" ; Times: 4
+	Query: "catalognumber:13829" ; Times: 1
+	Query: "institutioncode:OSUM mergus" ; Times: 1
+	Query: "institutioncode:OSUM aplonis" ; Times: 1
+	Query: "institutioncode:OSUM himatione" ; Times: 1
+	Query: "catalognumber:15484" ; Times: 1
+	Query: "institutioncode:OSUM coturnix" ; Times: 1
+	Query: "Anas castanea mappable:1" ; Times: 4
+	Query: "specificepithet:melodia insignis genus:melospiza" ; Times: 1
+	Query: "class:Aves recordedby:Palsson" ; Times: 8
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:mccracken" ; Times: 6
+	Query: "Platycercus eximius mappable:1" ; Times: 1
+	Query: "specificepithet:columbarius genus:falco class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Chloebia gouldiae mappable:1" ; Times: 5
+	Query: "institutioncode:OSUM gallinula" ; Times: 1
+	Query: "Bubo africanus mappable:1" ; Times: 3
+	Query: "class:aves (19137)" ; Times: 1
+	Query: "Eudocimus albus mappable:1" ; Times: 2
+	Query: "Serinus canaria mappable:1" ; Times: 4
+	Query: "institutioncode:OSUM columba" ; Times: 1
+	Query: "Falco femoralis mappable:1" ; Times: 4
+	Query: "specificepithet:columbarius genus:Falco stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Francolinus francolinus mappable:1" ; Times: 2
+	Query: "institutioncode:OSUM haematopus" ; Times: 1
+	Query: "catalognumber:16045" ; Times: 1
+	Query: "Amazona ochrocephala mappable:1" ; Times: 3
+	Query: "catalognumber:10378" ; Times: 1
+	Query: "Columba livia egg" ; Times: 1
+	Query: "specificepithet:vanikorensis genus:Collocalia" ; Times: 1
+	Query: "Musophaga violacea mappable:1" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 96 (out of 1892 download events in this period)
+Total number of records downloaded: 4709
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 3
+	Country: France ; Times: 1
+	Country: United States ; Times: 78
+	Country: Guatemala ; Times: 1
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 3
+	Date: 2018-02-15 ; Times: 2
+	Date: 2018-02-23 ; Times: 1
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-11 ; Times: 2
+	Date: 2018-02-12 ; Times: 2
+	Date: 2018-02-13 ; Times: 4
+	Date: 2018-02-28 ; Times: 3
+	Date: 2018-02-26 ; Times: 2
+	Date: 2018-02-06 ; Times: 11
+	Date: 2018-02-04 ; Times: 1
+	Date: 2018-02-09 ; Times: 4
+	Date: 2018-02-08 ; Times: 5
+	Date: 2018-02-03 ; Times: 1
+	Date: 2018-02-02 ; Times: 2
+	Date: 2018-02-01 ; Times: 5
+	Date: 2018-02-27 ; Times: 3
+	Date: 2018-02-07 ; Times: 2
+	Date: 2018-02-20 ; Times: 14
+	Date: 2018-02-05 ; Times: 27
+	Date: 2018-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cassinii genus:Carpodacus" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza" ; Times: 4
+	Query: "specificepithet:galbula genus:Icterus" ; Times: 1
+	Query: "specificepithet:whitneyi genus:Micrathene" ; Times: 1
+	Query: "class:Aves country:&#34;Gabon&#34;" ; Times: 1
+	Query: "specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "specificepithet:purpureus genus:Carpodacus" ; Times: 1
+	Query: "specificepithet:melpoda genus:Estrilda" ; Times: 1
+	Query: "specificepithet:fasciata genus:Amadina" ; Times: 1
+	Query: "specificepithet:occidentalis genus:strix" ; Times: 1
+	Query: "specificepithet:atra genus:Fulica" ; Times: 1
+	Query: "specificepithet:macroura genus:zenaida" ; Times: 1
+	Query: "specificepithet:undulatus genus:Melopsittacus" ; Times: 1
+	Query: "specificepithet:ocellata genus:Leipoa" ; Times: 1
+	Query: "specificepithet:ellioti genus:Syrmaticus" ; Times: 1
+	Query: "Empidonax alnorum" ; Times: 1
+	Query: "specificepithet:minor genus:Chordeiles" ; Times: 1
+	Query: "specificepithet:melodia genus:Melospiza" ; Times: 3
+	Query: "specificepithet:acadicus genus:Aegolius" ; Times: 1
+	Query: "puma" ; Times: 2
+	Query: "Hylophilus ochraceiceps" ; Times: 1
+	Query: "buren" ; Times: 1
+	Query: "specificepithet:belli genus:Amphispiza" ; Times: 2
+	Query: "specificepithet:excubitor genus:Lanius" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "specificepithet:melodia gouldii genus:melospiza" ; Times: 1
+	Query: "class:aves recordedby:weber" ; Times: 1
+	Query: "window" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Strix" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+	Query: "specificepithet:georgiana genus:melospiza" ; Times: 1
+	Query: "specificepithet:bullockii genus:Icterus" ; Times: 1
+	Query: "specificepithet:atricapillus genus:Poecile hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:monachus genus:Myiopsitta" ; Times: 1
+	Query: "Momotus momota" ; Times: 3
+	Query: "specificepithet:melodia morphna genus:melospiza" ; Times: 1
+	Query: "Ammodramus henslowii" ; Times: 1
+	Query: "&#34;corvus corax&#34;" ; Times: 1
+	Query: "specificepithet:coturnix genus:Coturnix" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "window class:Aves" ; Times: 2
+	Query: "specificepithet:chukar genus:Alectoris" ; Times: 1
+	Query: "specificepithet:melodia insignis genus:melospiza" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "specificepithet:vanikorensis genus:Collocalia" ; Times: 1
+	Query: "specificepithet:melodia rufina genus:melospiza" ; Times: 1
+	Query: "specificepithet:vociferus genus:Caprimulgus" ; Times: 1
+	Query: "specificepithet:melodia class:aves" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis hasmass:1" ; Times: 1
+	Query: "pharomachrus mocinno" ; Times: 2
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "specificepithet:virens genus:Andropadus basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Chroicocephalus ridibundus" ; Times: 1
+	Query: "coereba" ; Times: 1
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 1
+	Query: "specificepithet:alle genus:Alle" ; Times: 1
+	Query: "class:Aves country:&#34;Myanmar&#34;" ; Times: 1
+	Query: "specificepithet:melodia sanaka genus:melospiza stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "specificepithet:chloris genus:nicator basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 1
+	Query: "specificepithet:columbarius genus:Falco stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Arremonops conirostris" ; Times: 2
+	Query: "specificepithet:montifringilla genus:Fringilla" ; Times: 1
+	Query: "Window" ; Times: 1
+	Query: "class:Aves country:&#34;Sri Lanka&#34;" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "specificepithet:lincolnii genus:melospiza" ; Times: 1
+	Query: "genus:junco hasmass:1" ; Times: 1
+	Query: "vntype:specimen genus:Meleagris sex:Male basisofrecord:PreservedSpecimen hassex:1" ; Times: 1
+	Query: "Podilymbus podiceps basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis" ; Times: 1
+	Query: "specificepithet:vulgaris genus:Sturnus massing &gt;= 10 massing &lt;= 60" ; Times: 1
+	Query: "specificepithet:melodia insignis genus:melospiza stateprovince:&#34;alaska&#34;" ; Times: 3
+	Query: "specificepithet:himantopus genus:Calidris hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:albus genus:Eudocimus stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma" ; Times: 1
+
+
+End of report.
