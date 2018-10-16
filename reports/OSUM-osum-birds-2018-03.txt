@@ -1,0 +1,247 @@
+Report for Institution Code OSUM, Resource osum-birds
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 286
+Number of records retrieved in searches: 877
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: Canada ; Times: 7
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: China ; Times: 2
+	Country: Colombia ; Times: 4
+	Country: Paraguay ; Times: 1
+	Country: United States ; Times: 250
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-28 ; Times: 17
+	Date: 2018-03-17 ; Times: 3
+	Date: 2018-03-16 ; Times: 11
+	Date: 2018-03-15 ; Times: 3
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-13 ; Times: 8
+	Date: 2018-03-12 ; Times: 1
+	Date: 2018-03-10 ; Times: 1
+	Date: 2018-03-30 ; Times: 2
+	Date: 2018-03-19 ; Times: 17
+	Date: 2018-03-18 ; Times: 4
+	Date: 2018-03-01 ; Times: 2
+	Date: 2018-03-02 ; Times: 12
+	Date: 2018-03-03 ; Times: 22
+	Date: 2018-03-04 ; Times: 2
+	Date: 2018-03-05 ; Times: 9
+	Date: 2018-03-06 ; Times: 23
+	Date: 2018-03-29 ; Times: 6
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-09 ; Times: 3
+	Date: 2018-03-24 ; Times: 1
+	Date: 2018-03-25 ; Times: 1
+	Date: 2018-03-26 ; Times: 51
+	Date: 2018-03-23 ; Times: 16
+	Date: 2018-03-20 ; Times: 7
+	Date: 2018-03-21 ; Times: 25
+	Date: 2018-03-27 ; Times: 37
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Chroicocephalus specificepithet:philadelphia" ; Times: 2
+	Query: "Aves institutioncode:OSUM hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:Cuculus specificepithet:canorus" ; Times: 4
+	Query: "class:Aves (17829)" ; Times: 1
+	Query: "genus:Casuarius specificepithet:Casuarius" ; Times: 5
+	Query: "gallus sonneratii india" ; Times: 1
+	Query: "vntype:specimen country:&#34;Brazil&#34; (egg)" ; Times: 1
+	Query: "carolina parakeet" ; Times: 1
+	Query: "genus:Melopsittacus specificepithet:undulatus" ; Times: 5
+	Query: "genus:Dacelo specificepithet:novaeguineae" ; Times: 2
+	Query: "catalognumber:13515" ; Times: 1
+	Query: "eurystomus orientalis" ; Times: 1
+	Query: "catalognumber:7360" ; Times: 1
+	Query: "genus:Merops specificepithet:pusillus" ; Times: 6
+	Query: "vntype:specimen specificepithet:varius genus:Empidonomus country:&#34;Brazil&#34;" ; Times: 2
+	Query: "aquila clanga" ; Times: 4
+	Query: "genus:Alca specificepithet:torda" ; Times: 5
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 6
+	Query: "elf" ; Times: 4
+	Query: "genus:Dendrocopos specificepithet:major" ; Times: 5
+	Query: "genus:Struthio specificepithet:camelus" ; Times: 2
+	Query: "catalognumber:5477" ; Times: 1
+	Query: "genus:Coturnix specificepithet:coturnix" ; Times: 5
+	Query: "16171" ; Times: 1
+	Query: "vulture wing" ; Times: 2
+	Query: "Pselliophorus tibialis" ; Times: 1
+	Query: "wood rat" ; Times: 2
+	Query: "Myiopsitta monachus " ; Times: 2
+	Query: "genus:Haematopus specificepithet:ostralegus" ; Times: 2
+	Query: "specificepithet:psittacea genus:Psittirostra" ; Times: 1
+	Query: "Gymnopithys bicolor" ; Times: 1
+	Query: "genus:Arenaria specificepithet:melanocephala" ; Times: 2
+	Query: "genus:Merops specificepithet:viridis" ; Times: 6
+	Query: "caprimulgus natalensis" ; Times: 1
+	Query: "genus:Scolopax specificepithet:rusticola" ; Times: 5
+	Query: "genus:Momotus specificepithet:momota" ; Times: 2
+	Query: "Poospiza lateralis" ; Times: 4
+	Query: "genus:Taeniopygia specificepithet:guttata" ; Times: 2
+	Query: "genus:Gallus specificepithet:gallus" ; Times: 3
+	Query: "genus:Actitis specificepithet:hypoleucos" ; Times: 5
+	Query: "genus:Todus specificepithet:mexicanus" ; Times: 6
+	Query: "genus:Eumomota specificepithet:superciliosa" ; Times: 6
+	Query: "genus:Aix specificepithet:sponsa" ; Times: 2
+	Query: "passenger pigeon basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Phoenicopterus specificepithet:ruber" ; Times: 5
+	Query: "vntype:specimen family: Caprimulgidae (WS)" ; Times: 1
+	Query: "Pezopetes capitalis" ; Times: 1
+	Query: "gallus sonneratii" ; Times: 1
+	Query: "class:Aves country:&#34;Spain&#34; institutioncode:OSUM" ; Times: 1
+	Query: "genus:Spheniscus specificepithet:magellanicus" ; Times: 5
+	Query: "specificepithet:tyrannus genus:TYrannus country:&#34;Brazil&#34;" ; Times: 2
+	Query: "ara militaris" ; Times: 2
+	Query: "family:Laridae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:Ciconia specificepithet:nigra" ; Times: 5
+	Query: "genus:Falcipennis specificepithet:canadensis" ; Times: 2
+	Query: "thamnistes saturatus" ; Times: 2
+	Query: "Lined Snake" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "genus:Columba specificepithet:livia" ; Times: 2
+	Query: "specificepithet:cassinii genus:Peucaea class:Aves" ; Times: 1
+	Query: "genus:Gelochelidon specificepithet:nilotica" ; Times: 2
+	Query: "atlapetes gutturalis" ; Times: 1
+	Query: "vntype:specimen specificepithet:varius genus:empidonomus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Lonchura malacca " ; Times: 2
+	Query: "egg vntype:specimen country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Ardea specificepithet:cinerea" ; Times: 5
+	Query: "genus:Ramphastos specificepithet:dicolorus" ; Times: 5
+	Query: "passenger pigeon" ; Times: 5
+	Query: "genus:Anas specificepithet:discors" ; Times: 3
+	Query: "genus:Larus specificepithet:philadelphia" ; Times: 3
+	Query: "genus:Geococcyx specificepithet:californianus" ; Times: 2
+	Query: "vntype:specimen genus:empidonomus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "B 1482" ; Times: 1
+	Query: "genus:Caprimulgus specificepithet:europaeus" ; Times: 5
+	Query: "genus:Alcedo specificepithet:atthis" ; Times: 2
+	Query: "genus:Phalacrocorax specificepithet:carbo" ; Times: 2
+	Query: "Oceanodroma macrodactyla" ; Times: 14
+	Query: "vanilla" ; Times: 1
+	Query: "specificepithet:oberholseri genus:Empidonax stateprovince:California" ; Times: 1
+	Query: "genus:Podiceps specificepithet:cristatus" ; Times: 2
+	Query: "genus:Luscinia specificepithet:megarhynchos" ; Times: 5
+	Query: "genus:Apus specificepithet:apus" ; Times: 5
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 6
+	Query: "Ramphastos dicolorus mappable:1" ; Times: 2
+	Query: "tachycineta leucorrhoa" ; Times: 1
+	Query: "Atlapetes leucopis" ; Times: 1
+	Query: "Passenger pigeon" ; Times: 2
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 3
+	Query: "buteo swainsoni" ; Times: 1
+	Query: "genus:Alectoris specificepithet:rufa" ; Times: 5
+	Query: "Melanerpes radiolatus" ; Times: 2
+	Query: "Saltator maxillosus" ; Times: 2
+	Query: "mallard wings" ; Times: 2
+	Query: "Crossoptilon crossoptilon" ; Times: 1
+	Query: "genus:Phasianus specificepithet:colchicus" ; Times: 2
+	Query: "genus:Falco specificepithet:tinnunculus" ; Times: 5
+	Query: "Charadrius melodus Ohio Bay Point" ; Times: 8
+	Query: "genus:Buteo specificepithet:buteo" ; Times: 5
+	Query: "genus:Phaethon specificepithet:lepturus" ; Times: 5
+	Query: "class:Aves (10328)" ; Times: 1
+	Query: "genus:Pelagodroma specificepithet:marina" ; Times: 2
+	Query: "genus:Coracias specificepithet:garrulus" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 1284 download events in this period)
+Total number of records downloaded: 3136
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United Kingdom ; Times: 6
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: United States ; Times: 18
+	Country: Sweden ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Brazil ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-18 ; Times: 2
+	Date: 2018-03-06 ; Times: 1
+	Date: 2018-03-12 ; Times: 5
+	Date: 2018-03-14 ; Times: 2
+	Date: 2018-03-17 ; Times: 2
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-02 ; Times: 5
+	Date: 2018-03-03 ; Times: 2
+	Date: 2018-03-04 ; Times: 1
+	Date: 2018-03-05 ; Times: 1
+	Date: 2018-03-28 ; Times: 2
+	Date: 2018-03-10 ; Times: 5
+	Date: 2018-03-26 ; Times: 4
+	Date: 2018-03-13 ; Times: 3
+	Date: 2018-03-27 ; Times: 8
+	Date: 2018-03-25 ; Times: 2
+	Date: 2018-03-22 ; Times: 1
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-19 ; Times: 2
+	Date: 2018-03-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Aves sex:male hassex:1 hasmass:1" ; Times: 1
+	Query: "Galbula ruficauda" ; Times: 1
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "vntype:specimen specificepithet:americana genus:Grus" ; Times: 3
+	Query: "manacus manacus" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "Gymnopithys bicolor" ; Times: 1
+	Query: "Cardellina pusilla" ; Times: 1
+	Query: "Pyrocephalus rubinus" ; Times: 1
+	Query: "Eurystomus orientalis" ; Times: 1
+	Query: "cephalopterus ornatus" ; Times: 1
+	Query: "conuropsis" ; Times: 1
+	Query: "Cygnus olor" ; Times: 1
+	Query: "anthracothorax viridigula" ; Times: 1
+	Query: "Aves institutioncode:OSUM hassex:1 hasmass:1" ; Times: 2
+	Query: "Egretta rufescens" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "eucometis penicillata" ; Times: 1
+	Query: "Alder Flycatcher" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "Eumomota superciliosa" ; Times: 1
+	Query: "eurystomus orientalis" ; Times: 1
+	Query: "painted bunting" ; Times: 1
+	Query: "Patagona gigas" ; Times: 1
+	Query: "specificepithet:vociferus genus:Charadrius hasmass:1" ; Times: 1
+	Query: "israel" ; Times: 1
+	Query: "Terenotriccus erythrurus" ; Times: 2
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "aphelocoma woodhouseii" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 1
+	Query: "conuropsis carolinensis" ; Times: 1
+	Query: "Chloroceryle aenea" ; Times: 1
+	Query: "Ramphocaenus melanurus" ; Times: 1
+	Query: "vntype:specimen country:&#34;Brazil&#34; (egg)" ; Times: 1
+	Query: "specificepithet:cardinalis genus:cardinalis hasmass:1" ; Times: 1
+	Query: "Oceanodroma macrodactyla" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 1
+	Query: "Cygnus atratus" ; Times: 1
+	Query: "Grus americana" ; Times: 1
+	Query: "class:Aves country:&#34;Spain&#34; institutioncode:OSUM" ; Times: 1
+	Query: "Henicorhina leucosticta vntype:specimen mappable:1" ; Times: 1
+	Query: "Gymnopithys leucaspis" ; Times: 1
+	Query: "Saltator" ; Times: 1
+	Query: "Eriocnemis" ; Times: 1
+	Query: "scientificname:&#34;Cyanocitta cristata&#34; hassex:1 hasmass:1" ; Times: 1
+
+
+End of report.
