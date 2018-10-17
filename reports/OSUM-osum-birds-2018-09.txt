@@ -1,0 +1,156 @@
+Report for Institution Code OSUM, Resource osum-birds
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 116
+Number of records retrieved in searches: 1269
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Netherlands ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 46
+	Country: Denmark ; Times: 3
+	Country: United States ; Times: 56
+	Country: Germany ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 8
+	Date: 2018-09-14 ; Times: 7
+	Date: 2018-09-10 ; Times: 5
+	Date: 2018-09-03 ; Times: 1
+	Date: 2018-09-27 ; Times: 4
+	Date: 2018-09-05 ; Times: 4
+	Date: 2018-09-13 ; Times: 3
+	Date: 2018-09-24 ; Times: 14
+	Date: 2018-09-25 ; Times: 3
+	Date: 2018-09-26 ; Times: 6
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-06 ; Times: 6
+	Date: 2018-09-07 ; Times: 3
+	Date: 2018-09-17 ; Times: 8
+	Date: 2018-09-16 ; Times: 2
+	Date: 2018-09-01 ; Times: 1
+	Date: 2018-09-18 ; Times: 4
+	Date: 2018-09-20 ; Times: 32
+	Date: 2018-09-09 ; Times: 1
+	Date: 2018-09-28 ; Times: 1
+	Date: 2018-09-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:91aa5e23-9cad-4751-86e0-241da77d7407" ; Times: 4
+	Query: "genus:mOLOTHRUS lifestage:EGG" ; Times: 3
+	Query: "specificepithet:nigrorufa genus:poospiza" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "vntype:specimen (apapane)" ; Times: 2
+	Query: "vntype:specimen specificepithet:swainsoni genus:buteo stateprovince:&#34;California&#34; year &gt;= 1700 year &lt;= 1950 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 1
+	Query: "(B-16792 16792)" ; Times: 1
+	Query: "ivory billed woodpecker" ; Times: 1
+	Query: "order:passeriformes (&#34;asia minor&#34;)" ; Times: 1
+	Query: "Semioptera" ; Times: 1
+	Query: "catalognumber:B-16792" ; Times: 1
+	Query: "country:&#34;United States&#34; Pavo cristatus" ; Times: 2
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 1
+	Query: "Old woman creek ohio" ; Times: 1
+	Query: "gbifdatasetid:91aa5e23-9cad-4751-86e0-241da77d7407 Passerina" ; Times: 1
+	Query: "19403 class:Aves" ; Times: 1
+	Query: "songbird" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 29
+	Query: "egg mississippi" ; Times: 1
+	Query: "Psittirostra psittacea vntype:specimen" ; Times: 2
+	Query: "Fratercula artica" ; Times: 2
+	Query: "class:aves catalognumber:12077" ; Times: 1
+	Query: "sterna dougallii (virginia OR carolina OR jersey)" ; Times: 1
+	Query: "Wesleyan institutioncode:OSUM" ; Times: 1
+	Query: "class:Aves year &gt;= 1990 year &lt;= 2018 institutioncode:OSUM" ; Times: 2
+	Query: "Onychoprion fuscatus" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 15
+	Query: "&#34;cinclus cinclus&#34;" ; Times: 1
+	Query: "specificepithet:kubaryi genus:rhipidura class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "coopers hawk" ; Times: 1
+	Query: "specificepithet:speciosa genus:geothlypis" ; Times: 1
+	Query: "stateprovince:&#34;california&#34; recordedby:wheeler" ; Times: 1
+	Query: "specificepithet:alinae" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 4
+	Query: "locality:ontario year &gt;= 1938 year &lt;= 1938" ; Times: 1
+	Query: "catalognumber:10678" ; Times: 1
+	Query: "yellow tit" ; Times: 1
+	Query: "14840" ; Times: 1
+	Query: "class:aves (16088)" ; Times: 1
+	Query: "specificepithet:portoricensis genus:icterus" ; Times: 1
+	Query: "specificepithet:parasiticus genus:Stercorarius country:&#34;United States&#34;" ; Times: 2
+	Query: "pharomachrus mocinno" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "specificepithet:fusca genus:Melanitta country:&#34;Russia&#34;" ; Times: 1
+	Query: "OSUM amazilia tzacatl" ; Times: 1
+	Query: "specificepithet:macroura class:aves year &gt;= 1912 year &lt;= 1912" ; Times: 1
+	Query: "Old woman creek" ; Times: 1
+	Query: "specificepithet:thilius genus:agelaius" ; Times: 1
+	Query: "egg corless" ; Times: 1
+	Query: "stephanoxis lalandii" ; Times: 1
+	Query: "Farallon 1899" ; Times: 3
+	Query: "egg alaska call" ; Times: 2
+	Query: "class:Aves year &gt;= 2000 year &lt;= 2018 institutioncode:OSUM" ; Times: 1
+	Query: "class:aves catalognumber:12071" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 846 download events in this period)
+Total number of records downloaded: 26864
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Canada ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-24 ; Times: 4
+	Date: 2018-09-10 ; Times: 2
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-07 ; Times: 2
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-23 ; Times: 1
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-18 ; Times: 3
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "racoon" ; Times: 1
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:swainsoni genus:buteo stateprovince:&#34;California&#34; year &gt;= 1700 year &lt;= 1950 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "county:&#34;pennington&#34; stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "RED BELLIED WOODPECKER" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 2
+	Query: "&#34;cinclus cinclus&#34;" ; Times: 1
+	Query: "DRYOCOPUS PILEATUS" ; Times: 1
+	Query: "HAIRY WOODPECKER" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "institutioncode:OSUM" ; Times: 1
+	Query: "specificepithet:xantusii genus:Hylocharis" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "Melopsittacus" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo" ; Times: 1
+	Query: "egretta thula" ; Times: 2
+	Query: "NORTHERN FLICKER" ; Times: 1
+	Query: "aechmophorus occidentalis" ; Times: 1
+	Query: "sphyrapicus varius" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+
+
+End of report.
