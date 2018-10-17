@@ -1,0 +1,224 @@
+Report for Institution Code OSUM, Resource osum-birds
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 123
+Number of records retrieved in searches: 894
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 33
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 2
+	Country: United States ; Times: 64
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Denmark ; Times: 3
+	Country: Switzerland ; Times: 1
+	Country: Venezuela ; Times: 6
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 1
+	Date: 2018-08-31 ; Times: 5
+	Date: 2018-08-18 ; Times: 5
+	Date: 2018-08-19 ; Times: 1
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-09 ; Times: 1
+	Date: 2018-08-15 ; Times: 1
+	Date: 2018-08-12 ; Times: 2
+	Date: 2018-08-13 ; Times: 2
+	Date: 2018-08-10 ; Times: 2
+	Date: 2018-08-08 ; Times: 9
+	Date: 2018-08-02 ; Times: 2
+	Date: 2018-08-03 ; Times: 6
+	Date: 2018-08-17 ; Times: 1
+	Date: 2018-08-27 ; Times: 6
+	Date: 2018-08-26 ; Times: 1
+	Date: 2018-08-25 ; Times: 17
+	Date: 2018-08-24 ; Times: 2
+	Date: 2018-08-23 ; Times: 1
+	Date: 2018-08-22 ; Times: 9
+	Date: 2018-08-21 ; Times: 4
+	Date: 2018-08-20 ; Times: 5
+	Date: 2018-08-05 ; Times: 5
+	Date: 2018-08-04 ; Times: 4
+	Date: 2018-08-07 ; Times: 5
+	Date: 2018-08-06 ; Times: 9
+	Date: 2018-08-01 ; Times: 10
+	Date: 2018-08-29 ; Times: 2
+	Date: 2018-08-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:irupero genus:Xolmis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:colubris (eggs)" ; Times: 1
+	Query: "country:&#34;Brazil&#34; institutioncode:OSUM" ; Times: 3
+	Query: "specificepithet:magnolia genus:setophaga stateprovince:&#34;ohio&#34; year &gt;= 1800 year &lt;= 1984 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "cancer" ; Times: 1
+	Query: "specificepithet:ornatus genus:Calcarius stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "egg bubo pt barrow alaska 1898" ; Times: 1
+	Query: "Chrysolophus pictus" ; Times: 1
+	Query: "vntype:specimen specificepithet:trichopsis genus:otus" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 4
+	Query: "vntype:specimen genus:vireo class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "francolinus (skeleton)" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinerea genus:xolmis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "locality:Witch county:&#34;San Diego&#34;" ; Times: 1
+	Query: "specificepithet:cinerea genus:Xolmis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "rhipidura kubaryi" ; Times: 1
+	Query: "troglodytes pullus" ; Times: 1
+	Query: "egg pt barrow alaska 1898" ; Times: 1
+	Query: "dendrocopos medius" ; Times: 1
+	Query: "catalognumber:16759" ; Times: 1
+	Query: "Passenger pigeon" ; Times: 2
+	Query: "Aphelocoma insularis" ; Times: 3
+	Query: "17984" ; Times: 1
+	Query: "Corapipo leucorrhoa" ; Times: 2
+	Query: "locality:berea" ; Times: 2
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 3
+	Query: "egg point barrow alaska" ; Times: 1
+	Query: "genus:lampornis country:&#34;panama&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:irupero class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "elf" ; Times: 4
+	Query: "vntype:specimen specificepithet:borealis genus:Numenius institutioncode:OSUM" ; Times: 2
+	Query: "egg 1898 point barrow alaska" ; Times: 1
+	Query: "Raw" ; Times: 2
+	Query: "country:&#34;Chile&#34; institutioncode:OSUM" ; Times: 2
+	Query: "specificepithet:crissalis order:Passeriformes county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:principalis genus:Campephilus" ; Times: 1
+	Query: "decoloratus" ; Times: 1
+	Query: "B-3403" ; Times: 1
+	Query: "country:&#34;Venezuela&#34; institutioncode:OSUM" ; Times: 2
+	Query: "specificepithet:borealis genus:Numenius institutioncode:OSUM" ; Times: 1
+	Query: "johannae" ; Times: 3
+	Query: "specificepithet:irupero class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Oxypogon country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Wing cord class:Aves" ; Times: 1
+	Query: "Megalaima haemacephala" ; Times: 1
+	Query: "specificepithet:kubaryi genus:rhipidura class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "doryfera johannae" ; Times: 2
+	Query: "country:&#34;Ecuador&#34; institutioncode:OSUM" ; Times: 3
+	Query: "Microtus institutioncode:OSUM" ; Times: 1
+	Query: "Aphelocoma insularis 1916" ; Times: 1
+	Query: "class:aves recordedby:handley" ; Times: 1
+	Query: "catalognumber:7064" ; Times: 1
+	Query: "Stephanoxis lalandii" ; Times: 2
+	Query: "ohio wesleyan university" ; Times: 1
+	Query: "country:&#34;Colombia&#34; institutioncode:OSUM" ; Times: 2
+	Query: "country:&#34;Peru&#34; institutioncode:OSUM" ; Times: 2
+	Query: "13353" ; Times: 1
+	Query: "tanysiptera meyeri" ; Times: 1
+	Query: "colinus virginianus country:&#34;jamaica&#34;" ; Times: 2
+	Query: "country:&#34;Panama&#34; institutioncode:OSUM" ; Times: 1
+	Query: "colinus virginianus country:&#34;Jamaica&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Colinus country:&#34;Jamaica&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:irupero genus:Xolmis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 3
+	Query: "country:&#34;Argentina&#34; institutioncode:OSUM" ; Times: 2
+	Query: "automolus exsertus" ; Times: 2
+	Query: "ensifera ensifera" ; Times: 1
+	Query: "Eudocimus ruber" ; Times: 6
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "spotted owl" ; Times: 2
+	Query: "class:AVES locality:berea" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinerea genus:Xolmis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "genus:Glaucidium country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:chiri genus:Vireo class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "egg grinnell j." ; Times: 1
+	Query: "13171" ; Times: 1
+	Query: "Microtus vntype:specimen institutioncode:OSUM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 59 (out of 1416 download events in this period)
+Total number of records downloaded: 2277
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 15
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 27
+	Country: Denmark ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 6
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-05 ; Times: 1
+	Date: 2018-08-06 ; Times: 1
+	Date: 2018-08-18 ; Times: 2
+	Date: 2018-08-28 ; Times: 3
+	Date: 2018-08-26 ; Times: 1
+	Date: 2018-08-13 ; Times: 2
+	Date: 2018-08-27 ; Times: 2
+	Date: 2018-08-31 ; Times: 1
+	Date: 2018-08-25 ; Times: 5
+	Date: 2018-08-23 ; Times: 1
+	Date: 2018-08-21 ; Times: 1
+	Date: 2018-08-19 ; Times: 7
+	Date: 2018-08-16 ; Times: 3
+	Date: 2018-08-09 ; Times: 6
+	Date: 2018-08-14 ; Times: 6
+	Date: 2018-08-15 ; Times: 11
+	Date: 2018-08-01 ; Times: 1
+	Date: 2018-08-07 ; Times: 2
+	Date: 2018-08-03 ; Times: 2
+	Date: 2018-08-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Passerculus sandwichensis" ; Times: 1
+	Query: "cancer" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Colombia&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:trichopsis genus:otus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "sooty tern" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 1
+	Query: "Asio flammeus" ; Times: 5
+	Query: "class:Aves country:&#34;Canada&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "zonotrichia capensis" ; Times: 1
+	Query: "great tailed grackle" ; Times: 1
+	Query: "Cyrtonyx montezumae" ; Times: 1
+	Query: "Aphelocoma insularis" ; Times: 2
+	Query: "Falco sparverius" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Charadrius montanus" ; Times: 1
+	Query: "Numenius americanus" ; Times: 1
+	Query: "fulmar" ; Times: 1
+	Query: "country:&#34;Brazil&#34; institutioncode:OSUM" ; Times: 1
+	Query: "Anthus spragueii" ; Times: 1
+	Query: "colinus virginianus country:&#34;jamaica&#34;" ; Times: 2
+	Query: "Diglossa baritula" ; Times: 1
+	Query: "podiceps cristatus" ; Times: 1
+	Query: "country:&#34;Ecuador&#34; institutioncode:OSUM" ; Times: 1
+	Query: "Tyrannus vociferans" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "Corapipo leucorrhoa" ; Times: 1
+	Query: "Euphagus cyanocephalus" ; Times: 1
+	Query: "country:&#34;Colombia&#34; institutioncode:OSUM" ; Times: 1
+	Query: "Sialia currucoides" ; Times: 1
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 1
+	Query: "country:&#34;Venezuela&#34; institutioncode:OSUM" ; Times: 2
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Calamospiza melanocorys" ; Times: 1
+	Query: "vntype:specimen genus:Oxypogon country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "Buteo regalis" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "Circus cyaneus" ; Times: 1
+	Query: "Zonotrichia capensis" ; Times: 2
+	Query: "Peucaea cassinii" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "Raw" ; Times: 1
+	Query: "genus:Glaucidium country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Sturnella neglecta" ; Times: 1
+	Query: "Ara" ; Times: 2
+	Query: "Pooecetes gramineus" ; Times: 1
+	Query: "Microtus vntype:specimen institutioncode:OSUM" ; Times: 1
+
+
+End of report.
