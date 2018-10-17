@@ -1,0 +1,235 @@
+Report for Institution Code OSUM, Resource osum-birds
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 215
+Number of records retrieved in searches: 3700
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 3
+	Country: Australia ; Times: 53
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 14
+	Country: Venezuela ; Times: 1
+	Country: United Kingdom ; Times: 7
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: United States ; Times: 120
+	Country: Russia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 8
+	Date: 2018-06-06 ; Times: 4
+	Date: 2018-06-05 ; Times: 6
+	Date: 2018-06-04 ; Times: 3
+	Date: 2018-06-29 ; Times: 22
+	Date: 2018-06-02 ; Times: 1
+	Date: 2018-06-01 ; Times: 3
+	Date: 2018-06-25 ; Times: 39
+	Date: 2018-06-27 ; Times: 4
+	Date: 2018-06-26 ; Times: 1
+	Date: 2018-06-21 ; Times: 15
+	Date: 2018-06-20 ; Times: 11
+	Date: 2018-06-09 ; Times: 1
+	Date: 2018-06-08 ; Times: 16
+	Date: 2018-06-23 ; Times: 2
+	Date: 2018-06-22 ; Times: 8
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-11 ; Times: 6
+	Date: 2018-06-12 ; Times: 5
+	Date: 2018-06-13 ; Times: 9
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-15 ; Times: 31
+	Date: 2018-06-16 ; Times: 3
+	Date: 2018-06-18 ; Times: 3
+	Date: 2018-06-19 ; Times: 7
+	Date: 2018-06-30 ; Times: 2
+	Date: 2018-06-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "frazar labrador 1884" ; Times: 1
+	Query: "gbifdatasetid:91aa5e23-9cad-4751-86e0-241da77d7407" ; Times: 1
+	Query: "specificepithet:caerulea genus:Passerina stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:femoralis genus:Falco basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "poling" ; Times: 1
+	Query: "numenius borealis vntype:specimen" ; Times: 4
+	Query: "19696" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Strix institutioncode:OSUM" ; Times: 1
+	Query: "Setophaga ruticilla tricolora" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila county:&#34;Sonoma&#34;" ; Times: 3
+	Query: "16088 vntype:specimen collectioncode:birds" ; Times: 1
+	Query: "White-eyed Vireo" ; Times: 1
+	Query: "Museums ohio state university museum birds" ; Times: 1
+	Query: "blue grouse" ; Times: 4
+	Query: "specificepithet:colchicus genus:Phasianus institutioncode:OSUM" ; Times: 1
+	Query: "family:Strigidae institutioncode:OSUM" ; Times: 2
+	Query: "ohio state university museum of biological diversity" ; Times: 2
+	Query: "elf owl" ; Times: 19
+	Query: "sterna dougallii vntype:specimen stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "genus:Acanthisitta" ; Times: 1
+	Query: "locality:Paw Paw stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "vntype:specimen class:aves locality:sardinia" ; Times: 1
+	Query: "white-eyed vireo" ; Times: 3
+	Query: "institutioncode:osum Megascops trichopsis" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "genus:Astrapia institutioncode:OSUM" ; Times: 1
+	Query: "Falco fasciinucha" ; Times: 2
+	Query: "specificepithet:varia genus:Strix institutioncode:OSUM" ; Times: 1
+	Query: "59971" ; Times: 1
+	Query: "Cichlopsis" ; Times: 1
+	Query: "order:Strigiformes institutioncode:OSUM" ; Times: 1
+	Query: "(Sterna maxima OR Thalasseus maximus)" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 3
+	Query: "egg alaska 1898" ; Times: 2
+	Query: "catalognumber:16943" ; Times: 1
+	Query: "clangula hyemalis egg iceland" ; Times: 1
+	Query: "horses" ; Times: 1
+	Query: "basilan birds" ; Times: 2
+	Query: "northern hawk owl" ; Times: 2
+	Query: "johannae" ; Times: 2
+	Query: "Ampelis cedrorum" ; Times: 2
+	Query: "frazar labrador" ; Times: 2
+	Query: "genus:Pavo institutioncode:OSUM" ; Times: 1
+	Query: "Atlapetes leucopis" ; Times: 2
+	Query: "institutioncode:osum Alligator alligator" ; Times: 1
+	Query: "Ohio State University Museum birds" ; Times: 1
+	Query: "&#34;Oberlin College&#34;" ; Times: 15
+	Query: "humming bird" ; Times: 4
+	Query: "Chlorophonia occipitalis" ; Times: 1
+	Query: "spotted owl" ; Times: 4
+	Query: "genus:Strix institutioncode:OSUM" ; Times: 1
+	Query: "16262" ; Times: 1
+	Query: "genus:Otus institutioncode:OSUM" ; Times: 2
+	Query: "institutioncode:osum Alligator" ; Times: 1
+	Query: "specificepithet:urophasianus genus:Centrocercus institutioncode:OSUM" ; Times: 1
+	Query: "genus:Recurvirostra recordedby:Townsend" ; Times: 2
+	Query: "catalognumber:13728" ; Times: 1
+	Query: "sterna maximus" ; Times: 3
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "francolinus (skeleton)" ; Times: 5
+	Query: "puppy" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo institutioncode:OSUM" ; Times: 1
+	Query: "class:Aves (15540)" ; Times: 1
+	Query: "catalognumber:18721" ; Times: 1
+	Query: "Atlapetes gutturalis" ; Times: 1
+	Query: "order:Columbiformes class:Aves year &gt;= 1800 year &lt;= 1969 basisofrecord:PreservedSpecimen distance(location,geopoint(36.99840361230559,-117.64436503640354))&lt;194907" ; Times: 1
+	Query: "elf ow" ; Times: 2
+	Query: "genus:Paradisaea institutioncode:OSUM" ; Times: 1
+	Query: "vntype:specimen genus:EMPIDONAX class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "aplonis pelzelni" ; Times: 2
+	Query: "&#34;Paw Paw&#34; vntype:specimen stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "genus:Bubo institutioncode:OSUM" ; Times: 1
+	Query: "cobbs 1883 egg" ; Times: 1
+	Query: "egg grand manan cepphus grylle" ; Times: 1
+	Query: "specificepithet:flammeolus genus:Otus institutioncode:OSUM" ; Times: 1
+	Query: "catalognumber:5788" ; Times: 1
+	Query: "numenius borealis" ; Times: 54
+	Query: "ohio state university museum birds" ; Times: 1
+	Query: "Sterna maxima OR Thalasseus maximus" ; Times: 2
+	Query: "Pitta sordida" ; Times: 1
+	Query: "Midland County Texas callipepla" ; Times: 1
+	Query: "saltator maxillosus" ; Times: 1
+	Query: "family:Phasianidae institutioncode:OSUM" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 97 (out of 1169 download events in this period)
+Total number of records downloaded: 1171
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 24
+	Country: United States ; Times: 62
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 5
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 9
+	Date: 2018-06-23 ; Times: 6
+	Date: 2018-06-08 ; Times: 27
+	Date: 2018-06-21 ; Times: 2
+	Date: 2018-06-05 ; Times: 4
+	Date: 2018-06-13 ; Times: 1
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-06 ; Times: 9
+	Date: 2018-06-12 ; Times: 2
+	Date: 2018-06-04 ; Times: 4
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-16 ; Times: 6
+	Date: 2018-06-25 ; Times: 4
+	Date: 2018-06-29 ; Times: 8
+	Date: 2018-06-15 ; Times: 5
+	Date: 2018-06-22 ; Times: 2
+	Date: 2018-06-18 ; Times: 1
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-30 ; Times: 2
+	Date: 2018-06-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sea otter" ; Times: 2
+	Query: "Setophaga ruticilla tricolora" ; Times: 1
+	Query: "American Beaver" ; Times: 4
+	Query: "snowy owl" ; Times: 2
+	Query: "Carduelis flammea" ; Times: 3
+	Query: "Cougar" ; Times: 1
+	Query: "Vireo gilvus" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 3
+	Query: "panda" ; Times: 1
+	Query: "Cyanocitta stelleri stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Oreothlypis peregrina" ; Times: 1
+	Query: "Perisoreus canadensis" ; Times: 1
+	Query: "vntype:specimen class:aves locality:sardinia" ; Times: 1
+	Query: "Gaviidae" ; Times: 1
+	Query: "cougar" ; Times: 2
+	Query: "grasshopper sparrow" ; Times: 1
+	Query: "newt" ; Times: 3
+	Query: "elf ow" ; Times: 2
+	Query: "pigeon guillemot" ; Times: 1
+	Query: "humming bird" ; Times: 1
+	Query: "Poecile hudsonicus" ; Times: 3
+	Query: "horned puffin" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "Ampelis cedrorum" ; Times: 1
+	Query: "elf owl" ; Times: 15
+	Query: "Junco hyemalis aikeni" ; Times: 2
+	Query: "Poecile atricapillus" ; Times: 2
+	Query: "elaenia parvirostris" ; Times: 1
+	Query: "order:Columbiformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+	Query: "blue jay" ; Times: 2
+	Query: "spotted owl" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "Coccothraustes vespertinus" ; Times: 1
+	Query: "Sterna maxima OR Thalasseus maximus" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "Poecile hudsonica" ; Times: 2
+	Query: "Setophaga ruticilla" ; Times: 1
+	Query: "sterna maximus" ; Times: 1
+	Query: "order:Galliformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+	Query: "penguin" ; Times: 2
+	Query: "Podiceps grisegena" ; Times: 1
+	Query: "bald eagle" ; Times: 5
+	Query: "picoides arcticus" ; Times: 1
+	Query: "(Sterna maxima OR Thalasseus maximus)" ; Times: 2
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "barn owl" ; Times: 1
+	Query: "marbled murrelet" ; Times: 2
+	Query: "puffin" ; Times: 1
+	Query: "Leiothlypis peregrina" ; Times: 1
+	Query: "Regulus satrapa" ; Times: 1
+	Query: "numenius borealis" ; Times: 3
+	Query: "Calocitta colliei" ; Times: 1
+	Query: "sterna maxima" ; Times: 1
+	Query: "order:Strigiformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+
+
+End of report.
