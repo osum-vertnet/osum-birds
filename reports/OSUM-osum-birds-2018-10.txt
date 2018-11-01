@@ -1,0 +1,216 @@
+Report for Institution Code OSUM, Resource osum-birds
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 174
+Number of records retrieved in searches: 1423
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 48
+	Country: Australia ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Peru ; Times: 5
+	Country: United States ; Times: 105
+	Country: China ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Nicaragua ; Times: 1
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 7
+	Date: 2018-10-04 ; Times: 5
+	Date: 2018-10-30 ; Times: 2
+	Date: 2018-10-07 ; Times: 1
+	Date: 2018-10-24 ; Times: 11
+	Date: 2018-10-03 ; Times: 8
+	Date: 2018-10-22 ; Times: 8
+	Date: 2018-10-23 ; Times: 3
+	Date: 2018-10-06 ; Times: 31
+	Date: 2018-10-21 ; Times: 1
+	Date: 2018-10-26 ; Times: 10
+	Date: 2018-10-27 ; Times: 5
+	Date: 2018-10-02 ; Times: 5
+	Date: 2018-10-25 ; Times: 5
+	Date: 2018-10-29 ; Times: 6
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-18 ; Times: 24
+	Date: 2018-10-13 ; Times: 1
+	Date: 2018-10-12 ; Times: 10
+	Date: 2018-10-11 ; Times: 1
+	Date: 2018-10-10 ; Times: 2
+	Date: 2018-10-17 ; Times: 25
+	Date: 2018-10-16 ; Times: 1
+	Date: 2018-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:91aa5e23-9cad-4751-86e0-241da77d7407" ; Times: 4
+	Query: "specificepithet:ludoviciana genus:Piranga stateprovince:&#34;Colorado&#34;" ; Times: 2
+	Query: "Tympanuchus phasianellus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Falco columbarius suckleyi" ; Times: 1
+	Query: "apes" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 1
+	Query: "Aplonis pelzelni" ; Times: 1
+	Query: "genus:pica stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:swainsoni genus:buteo stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Thompson institutioncode:OSUM" ; Times: 2
+	Query: "genus:alopochelidon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Crypturellus variegatus" ; Times: 4
+	Query: "Campephilus principalis" ; Times: 4
+	Query: "Cyanerpes lucidus" ; Times: 1
+	Query: "vntype:specimen specificepithet:leucorrhoa genus:tachycineta class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Sooty grouse" ; Times: 1
+	Query: "Stein institutioncode:OSUM" ; Times: 1
+	Query: "Kirtlandii institutioncode:OSUM" ; Times: 4
+	Query: "pitta brachyura" ; Times: 2
+	Query: "Wilcox institutioncode:OSUM" ; Times: 1
+	Query: "Cyanerpes Lucidus" ; Times: 1
+	Query: "specificepithet:chalybea genus:Progne class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:flavogaster genus:elaenia country:&#34;panama&#34;" ; Times: 1
+	Query: "Hubbard institutioncode:OSUM" ; Times: 1
+	Query: "Stone institutioncode:OSUM" ; Times: 1
+	Query: "Chalybura buffoni" ; Times: 1
+	Query: "Gage institutioncode:OSUM" ; Times: 1
+	Query: "Crypturellus soui" ; Times: 1
+	Query: "vntype:specimen genus:Troglodytes class:Aves country:&#34;Brazil&#34; institutioncode:OSUM" ; Times: 1
+	Query: "genus:Ectopistes institutioncode:OSUM" ; Times: 1
+	Query: "Oberlin ohio" ; Times: 1
+	Query: "Treat institutioncode:OSUM" ; Times: 1
+	Query: "Cygnus buccinator mappable:1" ; Times: 2
+	Query: "Trumpeter swan mappable:1" ; Times: 1
+	Query: "Semioptera" ; Times: 1
+	Query: "egg pratt" ; Times: 1
+	Query: "vntype:specimen specificepithet:tapera class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Erythrogaster Ohio" ; Times: 1
+	Query: "Richardson institutioncode:OSUM" ; Times: 1
+	Query: "vntype:specimen genus:tachycineta class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:aves recordedby:rex" ; Times: 2
+	Query: "spotted owl" ; Times: 2
+	Query: "campephilus principalis" ; Times: 1
+	Query: "R. A. Young institutioncode:OSUM" ; Times: 1
+	Query: "miliaria" ; Times: 1
+	Query: "elf" ; Times: 4
+	Query: "genus:platalea order:ciconiiformes" ; Times: 1
+	Query: "Platt institutioncode:OSUM" ; Times: 1
+	Query: "Lewis institutioncode:OSUM" ; Times: 1
+	Query: "Hyde institutioncode:OSUM" ; Times: 1
+	Query: "Neophema chrysogaster" ; Times: 1
+	Query: "Buteo regalis mappable:1" ; Times: 1
+	Query: "black-crested titmouse" ; Times: 1
+	Query: "King institutioncode:OSUM" ; Times: 1
+	Query: "specificepithet:fulica genus:heliornis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Hamerstrom institutioncode:OSUM" ; Times: 3
+	Query: "collectioncode:Birds institutioncode:OSUM" ; Times: 2
+	Query: "leistes militaris" ; Times: 2
+	Query: "egg michigan 1891" ; Times: 1
+	Query: "egg michigan 1892" ; Times: 1
+	Query: "specificepithet:picta genus:Setophaga class:aves" ; Times: 1
+	Query: "Mitchell institutioncode:OSUM" ; Times: 1
+	Query: "Grant institutioncode:OSUM" ; Times: 1
+	Query: "hamerstrom institutioncode:OSUM" ; Times: 2
+	Query: "kirtlandii stateprovince:&#34;Ohio&#34;" ; Times: 2
+	Query: "ave mimidae" ; Times: 2
+	Query: "vntype:specimen specificepithet:chalybea genus:Progne class:Aves country:&#34;Brazil&#34; institutioncode:OSUM" ; Times: 1
+	Query: "vntype:specimen specificepithet:aedon genus:Troglodytes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "cantwell minnesota" ; Times: 2
+	Query: "genus:heliornis haslifestage:1" ; Times: 1
+	Query: "Rathbun institutioncode:OSUM" ; Times: 1
+	Query: "specificepithet:tricolor genus:Phalaropus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "18237" ; Times: 1
+	Query: "collectioncode:Birds (egg or eggs) institutioncode:OSUM" ; Times: 1
+	Query: "nice institutioncode:OSUM" ; Times: 6
+	Query: "class:Aves institutioncode:OSUM" ; Times: 1
+	Query: "catalognumber:4115" ; Times: 1
+	Query: "specificepithet:currucoides genus:Sialia stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Troglodytes class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "specificepithet:leucorrhoa genus:Tachycineta class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Heliomaster furcifer" ; Times: 3
+	Query: "xanthopsar flavus" ; Times: 29
+	Query: "17776" ; Times: 1
+	Query: "Young institutioncode:OSUM" ; Times: 1
+	Query: "Saltator maxillosus" ; Times: 2
+	Query: "vntype:specimen collectioncode:Birds (egg or eggs) institutioncode:OSUM" ; Times: 1
+	Query: "catalognumber:4470" ; Times: 1
+	Query: "gyrfalcon" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "genus:Conuropsis institutioncode:OSUM" ; Times: 1
+	Query: "canada thistle" ; Times: 1
+	Query: "Chalybura" ; Times: 1
+	Query: "class:aves recordedby:F.J. Smith year &gt;= 1910 year &lt;= 1910" ; Times: 1
+	Query: "Nice institutioncode:OSUM" ; Times: 6
+	Query: "myiopsitta monachus" ; Times: 2
+	Query: "vntype:specimen specificepithet:chalybea genus:Progne class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "specificepithet:fucata class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Black Rail" ; Times: 1
+	Query: "stein institutioncode:OSUM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 1300 download events in this period)
+Total number of records downloaded: 26692
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Norway ; Times: 1
+	Country: United States ; Times: 21
+	Country: Belgium ; Times: 1
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 1
+	Date: 2018-10-05 ; Times: 1
+	Date: 2018-10-20 ; Times: 1
+	Date: 2018-10-21 ; Times: 1
+	Date: 2018-10-24 ; Times: 1
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-03 ; Times: 1
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-29 ; Times: 1
+	Date: 2018-10-23 ; Times: 3
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-18 ; Times: 2
+	Date: 2018-10-30 ; Times: 3
+	Date: 2018-10-12 ; Times: 2
+	Date: 2018-10-11 ; Times: 1
+	Date: 2018-10-31 ; Times: 1
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-16 ; Times: 3
+	Date: 2018-10-15 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Tympanuchus phasianellus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "specificepithet:petechia genus:setophaga" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 2
+	Query: "amazona autumnalis" ; Times: 1
+	Query: "paulson" ; Times: 1
+	Query: "Neophema chrysogaster" ; Times: 1
+	Query: "Megascops asio" ; Times: 1
+	Query: "specificepithet:currucoides genus:Sialia stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "birds quintana roo" ; Times: 1
+	Query: "glaucis hirsuta" ; Times: 1
+	Query: "family:Apodidae" ; Times: 1
+	Query: "genus:heliornis" ; Times: 1
+	Query: "specificepithet:macroura genus:Zenaida" ; Times: 1
+	Query: "Spinus tristis" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "specificepithet:musica genus:euphonia" ; Times: 1
+	Query: "collectioncode:Birds institutioncode:OSUM" ; Times: 1
+	Query: "specificepithet:platyrhynchos genus:Anas" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "specificepithet:livia genus:columba" ; Times: 1
+	Query: "campephilus principalis" ; Times: 2
+	Query: "Poecile hudsonicus" ; Times: 1
+	Query: "class:Aves country:&#34;Argentina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cinnyris jugularis" ; Times: 1
+	Query: "Paulson" ; Times: 1
+	Query: "snowy owl vntype:specimen" ; Times: 1
+	Query: "locality:OH" ; Times: 1
+
+
+End of report.
