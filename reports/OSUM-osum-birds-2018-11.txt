@@ -1,0 +1,219 @@
+Report for Institution Code OSUM, Resource osum-birds
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 135
+Number of records retrieved in searches: 1580
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 78
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 23
+	Country: South Africa ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Peru ; Times: 7
+	Country: Hungary ; Times: 2
+	Country: Paraguay ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-09 ; Times: 10
+	Date: 2018-11-08 ; Times: 10
+	Date: 2018-11-07 ; Times: 11
+	Date: 2018-11-06 ; Times: 7
+	Date: 2018-11-05 ; Times: 7
+	Date: 2018-11-04 ; Times: 7
+	Date: 2018-11-03 ; Times: 4
+	Date: 2018-11-02 ; Times: 6
+	Date: 2018-11-01 ; Times: 2
+	Date: 2018-11-25 ; Times: 2
+	Date: 2018-11-27 ; Times: 8
+	Date: 2018-11-26 ; Times: 3
+	Date: 2018-11-21 ; Times: 3
+	Date: 2018-11-20 ; Times: 1
+	Date: 2018-11-22 ; Times: 4
+	Date: 2018-11-29 ; Times: 1
+	Date: 2018-11-28 ; Times: 6
+	Date: 2018-11-18 ; Times: 3
+	Date: 2018-11-19 ; Times: 7
+	Date: 2018-11-10 ; Times: 3
+	Date: 2018-11-12 ; Times: 5
+	Date: 2018-11-13 ; Times: 7
+	Date: 2018-11-14 ; Times: 9
+	Date: 2018-11-15 ; Times: 7
+	Date: 2018-11-16 ; Times: 1
+	Date: 2018-11-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:91aa5e23-9cad-4751-86e0-241da77d7407" ; Times: 3
+	Query: "campephilus principalis" ; Times: 3
+	Query: "specificepithet:yncas genus:cyanocorax institutioncode:OSUM" ; Times: 2
+	Query: "minnesota Anas platyrhynchos" ; Times: 1
+	Query: "Cardinalis sinuatus fulvescens mappable:1" ; Times: 3
+	Query: "genus:Colaptes county:&#34;Ventura&#34;" ; Times: 2
+	Query: "dendroica kirtlandi" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 4
+	Query: "phoebastria albatrus" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "genus:fratercula stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "aves kirtlandi" ; Times: 3
+	Query: "institutioncode:OSUM lorain county" ; Times: 1
+	Query: "institutioncode:OSUM lorain county jones" ; Times: 1
+	Query: "hylophilus ochraceiceps" ; Times: 1
+	Query: "Passenger pigeon" ; Times: 1
+	Query: "Numenius americanus mappable:1" ; Times: 2
+	Query: "SRI 47" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 4
+	Query: "catalognumber:2592" ; Times: 1
+	Query: "11 November 1946" ; Times: 1
+	Query: "parus carolinensis ohio" ; Times: 1
+	Query: "specificepithet:ochraceiceps genus:Hylophilus country:&#34;Panama&#34;" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 2
+	Query: "carolina parakeet" ; Times: 1
+	Query: "Amazona ventralis" ; Times: 1
+	Query: "county:&#34;Brevard&#34; recordedby:Court" ; Times: 1
+	Query: "archilocus" ; Times: 1
+	Query: "geothlypis speciosa" ; Times: 1
+	Query: "poecile caolinensis ohio" ; Times: 1
+	Query: "catalognumber:TB 993 institutioncode:OSUM" ; Times: 1
+	Query: "specificepithet:vilissimus genus:zimmerius hasmass:1" ; Times: 1
+	Query: "specificepithet:migratorius genus:Turdus year &gt;= 1893 year &lt;= 1893" ; Times: 1
+	Query: "parus atricapillus ohio" ; Times: 1
+	Query: "class:aves catalognumber:2592" ; Times: 1
+	Query: "Agassiz institutioncode:OSUM" ; Times: 4
+	Query: "Aulacorhynchus prasinus" ; Times: 1
+	Query: "minnesota Buteo platypterus" ; Times: 1
+	Query: "catalognumber:12480" ; Times: 2
+	Query: "Empidonax trailli" ; Times: 1
+	Query: "eupetomena macroura" ; Times: 7
+	Query: "Ectopistes migratorius" ; Times: 2
+	Query: "Cypseloides niger (Jamaica)" ; Times: 1
+	Query: "pavo cristatus" ; Times: 6
+	Query: "Conuropsis carolinensis" ; Times: 3
+	Query: "automolus exsertus" ; Times: 1
+	Query: "bullocks oriole" ; Times: 1
+	Query: "catalognumber:1017" ; Times: 1
+	Query: "Pingree Osburn" ; Times: 1
+	Query: "genus:Pheucticus class:aves year &gt;= 1907 year &lt;= 1907" ; Times: 1
+	Query: "Ramphastos ambiguus" ; Times: 5
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 4
+	Query: "elf" ; Times: 3
+	Query: "sarkidiornis melanotos" ; Times: 1
+	Query: "catalognumber:(11234 OR 123532)" ; Times: 1
+	Query: "stateprovince:&#34;sicily&#34;" ; Times: 1
+	Query: "minnesota Accipiter gentilis" ; Times: 1
+	Query: "xanthopsar flavus" ; Times: 2
+	Query: "dilophus" ; Times: 1
+	Query: "Lophophorus" ; Times: 1
+	Query: "specificepithet:cupido genus:Tympanuchus stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "Psittacidae panama" ; Times: 1
+	Query: "minnesota Charadrius vociferus" ; Times: 1
+	Query: "coracina insperata" ; Times: 1
+	Query: "minnesota Phalacrocorax auritus" ; Times: 1
+	Query: "specificepithet:migratorius genus:Turdus year &gt;= 1893 year &lt;= 1893 month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "poecile atricapillus ohio" ; Times: 1
+	Query: "hungary Pest" ; Times: 2
+	Query: "circus hudsonicus" ; Times: 1
+	Query: "lynds jones" ; Times: 8
+	Query: "catalognumber:11112" ; Times: 1
+	Query: "Calamus calamus mappable:1" ; Times: 1
+	Query: "alopochen" ; Times: 6
+	Query: "RHEA AMERICANA" ; Times: 1
+	Query: "specificepithet:pica genus:pica hasmass:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 1719 download events in this period)
+Total number of records downloaded: 1835
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 9
+	Country: United States ; Times: 27
+	Country: Netherlands ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-19 ; Times: 1
+	Date: 2018-11-09 ; Times: 2
+	Date: 2018-11-07 ; Times: 5
+	Date: 2018-11-06 ; Times: 2
+	Date: 2018-11-05 ; Times: 4
+	Date: 2018-11-03 ; Times: 6
+	Date: 2018-11-02 ; Times: 4
+	Date: 2018-11-01 ; Times: 10
+	Date: 2018-11-17 ; Times: 1
+	Date: 2018-11-25 ; Times: 1
+	Date: 2018-11-27 ; Times: 4
+	Date: 2018-11-14 ; Times: 2
+	Date: 2018-11-16 ; Times: 1
+	Date: 2018-11-22 ; Times: 1
+	Date: 2018-11-12 ; Times: 1
+	Date: 2018-11-29 ; Times: 3
+	Date: 2018-11-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "poecile carolinensis ohio" ; Times: 2
+	Query: "Sphenisciformes" ; Times: 1
+	Query: "junco hyemalis vntype:specimen" ; Times: 1
+	Query: "specificepithet:australis genus:Leucosticte" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "Campylorhynchus brunneicapillus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Prunella" ; Times: 2
+	Query: "specificepithet:curvirostra genus:Loxia stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Fringilla coelebs" ; Times: 1
+	Query: "setophaga caerulescens" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "puma" ; Times: 1
+	Query: "Perisoreus canadensis" ; Times: 1
+	Query: "parus carolinensis ohio" ; Times: 1
+	Query: "Turdus merula" ; Times: 1
+	Query: "Amazona ventralis" ; Times: 1
+	Query: "catharus ustulatus" ; Times: 1
+	Query: "geothlypis speciosa" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Leiothlypis peregrina" ; Times: 2
+	Query: "P.I. Osburn" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "yellow-billed cuckoo" ; Times: 1
+	Query: "hylophilus ochraceiceps" ; Times: 1
+	Query: "eupetomena macroura" ; Times: 2
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "trogon mexicanus mexico" ; Times: 1
+	Query: "invertebrate" ; Times: 1
+	Query: "fulmarus glacialis" ; Times: 1
+	Query: "Lagopus leucura" ; Times: 1
+	Query: "Buteo buteo" ; Times: 1
+	Query: "penguin" ; Times: 1
+	Query: "Picoides dorsalis" ; Times: 3
+	Query: "Buteo platypterus" ; Times: 1
+	Query: "stateprovince:&#34;sicily&#34;" ; Times: 1
+	Query: "specificepithet:cupido genus:Tympanuchus stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "specificepithet:otus genus:asio" ; Times: 1
+	Query: "class:Aves country:&#34;Argentina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:asio genus:megascops" ; Times: 1
+	Query: "poecile atricapillus ohio" ; Times: 1
+	Query: "ammodramus savannarum" ; Times: 1
+	Query: "Zonotrichia leucophrys" ; Times: 1
+	Query: "parus atricapillus ohio" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Minnesota&#34;" ; Times: 2
+	Query: "Carduelis chloris" ; Times: 1
+
+
+End of report.
