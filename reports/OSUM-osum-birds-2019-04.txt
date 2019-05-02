@@ -1,0 +1,243 @@
+Report for Institution Code OSUM, Resource osum-birds
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 171
+Number of records retrieved in searches: 1341
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 53
+	Country: Canada ; Times: 5
+	Country: Israel ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 5
+	Country: Belgium ; Times: 24
+	Country: United States ; Times: 70
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-22 ; Times: 4
+	Date: 2019-04-19 ; Times: 17
+	Date: 2019-04-18 ; Times: 17
+	Date: 2019-04-05 ; Times: 16
+	Date: 2019-04-13 ; Times: 4
+	Date: 2019-04-12 ; Times: 3
+	Date: 2019-04-11 ; Times: 3
+	Date: 2019-04-10 ; Times: 1
+	Date: 2019-04-17 ; Times: 3
+	Date: 2019-04-16 ; Times: 9
+	Date: 2019-04-15 ; Times: 1
+	Date: 2019-04-14 ; Times: 16
+	Date: 2019-04-30 ; Times: 2
+	Date: 2019-04-21 ; Times: 1
+	Date: 2019-04-01 ; Times: 2
+	Date: 2019-04-02 ; Times: 2
+	Date: 2019-04-03 ; Times: 7
+	Date: 2019-04-06 ; Times: 12
+	Date: 2019-04-04 ; Times: 10
+	Date: 2019-04-23 ; Times: 8
+	Date: 2019-04-20 ; Times: 10
+	Date: 2019-04-07 ; Times: 2
+	Date: 2019-04-26 ; Times: 3
+	Date: 2019-04-27 ; Times: 1
+	Date: 2019-04-24 ; Times: 3
+	Date: 2019-04-25 ; Times: 6
+	Date: 2019-04-28 ; Times: 1
+	Date: 2019-04-08 ; Times: 2
+	Date: 2019-04-09 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:91aa5e23-9cad-4751-86e0-241da77d7407" ; Times: 4
+	Query: "Coccyzus minor" ; Times: 1
+	Query: "Chloroceryle amazona mappable:1" ; Times: 2
+	Query: "specificepithet:nigricans genus:Branta class:Aves" ; Times: 1
+	Query: "Cairina moschata  mappable:1" ; Times: 1
+	Query: "falco jugger" ; Times: 1
+	Query: "elf" ; Times: 5
+	Query: "stateprovince:&#34;montana&#34; recordedby:bowman" ; Times: 1
+	Query: "Cairina moschata" ; Times: 2
+	Query: "gbifdatasetid:91aa5e23-9cad-4751-86e0-241da77d7407 nelson" ; Times: 2
+	Query: "barbirostris" ; Times: 3
+	Query: "catalognumber:175 institutioncode:OSUM" ; Times: 1
+	Query: "&#34;crescent lake&#34; &#34;saskatchewan&#34;" ; Times: 1
+	Query: "catalognumber:15849 institutioncode:OSUM" ; Times: 1
+	Query: "catalognumber:12885 institutioncode:OSUM" ; Times: 1
+	Query: "class:Aves catalognumber:17760 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:19632 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Conurus" ; Times: 1
+	Query: "Cochlearius cochlearius mappable:1" ; Times: 1
+	Query: "vanellus gregarius" ; Times: 2
+	Query: "genus:Glaucidium country:&#34;Costa Rica&#34;" ; Times: 2
+	Query: "Urubitinga urubitinga" ; Times: 1
+	Query: "class:Aves catalognumber:14880 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:californianus genus:Gymnogyps" ; Times: 1
+	Query: "Heterospizias meridionalis" ; Times: 1
+	Query: "Struthio camelus egg" ; Times: 2
+	Query: "class:Aves catalognumber:11923 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Geotrygon montana mappable:1" ; Times: 2
+	Query: "vntype:specimen genus:Setophaga class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:1297" ; Times: 2
+	Query: "catalognumber:15854 institutioncode:OSUM" ; Times: 1
+	Query: "Lochmias nematura mappable:1" ; Times: 2
+	Query: "mounted vntype:specimen genus:Buphagus" ; Times: 2
+	Query: "tarsus vntype:specimen specificepithet:aedon genus:troglodytes" ; Times: 1
+	Query: "Amazona ventralis" ; Times: 1
+	Query: "aves Gordon egg" ; Times: 1
+	Query: "specificepithet:calandra genus:melanocorypha" ; Times: 1
+	Query: "catalognumber:12688 institutioncode:OSUM" ; Times: 1
+	Query: "&#34;battle creek&#34; &#34;saskatchewan&#34;" ; Times: 1
+	Query: "Conopophaga lineata mappable:1" ; Times: 2
+	Query: "class:Aves catalognumber:3286 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Amazonetta brasiliensis mappable:1" ; Times: 2
+	Query: "Aramides saracura mappable:1" ; Times: 2
+	Query: "specificepithet:flavescens genus:Boissonneaua" ; Times: 1
+	Query: "M-14857" ; Times: 1
+	Query: "genus:Geothlypis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "gbifdatasetid:91aa5e23-9cad-4751-86e0-241da77d7407 spheniscidae" ; Times: 6
+	Query: "vntype:specimen specificepithet:arctica genus:Fratercula year &lt;= 1901" ; Times: 1
+	Query: "genus:setophaga class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:Aves catalognumber:14155 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "115758" ; Times: 1
+	Query: "mississippi bird eggs" ; Times: 2
+	Query: "class:Aves catalognumber:9325 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:12956 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:10440 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "basileuterus godmani" ; Times: 1
+	Query: "mimus polyglottus" ; Times: 1
+	Query: "vntype:specimen genus:BASILEUTERUS class:AVES country:&#34;BRAZIL&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Geothlypis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Chaetocercus heliodor" ; Times: 1
+	Query: "class:Aves catalognumber:3288 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "1936 alaska egg" ; Times: 1
+	Query: "brasiliana" ; Times: 1
+	Query: "gbifdatasetid:91aa5e23-9cad-4751-86e0-241da77d7407 Casuariiformes" ; Times: 6
+	Query: "Gallinula galeata mappable:1" ; Times: 2
+	Query: "melanerpes 1891" ; Times: 1
+	Query: "Pachyramphus polychopterus mappable:1" ; Times: 1
+	Query: "Acestrura heliodor" ; Times: 1
+	Query: "class:Aves catalognumber:4731 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Furnarius rufus mappable:1" ; Times: 3
+	Query: "class:Aves catalognumber:4954 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:5476 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "gbifdatasetid:91aa5e23-9cad-4751-86e0-241da77d7407 Caprimulgiformes" ; Times: 2
+	Query: "passenger pigeon" ; Times: 4
+	Query: "10313" ; Times: 1
+	Query: "egg alaska 1936" ; Times: 1
+	Query: "class:Aves catalognumber:7773 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:7852 institutioncode:OSUM" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 2
+	Query: "catalognumber:5811 institutioncode:OSUM" ; Times: 1
+	Query: "class:Aves catalognumber:3282 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:aves recordedby:harting" ; Times: 1
+	Query: "recordedby:carpenter year &gt;= 1870 year &lt;= 1900" ; Times: 1
+	Query: "class:Aves catalognumber:9348 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:aves recordedby:giles" ; Times: 1
+	Query: "Phimosus infuscatus" ; Times: 4
+	Query: "gbifdatasetid:91aa5e23-9cad-4751-86e0-241da77d7407 Ciconiidae" ; Times: 3
+	Query: "&#34;W. Leon Dawson&#34;" ; Times: 1
+	Query: "gbifdatasetid:91aa5e23-9cad-4751-86e0-241da77d7407 Struthioniformes" ; Times: 4
+	Query: "catalognumber:7198 institutioncode:OSUM" ; Times: 1
+	Query: "class:Aves catalognumber:13379 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:19639 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Elanus leucurus" ; Times: 2
+	Query: "Columba nigrirostris vntype:specimen country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:migratorius genus:Ectopistes class:Aves stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Geothlypis aequinoctialis mappable:1" ; Times: 2
+	Query: "Dacnis cayana mappable:1" ; Times: 2
+	Query: "Agamia agami" ; Times: 1
+	Query: "Megaceryle torquata mappable:1" ; Times: 2
+	Query: "class:Aves catalognumber:1202 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:3837 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Galbula ruficauda mappable:1" ; Times: 2
+	Query: "class:Aves catalognumber:10738 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:14663" ; Times: 1
+	Query: "class:Aves catalognumber:4557 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:nigra genus:ciconia" ; Times: 1
+	Query: "vntype:specimen genus:Geothlypis class:Aves country:&#34;Brazil&#34; institutioncode:OSUM" ; Times: 2
+	Query: "Coccyzus melacoryphus" ; Times: 1
+	Query: "Platalea ajaja" ; Times: 2
+	Query: "Limnodromus scolopaceous" ; Times: 1
+	Query: "catalognumber:4755 institutioncode:OSUM" ; Times: 1
+	Query: "class:Aves catalognumber:10681 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Basileuterus class:Aves country:&#34;Brazil&#34; institutioncode:OSUM" ; Times: 1
+	Query: "Geranospiza caerulescens" ; Times: 1
+	Query: "class:Aves catalognumber:16591 basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 1263 download events in this period)
+Total number of records downloaded: 485
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Brazil ; Times: 2
+	Country: Norway ; Times: 1
+	Country: Canada ; Times: 18
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 2
+	Date: 2019-04-23 ; Times: 4
+	Date: 2019-04-13 ; Times: 1
+	Date: 2019-04-11 ; Times: 2
+	Date: 2019-04-10 ; Times: 11
+	Date: 2019-04-17 ; Times: 2
+	Date: 2019-04-15 ; Times: 1
+	Date: 2019-04-22 ; Times: 14
+	Date: 2019-04-30 ; Times: 3
+	Date: 2019-04-29 ; Times: 2
+	Date: 2019-04-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Anthracothorax viridigula" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "Puma" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:pitta" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Iowa" ; Times: 1
+	Query: "specificepithet:ventralis genus:amazona" ; Times: 1
+	Query: "specificepithet:delphinae genus:colibri" ; Times: 1
+	Query: "&#34;himantopus mexicanus&#34;" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Pennsylvania" ; Times: 2
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Indiana" ; Times: 1
+	Query: "specificepithet:thalassinus genus:colibri" ; Times: 1
+	Query: "amazilia fimbriata" ; Times: 1
+	Query: "ruffed grouse" ; Times: 1
+	Query: "specificepithet:nigrirostris genus:andigena" ; Times: 1
+	Query: "genus:collocalia" ; Times: 1
+	Query: "specificepithet:minor genus:scolopax" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "tarsus vntype:specimen specificepithet:aedon genus:troglodytes" ; Times: 1
+	Query: "specificepithet:americana genus:Grus" ; Times: 1
+	Query: "specificepithet:coruscans genus:colibri" ; Times: 1
+	Query: "specificepithet:calandra genus:melanocorypha" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Virginia" ; Times: 1
+	Query: "Aptenodytes patagonicus" ; Times: 1
+	Query: "vntype:specimen genus:Casuarius" ; Times: 2
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Oklahoma" ; Times: 1
+	Query: "specificepithet:sanblasianus genus:cyanocorax" ; Times: 1
+	Query: "specificepithet:leucocephala genus:amazona" ; Times: 1
+	Query: "specificepithet:galerita genus:cacatua" ; Times: 1
+	Query: "vntype:specimen specificepithet:arctica genus:Fratercula year &lt;= 1901" ; Times: 1
+	Query: "specificepithet:flavescens genus:Boissonneaua" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Alaska" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Georgia" ; Times: 1
+	Query: "Quiscalus mexicanus" ; Times: 1
+	Query: "specificepithet:nana genus:aratinga" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Idaho" ; Times: 1
+	Query: "mimus polyglottus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Ohio" ; Times: 1
+	Query: "specificepithet:minor genus:Coccyzus" ; Times: 1
+	Query: "specificepithet:melacoryphus genus:Coccyzus" ; Times: 1
+	Query: "pitta" ; Times: 1
+	Query: "specificepithet:nigra genus:ciconia" ; Times: 1
+
+
+End of report.
