@@ -1,0 +1,213 @@
+Report for Institution Code OSUM, Resource osum-birds
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 126
+Number of records retrieved in searches: 568
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 20
+	Country: Turkey ; Times: 1
+	Country: Canada ; Times: 4
+	Country: Portugal ; Times: 7
+	Country: Mexico ; Times: 10
+	Country: Denmark ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 65
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Greece ; Times: 1
+	Country: Belgium ; Times: 10
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 4
+	Date: 2019-05-31 ; Times: 1
+	Date: 2019-05-09 ; Times: 2
+	Date: 2019-05-08 ; Times: 2
+	Date: 2019-05-07 ; Times: 4
+	Date: 2019-05-05 ; Times: 1
+	Date: 2019-05-04 ; Times: 3
+	Date: 2019-05-03 ; Times: 7
+	Date: 2019-05-02 ; Times: 8
+	Date: 2019-05-01 ; Times: 1
+	Date: 2019-05-25 ; Times: 9
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-27 ; Times: 2
+	Date: 2019-05-26 ; Times: 2
+	Date: 2019-05-21 ; Times: 7
+	Date: 2019-05-20 ; Times: 2
+	Date: 2019-05-23 ; Times: 12
+	Date: 2019-05-22 ; Times: 20
+	Date: 2019-05-29 ; Times: 7
+	Date: 2019-05-28 ; Times: 12
+	Date: 2019-05-18 ; Times: 4
+	Date: 2019-05-19 ; Times: 2
+	Date: 2019-05-10 ; Times: 1
+	Date: 2019-05-13 ; Times: 5
+	Date: 2019-05-14 ; Times: 1
+	Date: 2019-05-15 ; Times: 3
+	Date: 2019-05-16 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:migratorius genus:Turdus year &gt;= 1893 year &lt;= 1893" ; Times: 1
+	Query: "Dryobates borealis" ; Times: 1
+	Query: "tetrao urogallus" ; Times: 2
+	Query: "Hirundinea ferruginea" ; Times: 1
+	Query: "Mimus saturninus mappable:1" ; Times: 1
+	Query: "spixi" ; Times: 1
+	Query: "class:Aves catalognumber:9672 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catharus fuscescens fuliginosus" ; Times: 1
+	Query: "Tetrao urogallus" ; Times: 5
+	Query: "Haplophaedia" ; Times: 1
+	Query: "Oxypogon guerinii" ; Times: 1
+	Query: "centurus uropygialis" ; Times: 2
+	Query: "Chloroceryle amazona mappable:1" ; Times: 1
+	Query: "Haplophaedia aureliae" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "recordedby:ingraham year &gt;= 1889 year &lt;= 1889" ; Times: 1
+	Query: "Laterallus jamaicensis mappable:1" ; Times: 1
+	Query: "Columba nigrirostris vntype:specimen country:&#34;Panama&#34;" ; Times: 5
+	Query: "vntype:specimen specificepithet:americana genus:coccyzus" ; Times: 1
+	Query: "recordedby:ingraham year &gt;= 1888 year &lt;= 1889" ; Times: 1
+	Query: "aves wigtownshire scotland" ; Times: 3
+	Query: "Greece birds" ; Times: 1
+	Query: "egg pugnax" ; Times: 1
+	Query: "Strix aluco" ; Times: 1
+	Query: "specificepithet:tolmiei genus:Geothlypis stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "class:Aves catalognumber:10760 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Geothlypis aequinoctialis mappable:1" ; Times: 1
+	Query: "specificepithet:atricapillus genus:poecile stateprovince:&#34;Washington&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "class:Aves catalognumber:10761 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Dacnis cayana mappable:1" ; Times: 1
+	Query: "egg franklin bay" ; Times: 3
+	Query: "M. Canfield" ; Times: 1
+	Query: "tremors class:aves" ; Times: 8
+	Query: "tremors specificepithet:migratorius genus:turdus" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; catalognumber:2724" ; Times: 1
+	Query: "class:Aves catalognumber:18269 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Laterallus jamaicensis jamaicensis mappable:1" ; Times: 1
+	Query: "Conopophaga lineata mappable:1" ; Times: 1
+	Query: "specificepithet:communis genus:Sylvia" ; Times: 1
+	Query: "specificepithet:lincolnii genus:Melospiza stateprovince:&#34;Alberta&#34;" ; Times: 1
+	Query: "phaethon aethereus" ; Times: 2
+	Query: "Ptychoramphus AND Coronado" ; Times: 1
+	Query: "Geothlypis trichas san diego egg" ; Times: 1
+	Query: "pygochelidon cyanoleuca" ; Times: 1
+	Query: "specificepithet:atricapillus genus:poecile stateprovince:&#34;washington&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "Vanellus gregarius" ; Times: 1
+	Query: "Poecile atricapillus west virginia" ; Times: 1
+	Query: "Galbula ruficauda mappable:1" ; Times: 1
+	Query: "Piping plover" ; Times: 6
+	Query: "Amazonetta brasiliensis mappable:1" ; Times: 1
+	Query: "class:Aves catalognumber:7773 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Vermivora crissalis vntype:specimen" ; Times: 1
+	Query: "Mallard Duck" ; Times: 1
+	Query: "Gallinula galeata" ; Times: 1
+	Query: "specificepithet:ventralis genus:Phylloscartes country:&#34;brazil&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:minor genus:coccyzus" ; Times: 1
+	Query: "specificepithet:caeruleus genus:Cyanocorax" ; Times: 1
+	Query: "May Canfield Aves" ; Times: 1
+	Query: "class:Aves catalognumber:9098 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:rutilus genus:Thryothorus" ; Times: 1
+	Query: "Gallinula galeata mappable:1" ; Times: 1
+	Query: "SeChrist AND Coronado NOT Maryport NOT Diego" ; Times: 3
+	Query: "class:Aves locality:Clarion Island" ; Times: 2
+	Query: "Marbled murrelet" ; Times: 6
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1881 year &lt;= 1890" ; Times: 1
+	Query: "Calidris canutus rufa" ; Times: 6
+	Query: "family:Emberizidae lifestage:egg" ; Times: 2
+	Query: "phalacrocorax carbo russia" ; Times: 1
+	Query: "zonotrichia capensis matutina" ; Times: 1
+	Query: "cyclarhis gujanensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:lugubris genus:contopus" ; Times: 1
+	Query: "class:Aves catalognumber:15329 basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Furnarius rufus mappable:1" ; Times: 1
+	Query: "class:Aves catalognumber:10755 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Alectoris rufa" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; catalognumber:3449" ; Times: 1
+	Query: "SeChrist AND Coronado NOT Maryport" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; catalognumber:2710" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; catalognumber:2670" ; Times: 1
+	Query: "Lamprocolius corruscus" ; Times: 1
+	Query: "SeChrist AND Coronado AND 1912 NOT Maryport NOT Diego" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 940 download events in this period)
+Total number of records downloaded: 355
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: United Kingdom ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Canada ; Times: 12
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 5
+	Date: 2019-05-24 ; Times: 2
+	Date: 2019-05-27 ; Times: 1
+	Date: 2019-05-26 ; Times: 2
+	Date: 2019-05-21 ; Times: 2
+	Date: 2019-05-23 ; Times: 1
+	Date: 2019-05-30 ; Times: 1
+	Date: 2019-05-22 ; Times: 2
+	Date: 2019-05-31 ; Times: 7
+	Date: 2019-05-28 ; Times: 6
+	Date: 2019-05-09 ; Times: 2
+	Date: 2019-05-10 ; Times: 4
+	Date: 2019-05-04 ; Times: 1
+	Date: 2019-05-14 ; Times: 1
+	Date: 2019-05-02 ; Times: 4
+	Date: 2019-05-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "phalacrocorax carbo" ; Times: 1
+	Query: "specificepithet:swainsoni genus:buteo stateprovince:&#34;california&#34; year &lt;= 1960" ; Times: 1
+	Query: "ramphastos sulfuratus" ; Times: 2
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1961 year &lt;= 1970" ; Times: 1
+	Query: "vntype:specimen specificepithet:californica genus:Callipepla" ; Times: 1
+	Query: "vntype:specimen specificepithet:yncas" ; Times: 1
+	Query: "Lanius ludovicianus" ; Times: 1
+	Query: "vntype:specimen specificepithet:gambelii genus:Callipepla" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1971 year &lt;= 1980" ; Times: 1
+	Query: "vntype:specimen specificepithet:minor genus:coccyzus" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1951 year &lt;= 1960" ; Times: 1
+	Query: "vntype:specimen specificepithet:sordidulus genus:contopus" ; Times: 1
+	Query: "specificepithet:atricapillus genus:poecile stateprovince:&#34;Washington&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "vntype:specimen genus:Ectopistes" ; Times: 1
+	Query: "Colaptes chrysoides" ; Times: 1
+	Query: "Toxostoma bendirei" ; Times: 1
+	Query: "Spheniscus magellanicus" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "Patagona gigas" ; Times: 1
+	Query: "vntype:specimen specificepithet:squamata genus:Callipepla" ; Times: 1
+	Query: "Haplophaedia aureliae" ; Times: 1
+	Query: "vntype:specimen genus:pitta" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "vntype:specimen specificepithet:poliocephalus genus:porphyrio" ; Times: 1
+	Query: "vntype:specimen specificepithet:rutilus genus:Thryothorus" ; Times: 1
+	Query: "vntype:specimen specificepithet:maculipectus genus:Thryothorus" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1881 year &lt;= 1890" ; Times: 1
+	Query: "specificepithet:tricolor genus:agelaius basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 2
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1941 year &lt;= 1950" ; Times: 1
+	Query: "vntype:specimen genus:grus" ; Times: 1
+	Query: "vntype:specimen specificepithet:lugubris genus:contopus" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1901 year &lt;= 1910" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1931 year &lt;= 1940" ; Times: 1
+	Query: "Ring-necked Pheasant" ; Times: 2
+	Query: "Amazona autumnalis" ; Times: 1
+	Query: "selasphorus rufus" ; Times: 1
+	Query: "Vireo bellii" ; Times: 1
+
+
+End of report.
