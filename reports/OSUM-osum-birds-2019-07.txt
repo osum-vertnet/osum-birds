@@ -1,0 +1,299 @@
+Report for Institution Code OSUM, Resource osum-birds
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 255
+Number of records retrieved in searches: 1665
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 74
+	Country: United States ; Times: 167
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Nepal ; Times: 3
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 2
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 5
+	Date: 2019-07-08 ; Times: 24
+	Date: 2019-07-12 ; Times: 72
+	Date: 2019-07-13 ; Times: 2
+	Date: 2019-07-10 ; Times: 10
+	Date: 2019-07-11 ; Times: 10
+	Date: 2019-07-16 ; Times: 10
+	Date: 2019-07-17 ; Times: 4
+	Date: 2019-07-15 ; Times: 26
+	Date: 2019-07-03 ; Times: 8
+	Date: 2019-07-23 ; Times: 3
+	Date: 2019-07-22 ; Times: 4
+	Date: 2019-07-21 ; Times: 1
+	Date: 2019-07-02 ; Times: 24
+	Date: 2019-07-26 ; Times: 1
+	Date: 2019-07-25 ; Times: 4
+	Date: 2019-07-24 ; Times: 5
+	Date: 2019-07-01 ; Times: 4
+	Date: 2019-07-30 ; Times: 3
+	Date: 2019-07-29 ; Times: 5
+	Date: 2019-07-28 ; Times: 1
+	Date: 2019-07-05 ; Times: 5
+	Date: 2019-07-04 ; Times: 7
+	Date: 2019-07-31 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Porphyrio specificepithet:martinica" ; Times: 1
+	Query: "Mimus saturninus mappable:1" ; Times: 1
+	Query: "Delaware vntype:specimen specificepithet:quiscula genus:Quiscalus" ; Times: 1
+	Query: "Thraupis bonariensis mappable:1" ; Times: 1
+	Query: "genus:Capsiempis specificepithet:flaveola" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:fuscus genus:Lepidocolaptes class:Aves" ; Times: 1
+	Query: "genus:Megaceryle specificepithet:alcyon" ; Times: 1
+	Query: "Tangara seledon mappable:1" ; Times: 1
+	Query: "Euphonia laniirostris mappable:1" ; Times: 1
+	Query: "Euphonia rufiventris mappable:1" ; Times: 1
+	Query: "Anas fulvigula mappable:1" ; Times: 1
+	Query: "catalognumber:11983" ; Times: 1
+	Query: "Selenidera maculirostris mappable:1" ; Times: 1
+	Query: "vntype:specimen genus:Agelaius class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Bolborhynchus lineola mappable:1" ; Times: 1
+	Query: "catalognumber:2718 institutioncode:OSUM" ; Times: 1
+	Query: "genus:Ictinia specificepithet:mississippiensis" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "Numenius borealis institutioncode:OSUM" ; Times: 2
+	Query: "genus:Anthus specificepithet:trivialis" ; Times: 1
+	Query: "vntype:specimen genus:pseudoleistes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Doryfera specificepithet:ludovicae" ; Times: 1
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta AND (NOT maxima NOT taverneri NOT taverni NOT moffitti NOT leucopareia NOT parvipes NOT minima NOT occidentalis NOT &#34;canadensis canadensis&#34; NOT hutchinsii NOT fulva NOT interior) year &gt;= 1000 year &lt;= 1920" ; Times: 1
+	Query: "Turdus leucomelas mappable:1" ; Times: 1
+	Query: "Brachyramphus marmoratus mappable:1" ; Times: 3
+	Query: "Stephanophorus diadematus mappable:1" ; Times: 1
+	Query: "Tympanuchus cupido cupido institutioncode:OSUM" ; Times: 1
+	Query: "Ara militaris mappable:1" ; Times: 1
+	Query: "genus:Lampornis specificepithet:clemenciae" ; Times: 1
+	Query: "genus:Morus " ; Times: 1
+	Query: "Polioptila californica mappable:1" ; Times: 4
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus stateprovince:&#34;Iowa&#34; year &gt;= 1900 year &lt;= 2019 month &gt;= 4 month &lt;= 7" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "Aythya institutioncode:OSUM" ; Times: 1
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta AND (NOT maxima NOT taverneri NOT taverni NOT moffitti NOT leucopareia NOT parvipes NOT minima NOT occidentalis NOT &#34;canadensis canadensis&#34; NOT hutchinsii NOT fulva NOT interior NOT hutchinsi NOT belcheri) year &gt;= 1000 year &lt;= 1920" ; Times: 1
+	Query: "Sicalis luteola mappable:1" ; Times: 1
+	Query: "year &gt;= 1500 year &lt;= 1800 institutioncode:OSUM" ; Times: 1
+	Query: "ivory billed woodpecker" ; Times: 1
+	Query: "genus:Synthliboramphus specificepithet:antiquus" ; Times: 1
+	Query: "Tersina viridis mappable:1" ; Times: 1
+	Query: "Tachyphonus coronatus mappable:1" ; Times: 1
+	Query: "vntype:specimen genus:Molothrus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Gallus" ; Times: 1
+	Query: "Turdus rufiventris mappable:1" ; Times: 1
+	Query: "vntype:specimen genus:Pseudoleistes class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "skin vntype:specimen specificepithet:subcristata genus:Serpophaga class:Aves" ; Times: 1
+	Query: "Sitta carolinensis AND Island" ; Times: 1
+	Query: "Turdus ignobilis mappable:1" ; Times: 1
+	Query: "genus:Pyrrhura specificepithet:frontalis" ; Times: 1
+	Query: "Molothrus rufoaxillaris mappable:1" ; Times: 1
+	Query: "genus:Cyanocorax specificepithet:yncas" ; Times: 1
+	Query: "Paroaria coronata mappable:1" ; Times: 1
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta AND (NOT maxima NOT taverneri NOT taverni NOT moffitti NOT leucopareia NOT parvipes NOT minima NOT occidentalis NOT &#34;canadensis canadensis&#34; NOT hutchinsii NOT fulva NOT interior NOT hutchinsi NOT belcheri NOT teverneri NOT asiatica) year &gt;= 1000 year &lt;= 1920" ; Times: 2
+	Query: "Polioptila californica californica mappable:1" ; Times: 4
+	Query: "Saltator maximus mappable:1" ; Times: 1
+	Query: "genus:Brachyramphus family:Alcidae locality:san benito country:&#34;mexico&#34;" ; Times: 1
+	Query: "Vermivora bachmanii institutioncode:OSUM" ; Times: 2
+	Query: "Cyanerpes cyaneus mappable:1" ; Times: 1
+	Query: "Conuropsis carolinensis institutioncode:OSUM" ; Times: 2
+	Query: "Sporophila americana mappable:1" ; Times: 1
+	Query: "Agapornis nigrigenis mappable:1" ; Times: 1
+	Query: "Amazona ochrocephala mappable:1" ; Times: 1
+	Query: "Eremophila alpestris strigata mappable:1" ; Times: 5
+	Query: "Kubary" ; Times: 2
+	Query: "Sicalis flaveola mappable:1" ; Times: 2
+	Query: "Vireo bellii pusillus mappable:1" ; Times: 1
+	Query: "specificepithet:communis genus:Sylvia" ; Times: 2
+	Query: "Tringa rufa mappable:1" ; Times: 1
+	Query: "gruber california" ; Times: 1
+	Query: "Calidris canutus rufa mappable:1" ; Times: 1
+	Query: "Aratinga leucophthalmus mappable:1" ; Times: 1
+	Query: "Tangara preciosa mappable:1" ; Times: 1
+	Query: "institutioncode:osum Passerina" ; Times: 2
+	Query: "Pipraeidea melanonota mappable:1" ; Times: 1
+	Query: "Coryphospingus pileatus mappable:1" ; Times: 1
+	Query: "genus:Aix specificepithet:sponsa" ; Times: 1
+	Query: "Ohio vntype:specimen specificepithet:quiscula genus:Quiscalus" ; Times: 1
+	Query: "Strix occidentalis mappable:1" ; Times: 2
+	Query: "Sicalis flaveola pelzelni mappable:1" ; Times: 1
+	Query: "thamnistes anabatinus" ; Times: 1
+	Query: "Tachyphonus cristatus mappable:1" ; Times: 1
+	Query: "Sterna antillarum mappable:1" ; Times: 1
+	Query: "genus:Egretta specificepithet:thula" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 33
+	Query: "genus:Protonotaria specificepithet:citrea" ; Times: 1
+	Query: "Dendroica chrysoparia mappable:1" ; Times: 2
+	Query: "kubary institutioncode:OSUM" ; Times: 1
+	Query: "Thraupis palmarum mappable:1" ; Times: 1
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus year &gt;= 1907 year &lt;= 1907" ; Times: 1
+	Query: "Embernagra platensis mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus stateprovince:&#34;Ohio&#34; year &gt;= 1900 year &lt;= 2019 month &gt;= 4 month &lt;= 7" ; Times: 1
+	Query: "Astrapia nigra" ; Times: 3
+	Query: "Sporophila bouvreuil mappable:1" ; Times: 1
+	Query: "Leistes superciliaris mappable:1" ; Times: 1
+	Query: "Muscivora tyrannus mappable:1" ; Times: 1
+	Query: "Polioptila melanura californica mappable:1" ; Times: 4
+	Query: "Basileuterus melanogenys" ; Times: 1
+	Query: "family:Alcidae locality:san benito country:&#34;mexico&#34;" ; Times: 1
+	Query: "Neophema chrysogaster" ; Times: 1
+	Query: "Rallus crepitans south carolina" ; Times: 1
+	Query: "Cacicus haemorrhous mappable:1" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:cyanoptera genus:Thraupis class:Aves" ; Times: 1
+	Query: "genus:Luscinia specificepithet:luscinia" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:spixi genus:Synallaxis class:Aves" ; Times: 1
+	Query: "Mycteria americana mappable:1" ; Times: 1
+	Query: "Extinct vntype:specimen institutioncode:OSUM" ; Times: 1
+	Query: "genus:Phylloscartes specificepithet:ventralis" ; Times: 1
+	Query: "V institutioncode:OSUM" ; Times: 1
+	Query: "catalognumber:243 institutioncode:OSUM" ; Times: 1
+	Query: "Leistes militaris mappable:1" ; Times: 1
+	Query: "genus:Chloroceryle specificepithet:aenea" ; Times: 1
+	Query: "genus:Jacana country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Rynchops specificepithet:niger" ; Times: 1
+	Query: "specificepithet:cyanocephalus genus:Euphagus year &gt;= 1903 year &lt;= 1903" ; Times: 1
+	Query: "Thraupis sayaca mappable:1" ; Times: 1
+	Query: "specificepithet:psittacea genus:Psittirostra" ; Times: 3
+	Query: "&#34;Branta canadensis maxima&#34; vntype:specimen specificepithet:canadensis genus:Branta basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus stateprovince:&#34;South Dakota&#34; year &gt;= 1950 year &lt;= 2019 month &gt;= 4 month &lt;= 7" ; Times: 1
+	Query: "Charadrius melodus mappable:1" ; Times: 1
+	Query: "specificepithet:curvirostra genus:loxia stateprovince:&#34;Wisconsin&#34;" ; Times: 2
+	Query: "Amazona autumnalis mappable:1" ; Times: 1
+	Query: "genus:Pagodroma specificepithet:nivea" ; Times: 1
+	Query: "osum maryland" ; Times: 4
+	Query: "Ammodramus humeralis mappable:1" ; Times: 1
+	Query: "Psittirostra psittacea institutioncode:OSUM" ; Times: 2
+	Query: "vntype:specimen genus:Xanthopsar class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "Caracara AND 1880" ; Times: 2
+	Query: "Ramphastos dicolorus mappable:1" ; Times: 1
+	Query: "Psarocolius decumanus mappable:1" ; Times: 1
+	Query: "12108" ; Times: 1
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta AND (NOT maxima NOT taverneri NOT taverni NOT moffitti NOT leucopareia NOT parvipes NOT minima NOT occidentalis NOT &#34;canadensis canadensis&#34; NOT hutchinsii NOT fulva NOT interior NOT hutchinsi NOT belcheri NOT teverneri) year &gt;= 1000 year &lt;= 1920" ; Times: 1
+	Query: "Pseudoleistes virescens mappable:1" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:bonariensis genus:Thraupis class:Aves" ; Times: 2
+	Query: "Calornis" ; Times: 1
+	Query: "Chlorophanes spiza mappable:1" ; Times: 1
+	Query: "Ectopistes migratorius institutioncode:OSUM" ; Times: 3
+	Query: "Pseudoleistes guirahuro mappable:1" ; Times: 1
+	Query: "Sterna antillarum browni mappable:1" ; Times: 2
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 1
+	Query: "skin vntype:specimen specificepithet:cinerascens genus:Synallaxis class:Aves" ; Times: 1
+	Query: "Semioptera wallacii" ; Times: 1
+	Query: "Saltator maxillosus mappable:1" ; Times: 1
+	Query: "Agelaius thilius mappable:1" ; Times: 1
+	Query: "Columba nigrirostris vntype:specimen country:&#34;Panama&#34;" ; Times: 3
+	Query: "skin vntype:specimen specificepithet:maxillosus genus:Saltator class:Aves" ; Times: 1
+	Query: "Molothrus bonariensis mappable:1" ; Times: 1
+	Query: "Basileuterus melanogenys vntype:specimen" ; Times: 1
+	Query: "catalognumber:1847 institutioncode:OSUM" ; Times: 1
+	Query: "Campephilus principalis institutioncode:OSUM" ; Times: 3
+	Query: "Dacnis cayana mappable:1" ; Times: 1
+	Query: "Alisterus scapularis mappable:1" ; Times: 1
+	Query: "Thraupis episcopus mappable:1" ; Times: 1
+	Query: "Aplonis pelzelni institutioncode:OSUM" ; Times: 2
+	Query: "Habia rubica mappable:1" ; Times: 1
+	Query: "Ramphastos vitellinus mappable:1" ; Times: 1
+	Query: "Setophaga americana" ; Times: 1
+	Query: "recordedby:F. Gruber" ; Times: 1
+	Query: "&#34;Branta canadensis maxima&#34; vntype:specimen specificepithet:canadensis genus:Branta" ; Times: 1
+	Query: "Crossoptilon crossoptilon" ; Times: 1
+	Query: "Heliangelus amethysticollis" ; Times: 2
+	Query: "genus:Falco specificepithet:tinnunculus" ; Times: 1
+	Query: "catalognumber:15911" ; Times: 2
+	Query: "Cyanerpes caeruleus mappable:1" ; Times: 1
+	Query: "humming birds" ; Times: 1
+	Query: "skin vntype:specimen genus:Carpornis class:Aves" ; Times: 1
+	Query: "Thraupis cyanoptera mappable:1" ; Times: 1
+	Query: "genus:Buteo specificepithet:buteo" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:preciosa genus:Tangara class:Aves" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 2
+	Query: "Oceanodroma socorroensis" ; Times: 1
+	Query: "genus:Eupherusa specificepithet:eximia" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 985 download events in this period)
+Total number of records downloaded: 678
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 17
+	Country: Mexico ; Times: 2
+	Country: India ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: United States ; Times: 18
+	Country: Guatemala ; Times: 1
+	Country: Guadeloupe ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 1
+	Date: 2019-07-08 ; Times: 3
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-02 ; Times: 17
+	Date: 2019-07-27 ; Times: 1
+	Date: 2019-07-26 ; Times: 1
+	Date: 2019-07-25 ; Times: 1
+	Date: 2019-07-22 ; Times: 1
+	Date: 2019-07-01 ; Times: 1
+	Date: 2019-07-05 ; Times: 1
+	Date: 2019-07-03 ; Times: 1
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-24 ; Times: 1
+	Date: 2019-07-31 ; Times: 4
+	Date: 2019-07-12 ; Times: 3
+	Date: 2019-07-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "skin vntype:specimen specificepithet:subcristata genus:Serpophaga class:Aves" ; Times: 1
+	Query: "vermivora bachmanii" ; Times: 1
+	Query: "specificepithet:psittacea genus:Psittirostra" ; Times: 1
+	Query: "Branta hutchinsii" ; Times: 1
+	Query: "Anser caerulescens" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:cinerascens genus:Synallaxis class:Aves" ; Times: 1
+	Query: "specificepithet:collaris genus:trogon" ; Times: 1
+	Query: "(&#34;Patagioenas leucocephala&#34; OR &#34;Columba leucocephala&#34;)" ; Times: 1
+	Query: "Vireo bellii pusillus" ; Times: 2
+	Query: "skin vntype:specimen specificepithet:maxillosus genus:Saltator class:Aves" ; Times: 1
+	Query: "family:icteridae haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:cyanoptera genus:Thraupis class:Aves" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:coronatus genus:Tachyphonus class:Aves" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:aequinoctialis genus:Geothlypis class:Aves" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:griseicapillus genus:Sittasomus class:Aves" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:spixi genus:Synallaxis class:Aves" ; Times: 1
+	Query: "genus:Aphelocoma stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "Branta canadensis" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:sayaca genus:Thraupis class:Aves" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "specificepithet:communis genus:Sylvia" ; Times: 1
+	Query: "Patagona gigas" ; Times: 1
+	Query: "porzana carolina" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:fuscus genus:Lepidocolaptes class:Aves" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Branta basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "skin vntype:specimen specificepithet:melanonota genus:Pipraeidea class:Aves" ; Times: 1
+	Query: "Porzana carolina" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:mystaceus genus:Platyrinchus class:Aves" ; Times: 1
+	Query: "specificepithet:curvirostra genus:loxia stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta AND (NOT maxima NOT taverneri NOT taverni NOT moffitti NOT leucopareia NOT parvipes NOT minima NOT occidentalis NOT &#34;canadensis canadensis&#34; NOT hutchinsii NOT fulva NOT interior NOT hutchinsi NOT belcheri NOT teverneri NOT asiatica) year &gt;= 1000 year &lt;= 1920" ; Times: 1
+	Query: "skin vntype:specimen genus:Carpornis class:Aves" ; Times: 1
+	Query: "locality:Coronados" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:caudata genus:Chiroxiphia class:Aves" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:caerulescens genus:Thamnophilus class:Aves" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:preciosa genus:Tangara class:Aves" ; Times: 1
+	Query: "upupa epops" ; Times: 1
+	Query: "specificepithet:vicinior genus:Vireo" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:bonariensis genus:Thraupis class:Aves" ; Times: 1
+	Query: "Branta bernicla" ; Times: 1
+
+
+End of report.
