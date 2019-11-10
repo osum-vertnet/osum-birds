@@ -1,0 +1,248 @@
+Report for Institution Code OSUM, Resource osum-birds
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 216
+Number of records retrieved in searches: 2825
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Myanmar ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 16
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: United States ; Times: 166
+	Country: Argentina ; Times: 2
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-15 ; Times: 3
+	Date: 2019-09-16 ; Times: 2
+	Date: 2019-09-17 ; Times: 1
+	Date: 2019-09-10 ; Times: 3
+	Date: 2019-09-11 ; Times: 8
+	Date: 2019-09-12 ; Times: 2
+	Date: 2019-09-13 ; Times: 3
+	Date: 2019-09-18 ; Times: 1
+	Date: 2019-09-19 ; Times: 14
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-09 ; Times: 2
+	Date: 2019-09-03 ; Times: 18
+	Date: 2019-09-02 ; Times: 2
+	Date: 2019-09-07 ; Times: 2
+	Date: 2019-09-06 ; Times: 89
+	Date: 2019-09-05 ; Times: 5
+	Date: 2019-09-04 ; Times: 35
+	Date: 2019-09-21 ; Times: 1
+	Date: 2019-09-20 ; Times: 2
+	Date: 2019-09-23 ; Times: 4
+	Date: 2019-09-22 ; Times: 2
+	Date: 2019-09-25 ; Times: 3
+	Date: 2019-09-27 ; Times: 5
+	Date: 2019-09-26 ; Times: 5
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen locality:Newfoundland (lagopus) AND (NOT buteo NOT Alopex NOT Vulpes)" ; Times: 1
+	Query: "Aphelocoma New Mexico Grant County" ; Times: 1
+	Query: "specificepithet:principalis genus:campephilus basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "black-fronted warbler" ; Times: 1
+	Query: "Aglaiocercus kingi" ; Times: 1
+	Query: "Coccyzus americanus americanus" ; Times: 27
+	Query: "vntype:specimen specificepithet:humeralis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "osum campephilus principalis" ; Times: 1
+	Query: "catalognumber:12267 collectioncode:Birds institutioncode:OSUM" ; Times: 1
+	Query: "bird myanmar" ; Times: 1
+	Query: "newfoundland vntype:specimen (lagopus mutus)" ; Times: 1
+	Query: "Calidris canutus" ; Times: 10
+	Query: "Haplophaedia aureliae" ; Times: 1
+	Query: "locality:Newfoundland (ptarmigan)" ; Times: 2
+	Query: "Amazilia franciae" ; Times: 1
+	Query: "genus:Halcyon specificepithet:chloris country:&#34;Philippines&#34;" ; Times: 1
+	Query: "ptarmigan newfoundland" ; Times: 1
+	Query: "Verditer Flycatcher" ; Times: 1
+	Query: "Pseudoscops grammicus" ; Times: 1
+	Query: "Orthorhyncus cristatus" ; Times: 2
+	Query: "Vireo belli" ; Times: 1
+	Query: "mourning dove wing" ; Times: 1
+	Query: "vntype:specimen genus:Pipraeidea class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Lagopus vntype:specimen locality:Newfoundland AND (NOT buteo)" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "specificepithet:cooperii genus:accipiter institutioncode:OSUM" ; Times: 3
+	Query: "elf" ; Times: 1
+	Query: "Klais guimeti" ; Times: 1
+	Query: "duck wings" ; Times: 2
+	Query: "Apteryx" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (Lagopus) AND (Buteo)" ; Times: 1
+	Query: "Lissotis notophila" ; Times: 1
+	Query: "vntype:specimen specificepithet:bonariensis genus:Thraupis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Heliomaster furcifer" ; Times: 1
+	Query: "Columba nigrirostris vntype:specimen country:&#34;Panama&#34;" ; Times: 1
+	Query: "vntype:specimen locality:Newfoundland (lagopus) AND (NOT buteo)" ; Times: 4
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus) AND (not buteo)" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 15
+	Query: "pseudoscops grammicus" ; Times: 1
+	Query: "Aglaiocercus kingii" ; Times: 1
+	Query: "Aphelocoma coerulescens" ; Times: 36
+	Query: "vntype:specimen genus:Stephanophorus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "trogan" ; Times: 1
+	Query: "cavity nesting birds" ; Times: 1
+	Query: "peregrin falcon" ; Times: 1
+	Query: "lagopus mutus newfoundland" ; Times: 1
+	Query: "vntype:specimen genus:Sturnella class:Aves country:&#34;Brazil&#34; institutioncode:OSUM" ; Times: 1
+	Query: "vntype:specimen genus:sturnella class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Sturnella class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:5841" ; Times: 1
+	Query: "1180 tyrannus" ; Times: 1
+	Query: "pelecanoides kerguelen" ; Times: 2
+	Query: "Tangara guttata" ; Times: 1
+	Query: "palumbus Columba" ; Times: 3
+	Query: "Empidonax traillii" ; Times: 12
+	Query: "catalognumber:5481" ; Times: 1
+	Query: "tyrannus 1180" ; Times: 1
+	Query: "overington" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 10
+	Query: "laterallus albigularis vntype:specimen" ; Times: 1
+	Query: "Cyanocorax affinis" ; Times: 1
+	Query: "Aphelocoma coerulescens coerulescens" ; Times: 23
+	Query: "laterallus albigularis" ; Times: 1
+	Query: "Stephanoxis lalandi" ; Times: 1
+	Query: "Lagopus lagopus vntype:specimen locality:Newfoundland AND (NOT buteo)" ; Times: 1
+	Query: "Doryfera ludovicae" ; Times: 1
+	Query: "specificepithet:meridionalis genus:Nestor" ; Times: 1
+	Query: "class:aves country:&#34;russia&#34; year &gt;= 1906 year &lt;= 1906" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus) AND (Not buteo OR vulpes)" ; Times: 1
+	Query: "genus:Stephanophorus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Halcyon specificepithet: chloris country:&#34;Philippines&#34;" ; Times: 1
+	Query: "asio grammicus" ; Times: 1
+	Query: "Chrysolampis elatus" ; Times: 1
+	Query: "specificepithet:cooperii genus:accipiter year &gt;= 1980 institutioncode:OSUM" ; Times: 1
+	Query: "Aphelocoma californica San Diego County Escondido" ; Times: 1
+	Query: "Falco sparverius institutioncode:OSUM" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 75 (out of 1073 download events in this period)
+Total number of records downloaded: 787
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 21
+	Country: United States ; Times: 38
+	Country: Singapore ; Times: 2
+	Country: Unknown ; Times: 5
+	Country: Mexico ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Rwanda ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Argentina ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-21 ; Times: 4
+	Date: 2019-09-20 ; Times: 1
+	Date: 2019-09-16 ; Times: 1
+	Date: 2019-09-17 ; Times: 1
+	Date: 2019-09-10 ; Times: 21
+	Date: 2019-09-11 ; Times: 14
+	Date: 2019-09-27 ; Times: 1
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-18 ; Times: 5
+	Date: 2019-09-19 ; Times: 6
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-09 ; Times: 3
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-03 ; Times: 2
+	Date: 2019-09-02 ; Times: 2
+	Date: 2019-09-04 ; Times: 2
+	Date: 2019-09-06 ; Times: 1
+	Date: 2019-09-05 ; Times: 4
+	Date: 2019-09-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Glaucis hirsuta" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "pelecanoides" ; Times: 1
+	Query: "specificepithet:principalis genus:campephilus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "black-fronted warbler" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Hylocharis cyanus" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "Setophaga castanea" ; Times: 1
+	Query: "amazilia versicolor" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 2
+	Query: "Setophaga pinus" ; Times: 1
+	Query: "Amazilia franciae" ; Times: 1
+	Query: "Lesbia" ; Times: 1
+	Query: "ptarmigan newfoundland" ; Times: 1
+	Query: "Aglaeactis cupripennis" ; Times: 1
+	Query: "pitta" ; Times: 1
+	Query: "Clytolaema rubricauda" ; Times: 1
+	Query: "Anthracothorax nigricollis" ; Times: 1
+	Query: "Chrysolampis mosquitus" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Setophaga magnolia" ; Times: 1
+	Query: "Ocreatus underwoodii" ; Times: 1
+	Query: "Eupetomena macroura" ; Times: 1
+	Query: "black-throated blue warbler" ; Times: 1
+	Query: "Lafresnaya lafresnayi" ; Times: 1
+	Query: "laterallus albigularis vntype:specimen" ; Times: 1
+	Query: "family:cracidae" ; Times: 1
+	Query: "Setophaga pitiayumi" ; Times: 1
+	Query: "Falco sparverius institutioncode:OSUM" ; Times: 1
+	Query: "Heliodoxa leadbeateri" ; Times: 1
+	Query: "Heliomaster furcifer" ; Times: 1
+	Query: "vntype:specimen locality:Newfoundland (lagopus) AND (NOT buteo)" ; Times: 2
+	Query: "anas flavirostris" ; Times: 2
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus) AND (not buteo)" ; Times: 1
+	Query: "Chlorostilbon aureoventris" ; Times: 1
+	Query: "order:psittaciformes haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "Aglaiocercus kingii" ; Times: 2
+	Query: "Haplophaedia aureliae" ; Times: 1
+	Query: "Chrysuronia oenone" ; Times: 1
+	Query: "Hylocharis chrysura" ; Times: 1
+	Query: "lagopus newfoundland vntype:specimen" ; Times: 1
+	Query: "Heliangelus amethysticollis" ; Times: 1
+	Query: "ants" ; Times: 1
+	Query: "Metallura tyrianthina" ; Times: 1
+	Query: "Chrysolampis elatus" ; Times: 1
+	Query: "Hylocharis sapphirina" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "Heliomaster longirostris" ; Times: 1
+	Query: "Cyanocorax affinis" ; Times: 1
+	Query: "newt" ; Times: 1
+	Query: "specificepithet:icterus genus:Icterus" ; Times: 2
+	Query: "canorus" ; Times: 1
+	Query: "Charadrius mongolus" ; Times: 2
+	Query: "Stephanoxis lalandi" ; Times: 1
+	Query: "Phaethornis pretrei" ; Times: 1
+	Query: "Doryfera ludovicae" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "Setophaga palmarum" ; Times: 1
+	Query: "specificepithet:cooperii genus:accipiter institutioncode:OSUM" ; Times: 1
+	Query: "Leucochloris albicollis" ; Times: 1
+	Query: "Coeligena torquata" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 1
+	Query: "Zonotrichia capensis" ; Times: 1
+	Query: "Myioborus miniatus" ; Times: 1
+	Query: "Thalurania furcata" ; Times: 1
+
+
+End of report.
