@@ -1,0 +1,160 @@
+Report for Institution Code OSUM, Resource osum-birds
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 117
+Number of records retrieved in searches: 345
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 62
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 3
+	Country: Poland ; Times: 1
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 29
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 1
+	Date: 2019-12-27 ; Times: 8
+	Date: 2019-12-26 ; Times: 8
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-20 ; Times: 1
+	Date: 2019-12-22 ; Times: 4
+	Date: 2019-12-28 ; Times: 2
+	Date: 2019-12-18 ; Times: 2
+	Date: 2019-12-10 ; Times: 5
+	Date: 2019-12-11 ; Times: 7
+	Date: 2019-12-12 ; Times: 7
+	Date: 2019-12-13 ; Times: 6
+	Date: 2019-12-14 ; Times: 1
+	Date: 2019-12-16 ; Times: 1
+	Date: 2019-12-17 ; Times: 2
+	Date: 2019-12-30 ; Times: 10
+	Date: 2019-12-31 ; Times: 11
+	Date: 2019-12-09 ; Times: 7
+	Date: 2019-12-07 ; Times: 1
+	Date: 2019-12-06 ; Times: 2
+	Date: 2019-12-04 ; Times: 29
+	Date: 2019-12-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:saracura genus:Aramides mappable:1" ; Times: 1
+	Query: "junco dwight" ; Times: 1
+	Query: "specificepithet:rufobrunneus genus:Thripadectes mappable:1" ; Times: 1
+	Query: "specificepithet:prunellei genus:Coeligena mappable:1" ; Times: 1
+	Query: "specificepithet:aureliae genus:Haplophaedia mappable:1" ; Times: 1
+	Query: "2798 specificepithet:palustris genus:cistothorus" ; Times: 1
+	Query: "vntype:specimen specificepithet:femoralis genus:falco country:&#34;brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:flavescens genus:Boissonneaua mappable:1" ; Times: 1
+	Query: "specificepithet:coeligena genus:Coeligena mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:flaveola genus:Sicalis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "marsh new mexico 1885 aves" ; Times: 1
+	Query: "specificepithet:rubiginosus genus:Margarornis mappable:1" ; Times: 1
+	Query: "specificepithet:helianthea genus:Coeligena mappable:1" ; Times: 1
+	Query: "specificepithet:miniatus genus:Myioborus mappable:1" ; Times: 1
+	Query: "specificepithet:torquatus genus:Myioborus mappable:1" ; Times: 1
+	Query: "specificepithet:albicollis genus:Xiphocolaptes mappable:1" ; Times: 1
+	Query: "spinus tristis jewetti" ; Times: 1
+	Query: "specificepithet:aenea genus:Chloroceryle mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:femoralis genus:falco country:&#34;BRAZIL&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:rufifrons genus:Basileuterus mappable:1" ; Times: 1
+	Query: "Thryomanes bewickii marin county nicasio" ; Times: 1
+	Query: "specificepithet:americana genus:Chloroceryle mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:corythaix genus:Tauraco country:&#34;South Africa&#34;" ; Times: 1
+	Query: "bird egg vanellus" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Ivory Billed Woodpecker" ; Times: 1
+	Query: "specificepithet:cupreoventris genus:Eriocnemis mappable:1" ; Times: 1
+	Query: "specificepithet:mocinno genus:Pharomachrus mappable:1" ; Times: 1
+	Query: "specificepithet:riefferii genus:Pipreola mappable:1" ; Times: 1
+	Query: "specificepithet:wilsoni genus:Coeligena mappable:1" ; Times: 1
+	Query: "specificepithet:sanguinolentus genus:Pardirallus mappable:1" ; Times: 1
+	Query: "specificepithet:luciani genus:Eriocnemis mappable:1" ; Times: 1
+	Query: "specificepithet:amazona genus:Chloroceryle mappable:1" ; Times: 1
+	Query: "frederick island oceanodroma" ; Times: 1
+	Query: "Oscar E. Baynard" ; Times: 1
+	Query: "class:aves locality:st matthew stateprovince:&#34;alaska&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen genus:SIcalis class:Aves country:&#34;Brazil&#34; institutioncode:OSUM" ; Times: 1
+	Query: "specificepithet:minutus genus:Xenops mappable:1" ; Times: 1
+	Query: "Buteo jamaicensis 1937" ; Times: 1
+	Query: "mallard duck" ; Times: 2
+	Query: "Ramphomicron sex:female" ; Times: 1
+	Query: "carolina parakeet basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:melanogenys genus:Basileuterus mappable:1" ; Times: 1
+	Query: "OSM 846" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "geothlypis speciosa" ; Times: 3
+	Query: "Ramphomicron microrhynchum sex:female" ; Times: 2
+	Query: "vntype:specimen specificepithet:porphyreolophus genus:Tauraco" ; Times: 4
+	Query: "vntype:specimen specificepithet:autumnalis genus:amazona" ; Times: 1
+	Query: "marsh dulzura california" ; Times: 2
+	Query: "dilophus" ; Times: 3
+	Query: "Calamus calamus mappable:1" ; Times: 4
+	Query: "sitta pusilla vntype:specimen" ; Times: 1
+	Query: "specificepithet:cupripennis genus:Aglaeactis mappable:1" ; Times: 1
+	Query: "Eremophila alpestris strigata 2013" ; Times: 6
+	Query: "Eremophila alpestris strigata 2012" ; Times: 6
+	Query: "genus:macropygia country:&#34;philippines&#34;" ; Times: 1
+	Query: "Polioptila californica" ; Times: 2
+	Query: "Eremophila alpestris strigata 2016" ; Times: 6
+	Query: "Eremophila alpestris strigata 2015" ; Times: 6
+	Query: "specificepithet:fulvicauda genus:Myiothlypis mappable:1" ; Times: 1
+	Query: "specificepithet:torquata genus:Coeligena mappable:1" ; Times: 1
+	Query: "specificepithet:baritula genus:Diglossa mappable:1" ; Times: 1
+	Query: "13110" ; Times: 1
+	Query: "dwight junco" ; Times: 1
+	Query: "county:&#34;lewis&#34; stateprovince:&#34;Kentucky&#34;" ; Times: 2
+	Query: "asio grammicus" ; Times: 5
+	Query: "vntype:specimen specificepithet:luteola genus:Sicalis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:rufus genus:Furnarius mappable:1" ; Times: 1
+	Query: "pseudoscops grammicus" ; Times: 6
+	Query: "specificepithet:coronata genus:Paroaria mappable:1" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 596 download events in this period)
+Total number of records downloaded: 185
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Germany ; Times: 1
+	Country: Hong Kong ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-04 ; Times: 1
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-09 ; Times: 2
+	Date: 2019-12-08 ; Times: 1
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-13 ; Times: 2
+	Date: 2019-12-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "patagona gigas" ; Times: 1
+	Query: "Head Tail hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:thyroideus genus:Sphyrapicus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Setophaga tigrina" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "class:aves locality:st matthew stateprovince:&#34;alaska&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "spinus tristis jewetti" ; Times: 1
+	Query: "specificepithet:garzetta genus:Egretta" ; Times: 1
+	Query: "geothlypis speciosa" ; Times: 1
+	Query: "genus:amazona family:Psittacidae order:Psittaciformes" ; Times: 1
+	Query: "spinus tristis tristis" ; Times: 1
+	Query: "sitta pusilla vntype:specimen" ; Times: 1
+
+
+End of report.
