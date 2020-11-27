@@ -1,0 +1,169 @@
+Report for Institution Code OSUM, Resource osum-birds
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 97
+Number of records retrieved in searches: 382
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 5
+	Country: United States ; Times: 78
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: Thailand ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-11 ; Times: 7
+	Date: 2020-03-30 ; Times: 3
+	Date: 2020-03-31 ; Times: 10
+	Date: 2020-03-18 ; Times: 5
+	Date: 2020-03-19 ; Times: 2
+	Date: 2020-03-16 ; Times: 1
+	Date: 2020-03-09 ; Times: 3
+	Date: 2020-03-13 ; Times: 2
+	Date: 2020-03-08 ; Times: 5
+	Date: 2020-03-17 ; Times: 1
+	Date: 2020-03-28 ; Times: 1
+	Date: 2020-03-25 ; Times: 2
+	Date: 2020-03-24 ; Times: 1
+	Date: 2020-03-23 ; Times: 5
+	Date: 2020-03-22 ; Times: 5
+	Date: 2020-03-21 ; Times: 2
+	Date: 2020-03-20 ; Times: 3
+	Date: 2020-03-05 ; Times: 12
+	Date: 2020-03-04 ; Times: 3
+	Date: 2020-03-07 ; Times: 6
+	Date: 2020-03-06 ; Times: 8
+	Date: 2020-03-01 ; Times: 1
+	Date: 2020-03-03 ; Times: 7
+	Date: 2020-03-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Accipiter cooperi" ; Times: 1
+	Query: "Passenger Pigeon" ; Times: 5
+	Query: "swallow-tailed kite" ; Times: 2
+	Query: "genus:Passerina country:&#34;United States&#34; year &gt;= 2010 year &lt;= 2018 basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "catalognumber:13619" ; Times: 2
+	Query: "13715" ; Times: 2
+	Query: "Spatula clypeata" ; Times: 2
+	Query: "stateprovince:&#34;texas&#34; recordedby:carroll year &gt;= 1900 year &lt;= 1900 month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "Dave Long" ; Times: 2
+	Query: "Dicrurus ludwigii" ; Times: 1
+	Query: "crossoptilon crossoptilon" ; Times: 1
+	Query: "rhea americana" ; Times: 1
+	Query: "catalognumber:7319" ; Times: 1
+	Query: "wng" ; Times: 2
+	Query: "accipiter cooperi" ; Times: 1
+	Query: "B-10458" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 6
+	Query: "vntype:specimen stateprovince:&#34;Pennsylvania&#34; (cerulea) basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "eriocnemis luciani" ; Times: 2
+	Query: "catalognumber:5085" ; Times: 1
+	Query: "12212" ; Times: 1
+	Query: "(216329])" ; Times: 1
+	Query: "coeligena prunellei" ; Times: 2
+	Query: "Camptostoma flaviventre" ; Times: 1
+	Query: "specificepithet:lagopus genus:Lagopus country:&#34;United States&#34; AND (NOT Alaska) basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "vntype:specimen stateprovince:&#34;Maine&#34; (petechia) basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Catharus aurantiirostris Chiriqui" ; Times: 1
+	Query: "muscicapa thalassina" ; Times: 1
+	Query: "treron australis" ; Times: 3
+	Query: "USNM 9611" ; Times: 1
+	Query: "specificepithet:lagopus genus:Lagopus stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 2
+	Query: "guadalupe Wilson egg" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;New York&#34; (Dendroica coronata) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Maryland&#34; (Setophaga coronata) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "erithacus svecicus" ; Times: 1
+	Query: "county:&#34;refugio&#34; stateprovince:&#34;texas&#34; recordedby:carroll" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;New York&#34; (Dendroica Setophaga coronata) basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Passerina year &gt;= 2010 year &lt;= 2018 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Aves Numididae skin meleagris" ; Times: 2
+	Query: "Basilinna xantusii" ; Times: 1
+	Query: "myrtle warbler" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;New York&#34; (Setophaga coronata) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "(11044)" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Maryland&#34; (Dendroica coronata) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "pitta brachyura" ; Times: 1
+	Query: "Eudocimus ruber" ; Times: 1
+	Query: "genus:cinclus specificepithet:mexicanus" ; Times: 1
+	Query: "guadalupe Wilson" ; Times: 1
+	Query: "(216329)" ; Times: 2
+	Query: "Cuculus canorus" ; Times: 2
+	Query: "specificepithet:sapphirina genus:Hylocharis" ; Times: 1
+	Query: "guadalupe mexico wilson" ; Times: 1
+	Query: "Ivory billed woodpecker" ; Times: 1
+	Query: "genus:Passerina country:&#34;United States&#34; year &gt;= 2010 year &lt;= 2018" ; Times: 2
+	Query: "coracias garrula" ; Times: 1
+	Query: "B-10365" ; Times: 1
+	Query: "vntype:specimen specificepithet:coronatus genus:Tachyphonus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "tangara guttata" ; Times: 2
+	Query: "41248" ; Times: 1
+	Query: "Rock rattlesnake" ; Times: 2
+	Query: "albolarvatus California El Dorado County" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 853 download events in this period)
+Total number of records downloaded: 864
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: United States ; Times: 16
+	Country: Peru ; Times: 1
+	Country: Guadeloupe ; Times: 3
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-11 ; Times: 4
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-26 ; Times: 1
+	Date: 2020-03-24 ; Times: 2
+	Date: 2020-03-09 ; Times: 2
+	Date: 2020-03-05 ; Times: 6
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-14 ; Times: 1
+	Date: 2020-03-06 ; Times: 4
+	Date: 2020-03-12 ; Times: 2
+	Date: 2020-03-03 ; Times: 1
+	Date: 2020-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Icterus gularis" ; Times: 1
+	Query: "genus:Passerina country:&#34;United States&#34; year &gt;= 2010 year &lt;= 2018 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "elanus leucurus" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "genus:Passerina stateprovince:&#34;Colorado&#34;" ; Times: 2
+	Query: "tringa semipalmata" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina" ; Times: 1
+	Query: "Dendrocolaptes" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Rio Grande do Sul&#34;" ; Times: 1
+	Query: "genus:Passerina year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "genus:Passerina year &gt;= 2010 year &lt;= 2018 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "colaptes chrysoides" ; Times: 1
+	Query: "northern flicker" ; Times: 1
+	Query: "newt" ; Times: 1
+	Query: "specificepithet:tricolor genus:Agelaius stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "&#34;Columba leucocephala&#34; OR &#34;Patagioenas leucocephala&#34; vntype:specimen" ; Times: 3
+	Query: "genus:Pheucticus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "county:&#34;Amador&#34;" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina" ; Times: 2
+	Query: "genus:Passerina country:&#34;United States&#34; year &gt;= 2010 year &lt;= 2018" ; Times: 1
+	Query: "tangara guttata" ; Times: 1
+	Query: "specificepithet:icterus genus:Icterus" ; Times: 1
+
+
+End of report.
