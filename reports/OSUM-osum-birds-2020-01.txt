@@ -1,0 +1,169 @@
+Report for Institution Code OSUM, Resource osum-birds
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 84
+Number of records retrieved in searches: 487
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Cuba ; Times: 1
+	Country: France ; Times: 5
+	Country: United States ; Times: 58
+	Country: Germany ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 7
+	Country: Argentina ; Times: 1
+	Country: Guadeloupe ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 2
+	Date: 2020-01-03 ; Times: 8
+	Date: 2020-01-02 ; Times: 1
+	Date: 2020-01-01 ; Times: 3
+	Date: 2020-01-07 ; Times: 3
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-21 ; Times: 4
+	Date: 2020-01-20 ; Times: 17
+	Date: 2020-01-09 ; Times: 1
+	Date: 2020-01-08 ; Times: 5
+	Date: 2020-01-24 ; Times: 1
+	Date: 2020-01-27 ; Times: 4
+	Date: 2020-01-29 ; Times: 1
+	Date: 2020-01-28 ; Times: 4
+	Date: 2020-01-18 ; Times: 1
+	Date: 2020-01-19 ; Times: 2
+	Date: 2020-01-14 ; Times: 8
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-16 ; Times: 4
+	Date: 2020-01-17 ; Times: 3
+	Date: 2020-01-10 ; Times: 1
+	Date: 2020-01-12 ; Times: 3
+	Date: 2020-01-13 ; Times: 4
+	Date: 2020-01-31 ; Times: 1
+	Date: 2020-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "xanthopsar flavus" ; Times: 1
+	Query: "Passenger Pigeon" ; Times: 3
+	Query: "vntype:specimen specificepithet:decumanus genus:psarocolius country:&#34;trinidad&#34;" ; Times: 1
+	Query: "county:&#34;wayne&#34; stateprovince:&#34;west virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "elf" ; Times: 3
+	Query: "Pelicanus occidentalis" ; Times: 1
+	Query: "specificepithet:cooperii genus:accipiter stateprovince:&#34;Ohio&#34; year &gt;= 1980" ; Times: 1
+	Query: "Mallard Duck" ; Times: 2
+	Query: "canadensis 1876" ; Times: 1
+	Query: "jocosus Pycnonotus" ; Times: 1
+	Query: "county:&#34;Lawrence&#34; stateprovince:&#34;Ohio&#34;" ; Times: 7
+	Query: "bushtit egg" ; Times: 3
+	Query: "Passenger pigeon" ; Times: 2
+	Query: "13990" ; Times: 1
+	Query: "Lophophorus impejanus" ; Times: 1
+	Query: "catalognumber:12682" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:quiscula genus:Quiscalus institutioncode:OSUM" ; Times: 1
+	Query: "specificepithet:cooperii genus:accipiter institutioncode:OSUM" ; Times: 1
+	Query: "Cyanocorax caeruleus" ; Times: 1
+	Query: "catalognumber:11263" ; Times: 1
+	Query: "carolina parakeet" ; Times: 1
+	Query: "335117" ; Times: 1
+	Query: "Porphyrio martinicus" ; Times: 2
+	Query: "vntype:specimen order:procellariiformes institutioncode:OSUM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "haematotis" ; Times: 1
+	Query: "12356" ; Times: 1
+	Query: "Mycteria ibis" ; Times: 1
+	Query: "flint 1895 aves" ; Times: 1
+	Query: "county:&#34;Sherman&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:prill basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "brotogeris jugularis" ; Times: 1
+	Query: "atlapetes chiriqui" ; Times: 1
+	Query: "numenius borealis" ; Times: 3
+	Query: "agamia agami" ; Times: 1
+	Query: "Calamus calamus mappable:1" ; Times: 3
+	Query: "grus americana minnesota" ; Times: 1
+	Query: "Pyranga hepatica" ; Times: 1
+	Query: "stateprovince:&#34;oregon&#34; recordedby:corless basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ara militaris" ; Times: 7
+	Query: "aves trichas sinuosa skel OR skeleton" ; Times: 1
+	Query: "Vermivora bachmanii" ; Times: 1
+	Query: "OSU 10455" ; Times: 1
+	Query: "Porphyrula martinica" ; Times: 1
+	Query: "catalognumber:12453" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:gabrielson basisofrecord:PreservedSpecimen" ; Times: 5
+	Query: "class:aves catalognumber:11263" ; Times: 1
+	Query: "richmondena" ; Times: 2
+	Query: "county:&#34;lewis&#34; stateprovince:&#34;Kentucky&#34;" ; Times: 2
+	Query: "Merops persicus" ; Times: 1
+	Query: "Columba squamosa" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 1584 download events in this period)
+Total number of records downloaded: 1112
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 7
+	Country: Cuba ; Times: 1
+	Country: United States ; Times: 28
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-28 ; Times: 7
+	Date: 2020-01-08 ; Times: 3
+	Date: 2020-01-07 ; Times: 3
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-21 ; Times: 4
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-09 ; Times: 1
+	Date: 2020-01-17 ; Times: 2
+	Date: 2020-01-24 ; Times: 4
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-13 ; Times: 1
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-29 ; Times: 9
+	Date: 2020-01-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 1
+	Query: "specificepithet:canadensis genus:Branta haslength:1" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "Haemorhous mexicanus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 2
+	Query: "Lophophorus impejanus" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sitta haslength:1" ; Times: 1
+	Query: "specificepithet:canorus" ; Times: 1
+	Query: "Cyanocorax caeruleus" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Xanthocephalus" ; Times: 1
+	Query: "Mycteria ibis" ; Times: 1
+	Query: "specificepithet:villosus genus:Picoides haslength:1" ; Times: 8
+	Query: "xanthopsar flavus" ; Times: 1
+	Query: "class:aves county:&#34;humboldt&#34; recordedby:smith franklin" ; Times: 2
+	Query: "specificepithet:cardinalis genus:Cardinalis hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Sturnus" ; Times: 1
+	Query: "brotogeris jugularis" ; Times: 1
+	Query: "class:aves country:Mexico" ; Times: 1
+	Query: "agamia agami" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "Vermivora bachmanii" ; Times: 1
+	Query: "aquila chrysaetos canadensis" ; Times: 1
+	Query: "genus:Xanthocephalus" ; Times: 2
+	Query: "class:Aves country:Mexico" ; Times: 1
+	Query: "Zenaida aurita" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 2
+
+
+End of report.
