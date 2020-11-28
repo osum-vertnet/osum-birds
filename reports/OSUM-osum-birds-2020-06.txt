@@ -1,0 +1,168 @@
+Report for Institution Code OSUM, Resource osum-birds
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 140
+Number of records retrieved in searches: 384
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 65
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 2
+	Country: Sweden ; Times: 5
+	Country: United States ; Times: 30
+	Country: Austria ; Times: 1
+	Country: United Kingdom ; Times: 26
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-14 ; Times: 8
+	Date: 2020-06-19 ; Times: 1
+	Date: 2020-06-08 ; Times: 4
+	Date: 2020-06-06 ; Times: 1
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-04 ; Times: 8
+	Date: 2020-06-02 ; Times: 7
+	Date: 2020-06-03 ; Times: 69
+	Date: 2020-06-01 ; Times: 4
+	Date: 2020-06-15 ; Times: 2
+	Date: 2020-06-29 ; Times: 2
+	Date: 2020-06-10 ; Times: 15
+	Date: 2020-06-11 ; Times: 12
+	Date: 2020-06-12 ; Times: 3
+	Date: 2020-06-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco jugger" ; Times: 1
+	Query: "Sialia sialis hasmass:1" ; Times: 1
+	Query: "class:aves country:&#34;china&#34; recordedby:wilder" ; Times: 1
+	Query: "catalognumber:2021 institutioncode:OSUM" ; Times: 1
+	Query: "Aquila chrysaetos hasmass:1" ; Times: 1
+	Query: "Buteo lineatus mass OR weight" ; Times: 2
+	Query: "Sterna hirundo mass OR weight" ; Times: 2
+	Query: "Thalasseus maximus mass OR weight" ; Times: 2
+	Query: "Anas platyrhynchos hasmass:1" ; Times: 1
+	Query: "Bobolink nest" ; Times: 2
+	Query: "Zenaida macroura mass OR weight" ; Times: 2
+	Query: "Hydroprogne caspia mass OR weight" ; Times: 2
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "Zenaida macroura hasmass:1" ; Times: 1
+	Query: "Pelecanus erythrorhynchos mass OR weight" ; Times: 2
+	Query: "Strix varia mass OR weight" ; Times: 2
+	Query: "Sialia mexicana hasmass:1" ; Times: 1
+	Query: "Progne subis hasmass:1" ; Times: 1
+	Query: "Phalacrocorax auritus mass OR weight" ; Times: 2
+	Query: "Pelecanus occidentalis mass OR weight" ; Times: 2
+	Query: "Sterna dougallii mass OR weight" ; Times: 2
+	Query: "Pelecanus occidentalis hasmass:1" ; Times: 1
+	Query: "Larus argentatus hasmass:1" ; Times: 1
+	Query: "elf owl" ; Times: 5
+	Query: "Strix varia hasmass:1" ; Times: 1
+	Query: "astrapia nigra" ; Times: 1
+	Query: "Falco columbarius aesalon" ; Times: 1
+	Query: "Branta bernicla hasmass:1" ; Times: 1
+	Query: "Anas strepera" ; Times: 6
+	Query: "vanellus gregaria" ; Times: 1
+	Query: "Cairina moschata" ; Times: 3
+	Query: "Tyto alba hasmass:1" ; Times: 1
+	Query: "Charadrius melodus hasmass:1" ; Times: 1
+	Query: "Branta bernicla mass OR weight" ; Times: 2
+	Query: "&#34;H. A. Edwards&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:bouvreuil genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Icteria virens longicauda" ; Times: 1
+	Query: "Buteo jamaicensis hasmass:1" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 3
+	Query: "Pandion haliaetus mass OR weight" ; Times: 2
+	Query: "Anas platyrhynchos mass OR weight" ; Times: 2
+	Query: "Sialia sialis mass OR weight" ; Times: 2
+	Query: "Sterna dougallii hasmass:1" ; Times: 1
+	Query: "Phalacrocorax auritus hasmass:1" ; Times: 1
+	Query: "Buteo jamaicensis mass OR weight" ; Times: 2
+	Query: "Larus marinus mass OR weight" ; Times: 2
+	Query: "Falco sparverius hasmass:1" ; Times: 1
+	Query: "Falco sparverius mass OR weight" ; Times: 2
+	Query: "Tachycineta bicolor mass OR weight" ; Times: 2
+	Query: "specificepithet:swainsoni genus:myiarchus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Chiroxiphia specificepithet:caudata" ; Times: 2
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "Thalasseus maximus hasmass:1" ; Times: 1
+	Query: "Branta canadensis hasmass:1" ; Times: 1
+	Query: "catalognumber:19611" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 2
+	Query: "Asyndesmus lewis" ; Times: 1
+	Query: "Anas penelope" ; Times: 6
+	Query: "Hydroprogne caspia hasmass:1" ; Times: 1
+	Query: "Meadowlark nest" ; Times: 2
+	Query: "catalognumber:4018" ; Times: 1
+	Query: "Mycteria americana hasmass:1" ; Times: 1
+	Query: "vanellus gregarius" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo county:&#34;san diego&#34;" ; Times: 1
+	Query: "Sterna hirundo hasmass:1" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 12
+	Query: "Aquila chrysaetos mass OR weight" ; Times: 2
+	Query: "Haliaeetus leucocephalus hasmass:1" ; Times: 1
+	Query: "Alopochen aegyptiacus" ; Times: 6
+	Query: "Accipiter cooperii hasmass:1" ; Times: 1
+	Query: "Pelecanus erythrorhynchos hasmass:1" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 5
+	Query: "Astrapia nigra" ; Times: 4
+	Query: "Larus delawarensis hasmass:1" ; Times: 1
+	Query: "Tyto alba mass OR weight" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 474 download events in this period)
+Total number of records downloaded: 797
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Unknown ; Times: 1
+	Country: Austria ; Times: 1
+	Country: Brazil ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-19 ; Times: 1
+	Date: 2020-06-06 ; Times: 1
+	Date: 2020-06-04 ; Times: 5
+	Date: 2020-06-02 ; Times: 5
+	Date: 2020-06-03 ; Times: 3
+	Date: 2020-06-01 ; Times: 2
+	Date: 2020-06-10 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "sea otter" ; Times: 1
+	Query: "class:aves country:&#34;china&#34; recordedby:wilder" ; Times: 1
+	Query: "specificepithet:violacea genus:Nyctanassa" ; Times: 1
+	Query: "Dryocopus pileatus" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus" ; Times: 1
+	Query: "american beaver" ; Times: 1
+	Query: "largemouth bass" ; Times: 1
+	Query: "muskrat" ; Times: 1
+	Query: "Catharus fuscescens" ; Times: 1
+	Query: "Arenaria interpres" ; Times: 1
+	Query: "elf owl" ; Times: 3
+	Query: "Tersina viridis" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "specificepithet:pictus genus:oreortyx order:galliformes" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga" ; Times: 1
+	Query: "specificepithet:viridis genus:Tersina" ; Times: 1
+	Query: "specificepithet:forficatus genus:Elanoides" ; Times: 1
+	Query: "racoon" ; Times: 2
+	Query: "bald eagle" ; Times: 1
+	Query: "locality:kentucky" ; Times: 1
+	Query: "specificepithet:interpres genus:Arenaria" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo county:&#34;san diego&#34;" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (hypoleucus OR hypoleuca OR scrippsi OR Synthliboramphus OR Brachyramphus OR murrelet) AND (NOT craveri NOT Coronado)" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 2
+	Query: "raccoon" ; Times: 1
+	Query: "Piranga rubra" ; Times: 1
+
+
+End of report.
