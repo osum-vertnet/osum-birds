@@ -1,0 +1,176 @@
+Report for Institution Code OSUM, Resource osum-birds
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 67
+Number of records retrieved in searches: 326
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 20
+	Country: Canada ; Times: 2
+	Country: Netherlands ; Times: 4
+	Country: Ireland ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 34
+	Country: Colombia ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-21 ; Times: 5
+	Date: 2020-09-15 ; Times: 3
+	Date: 2020-09-23 ; Times: 7
+	Date: 2020-09-17 ; Times: 1
+	Date: 2020-09-10 ; Times: 4
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-12 ; Times: 1
+	Date: 2020-09-13 ; Times: 5
+	Date: 2020-09-29 ; Times: 3
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-07 ; Times: 2
+	Date: 2020-09-26 ; Times: 2
+	Date: 2020-09-18 ; Times: 3
+	Date: 2020-09-22 ; Times: 2
+	Date: 2020-09-02 ; Times: 4
+	Date: 2020-09-03 ; Times: 4
+	Date: 2020-09-25 ; Times: 5
+	Date: 2020-09-01 ; Times: 3
+	Date: 2020-09-04 ; Times: 2
+	Date: 2020-09-08 ; Times: 2
+	Date: 2020-09-24 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:artica genus:Fratercula" ; Times: 2
+	Query: "genus:Picoides specificepithet:arcticus*" ; Times: 2
+	Query: "specificepithet:melanura genus:Polioptila county:&#34;los angeles&#34;" ; Times: 1
+	Query: "gbifdatasetid:91aa5e23-9cad-4751-86e0-241da77d7407" ; Times: 2
+	Query: "Mangrove Cuckoo" ; Times: 1
+	Query: "genus:Limnothlypis" ; Times: 3
+	Query: "Doryfera johannae" ; Times: 1
+	Query: "10815 aves" ; Times: 1
+	Query: "ivory billed woodpecker" ; Times: 1
+	Query: "specificepithet:aura genus:cathartes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Collocalia inexpectata" ; Times: 1
+	Query: "vntype:specimen genus:chauna class:Aves country:&#34;brazil&#34;" ; Times: 1
+	Query: "dusky seaside sparrow" ; Times: 3
+	Query: "genus:Coragyps class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "apes" ; Times: 1
+	Query: "Agyrtria milleri" ; Times: 1
+	Query: "Ivory billed woodpecker" ; Times: 1
+	Query: "scientificname:Fratercula artica" ; Times: 1
+	Query: "catalognumber:5339" ; Times: 1
+	Query: "vntype:specimen genus:Cairina class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "egg specificepithet:migratorius genus:turdus stateprovince:&#34;ontario&#34; country:&#34;canada&#34; year &gt;= 1920 year &lt;= 2020 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 1
+	Query: "genus:Cathartes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Corvus monedula OR Corvus dauuricus" ; Times: 4
+	Query: "genus:Chauna class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "scientificname:Streptopelia decaocto" ; Times: 2
+	Query: "scientificname:Furnarius rufus" ; Times: 2
+	Query: "vntype:specimen genus:sarkidiornis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "egg specificepithet:migratorius genus:turdus country:&#34;canada&#34; year &gt;= 1920 year &lt;= 2020 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "class:Aves recordedby:Matthews" ; Times: 1
+	Query: "catalognumber:10122" ; Times: 1
+	Query: "specificepithet:viduata genus:dendrocygna class:Aves country:&#34;brazil&#34;" ; Times: 1
+	Query: "class:Aves recordedby:Matthews basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:maculosa genus:Nothura class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "synallaxis spixi" ; Times: 1
+	Query: "specificepithet:artica genus:Fratercula (11)" ; Times: 1
+	Query: "vntype:specimen genus:Chauna class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "x warbler" ; Times: 2
+	Query: "specificepithet:arcticus genus:Picoides" ; Times: 1
+	Query: "catalognumber:17167" ; Times: 1
+	Query: "catalognumber:5848" ; Times: 1
+	Query: "pitta brachyura" ; Times: 1
+	Query: "vntype:specimen genus:Amazonetta class:Aves country:&#34;BraZil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:viduata genus:dendrocygna class:Aves country:&#34;brazil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Rhea class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Coracias benghalensis indicus" ; Times: 1
+	Query: "vntype:specimen country:&#34;Canada&#34; (Tetrao)" ; Times: 1
+	Query: "lagopus muta canada" ; Times: 1
+	Query: "egg vntype:specimen specificepithet:migratorius genus:Turdus country:&#34;canada&#34; year &gt;= 1920 year &lt;= 2020 month &gt;= 1 month &lt;= 12" ; Times: 2
+	Query: "specificepithet:aura genus:Cathartes class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "vntype:specimen genus:chauna class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Rhea class:Aves country:&#34;Brazil&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 976 download events in this period)
+Total number of records downloaded: 3028
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 2
+	Country: Netherlands ; Times: 8
+	Country: Unknown ; Times: 5
+	Country: United States ; Times: 19
+	Country: United Arab Emirates ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-15 ; Times: 2
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-17 ; Times: 1
+	Date: 2020-09-10 ; Times: 2
+	Date: 2020-09-11 ; Times: 2
+	Date: 2020-09-13 ; Times: 8
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-28 ; Times: 3
+	Date: 2020-09-26 ; Times: 2
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-02 ; Times: 9
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-25 ; Times: 1
+	Date: 2020-09-04 ; Times: 2
+	Date: 2020-09-08 ; Times: 1
+	Date: 2020-09-24 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Anthracothorax viridigula" ; Times: 1
+	Query: "vntype:specimen specificepithet:lomvia genus:Uria country:&#34;Canada&#34;" ; Times: 1
+	Query: "genus:Picoides specificepithet:arcticus*" ; Times: 1
+	Query: "vntype:specimen family:Numididae" ; Times: 1
+	Query: "specificepithet:principalis genus:campephilus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Picoides specificepithet:.*" ; Times: 2
+	Query: "APUS apus" ; Times: 1
+	Query: "genus:Passerina" ; Times: 1
+	Query: "(Synthliboramphus)" ; Times: 1
+	Query: "hirundo rustica" ; Times: 1
+	Query: "specificepithet:melanura genus:Polioptila county:&#34;los angeles&#34;" ; Times: 1
+	Query: "Bucephala" ; Times: 1
+	Query: "Phaethornis longuemareus" ; Times: 2
+	Query: "sturnus vulgaris" ; Times: 1
+	Query: "Florisuga mellivora" ; Times: 1
+	Query: "Agyrtria milleri" ; Times: 1
+	Query: "Colibri delphinae" ; Times: 1
+	Query: "(Brachyramphus)" ; Times: 1
+	Query: "vntype:specimen country:&#34;Canada&#34; (Tetrao)" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "Corvus monedula OR Corvus dauuricus" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Brachyramphus) AND (NOT Ptychoramphus)" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina month &gt;= 5 month &lt;= 8" ; Times: 1
+	Query: "Tympanuchus" ; Times: 1
+	Query: "Sialia" ; Times: 1
+	Query: "Catharus" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Synthliboramphus OR Endomychura) AND (NOT Ptychoramphus)" ; Times: 1
+	Query: "specificepithet:coronata genus:Setophaga year &gt;= 1701 year &lt;= 1901" ; Times: 1
+	Query: "specificepithet:marmoratus genus:brachyramphus" ; Times: 1
+	Query: "genus:Picoides specificepithet:arcticus" ; Times: 1
+	Query: "Gavia immer OR adamsii" ; Times: 1
+	Query: "genus:Eremophila" ; Times: 1
+	Query: "Doryfera johannae" ; Times: 1
+	Query: "specificepithet:arcticus genus:Picoides" ; Times: 1
+	Query: "order:Galliformes" ; Times: 1
+	Query: "sitta pygmaea OR sitta pusilla" ; Times: 1
+	Query: "genus:Calypte" ; Times: 1
+	Query: "Haematopus palliatus OR Haematopus bachmani" ; Times: 1
+	Query: "genus:Hylophilus" ; Times: 1
+	Query: "Passer domesticus" ; Times: 1
+	Query: "vntype:specimen specificepithet:lomvia genus:Uria stateprovince:&#34;Alaska&#34; country:&#34;United States&#34;" ; Times: 1
+
+
+End of report.
